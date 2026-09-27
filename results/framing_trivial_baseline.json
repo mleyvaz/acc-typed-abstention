@@ -1,0 +1,7 @@
+{
+  "baseline": "ausencia de digito en la clausula",
+  "auroc": 0.9946808510638298,
+  "n_discretionary": 94,
+  "n_decidable": 236,
+  "nota": "las clases estan separadas por construccion; comparar todo AUROC contra esto"
+}

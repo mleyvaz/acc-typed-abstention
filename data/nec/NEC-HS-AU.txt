@@ -1,0 +1,2394 @@
+
+Xavier Germán Torres Correa 
+Ministro de Desarrollo Urbano y Vivienda 
+Diego Germán Salazar Lozada 
+Subsecretario de Hábitat y Espacio Público 
+Textos y Edición 
+Ministerio de Desarrollo Urbano y Vivienda (MIDUVI) 
+Abril, 2019 
+
+El Gobierno Nacional, a través del Ministerio de Desarrollo Urbano y Vivienda (MIDUVI), como 
+ente rector en materia de hábitat y asentamientos humanos ha impulsado un cambio estructural 
+en la política habitacional y constructiva en todo el país, con la elaboración de documentos que 
+fomentan el desarrollo ordenado de los asentamientos humanos y el acceso a la vivienda 
+digna. 
+De acuerdo con el Decreto Ejecutivo No. 705 del 24 de marzo de 2011, el MIDUVI coordina el 
+trabajo para la elaboración de la Norma Ecuatoriana de la Construcción (NEC) y preside el 
+Comité Ejecutivo de la NEC, integrado por el Ministerio Coordinador de Seguridad (MICS), 
+eliminado mediante Decreto Ejecutivo No. 7 del 24 de mayo de 2017; el Servicio Nacional de 
+Gestión de Riesgos y Emergencias (SNGRE); la Secretaría de Educación Superior, Ciencia, 
+Tecnología e Innovación (SENESCYT); la Asociación de Municipalidades Ecuatorianas (AME); 
+la Federación Ecuatoriana de Cámaras de la Construcción (FECC) y un representante de las 
+Facultades de Ingeniería de las Universidades y Escuelas Politécnicas.  
+En cumplimiento de lo dispuesto, la NEC actualiza el Código Ecuatoriano de la Construcción, 
+vigente desde el 2001 hasta el 2011, y determina la nueva normativa aplicable para la 
+edificación, estableciendo un conjunto de especificaciones mínimas, organizadas por capítulos 
+dentro de tres ejes de acción: Seguridad Estructural (NEC-SE); Habitabilidad y Salud (NEC-HS) 
+y Servicios Básicos (NEC-SB). Adicionalmente, la NEC incluye la figura de Documentos 
+Reconocidos (NEC-DR) que contiene información complementaria a los capítulos de los tres 
+ejes establecidos.  
+La NEC es de cumplimiento obligatorio a nivel nacional y debe ser considerada en todos los 
+procesos constructivos, como lo indica la Disposición General Décimo Quinta del Código 
+Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD). Se constituye 
+en una normativa que busca la calidad de vida de los ecuatorianos y aporta en la construcción 
+de una cultura de seguridad y prevención; por ello, define los principios básicos para el diseño 
+sismo resistente de las estructuras; establece parámetros mínimos de seguridad y calidad en 
+las edificaciones; optimiza los mecanismos de control y mantenimiento en los procesos 
+constructivos; reduce el consumo y mejora la eficiencia energética de las edificaciones; aboga 
+por el cumplimiento de los principios básicos de habitabilidad y salud; y además fija 
+responsabilidades, obligaciones y derechos de todos los actores involucrados en la 
+construcción.  
+Con la expedición de la Norma Ecuatoriana de la Construcción, el MIDUVI y quienes integran el 
+Comité Ejecutivo  presentan al país este documento como un aporte al buen vivir de todos los 
+ecuatorianos.  
+Ministerio de Desarrollo Urbano y Vivienda 
+■Presentación
+
+En el marco del Eje de Habitabilidad y Salud, se ha desarrollado el capítulo NEC-HS-AU: 
+Accesibilidad Universal, que contempla los requisitos mínimos y características funcionales y 
+constructivas que deben cumplir las edificaciones para que cualquier persona pueda acceder al 
+medio físico; para lo cual el Ministerio de Desarrollo Urbano y Vivienda, a través de la 
+Subsecretaría de Hábitat y Espacio Público, conformó el grupo de trabajo para la elaboración 
+del mencionado capítulo. 
+Este documento ha sido desarrollado por un equipo de trabajo integrado por un grupo de 
+expertos en temas de Accesibilidad Universal, en consenso con entidades públicas, privadas e 
+instituciones de educación superior relacionadas a los procesos de Accesibilidad Universal, 
+para la elaboración y revisión del anteproyecto que dio inicio a este capítulo. 
+■Prólogo
+
+ TABLA DE DATOS 
+NOMBRE 
+FECHA 
+Expedición mediante Acuerdo Ministerial No. 033-16. 
+26 de agosto de 2016 
+Registro Oficial, Año IV, Edición Especial No. 842. 
+19 de enero de 2017 
+Actualización Expedición mediante Acuerdo Ministerial No. 007-19 
+05 de abril de 2019 
+Registro Oficial, Año II, Edición Especial No. 924. 
+20 de mayo de 2019 
+   PERSONAS Y ENTIDADES PARTICIPANTES EN LA REVISIÓN DEL CAPÍTULO 
+INSTITUCIÓN 
+NOMBRE 
+Ministerio de Desarrollo Urbano y Vivienda 
+Carlos Caicedo 
+Ministerio de Desarrollo Urbano y Vivienda 
+Fabricio Zumárraga 
+Ministerio de Desarrollo Urbano y Vivienda 
+Guadalupe Torres 
+Ministerio de Desarrollo Urbano y Vivienda 
+Patricia Ortega 
+Ministerio de Desarrollo Urbano y Vivienda 
+Antonio Orellana 
+Ministerio de Desarrollo Urbano y Vivienda 
+Jenny Arias 
+Consejo Nacional para la Igualdad de Discapacidades 
+Daniel Cueva 
+Federación Nacional de Ecuatorianos con Discapacidad 
+Física 
+Diego Machado 
+Ministerio de Transporte y Obras Públicas 
+Verónica Rivadeneira 
+Ministerio de Transporte y Obras Públicas 
+Magno Rivera 
+Ministerio de Turismo 
+Christian Barrionuevo 
+Ministerio de Turismo 
+Cristina Velasteguí 
+Ministerio de Cultura y Patrimonio 
+Miguel Fernández 
+Ministerio de Educación 
+María Fernanda Reinoso 
+Secretaría del Deporte 
+Alexander Pazmiño 
+Secretaría del Deporte 
+Fausto Segovia 
+Colegio de Arquitectos CAE-P 
+Lucia Miño 
+Secretaría de Territorio, Hábitat y Vivienda del DMQ 
+Sophie Zurita 
+Global Universal Design Commission - Ecuador 
+María Teresa Donoso 
+
+ 
+ACCESIBILIDAD UNIVERSAL (AU) 
+NEC 
+CÓDIGO 
+NEC – HS – AU 
+NORMA ECUATORIANA 
+DE LA CONSTRUCCIÓN 
+
+CONTENIDO 
+1.
+Generalidades ..............................................................................................................9 
+1.1. 
+Referencias Mandatorias ..............................................................................................9 
+1.2. 
+Antecedentes .............................................................................................................. 10 
+1.3. 
+Disposiciones Generales............................................................................................. 10 
+1.4. 
+Estructura del Documento ........................................................................................... 11 
+2.
+Objeto ......................................................................................................................... 12 
+3.
+Campo de aplicación................................................................................................... 12 
+3.1. 
+El estado de la edificación: .......................................................................................... 12 
+3.2. 
+Los usos de los espacios en la edificación: ................................................................. 12 
+3.3. 
+Excepciones ............................................................................................................... 13 
+4.
+Referencias normativas .............................................................................................. 13 
+5.
+Unidades, simbología y abreviaturas ........................................................................... 14 
+5.1. 
+Unidades y forma de medición .................................................................................... 14 
+5.2. 
+Abreviaturas ............................................................................................................... 14 
+6.
+Términos y Definiciones .............................................................................................. 14 
+7.
+Requisitos de accesibilidad al medio físico .................................................................. 18 
+7.1. 
+Áreas de circulación peatonal: Horizontal .................................................................... 18 
+7.2. 
+Áreas de circulación peatonal: Vertical ........................................................................ 21 
+7.3. 
+Delimitadores espaciales ............................................................................................ 27 
+7.4. 
+Espacios y elementos especializados ......................................................................... 28 
+8.
+Anexos ....................................................................................................................... 35 
+8.1. 
+Anexos Técnicos......................................................................................................... 35 
+Anexo 1: Requisitos mínimos de accesibilidad para el mobiliario ............................. 35 
+Anexo 2: Requisitos mínimos de accesibilidad para orientación y señalización .......... 37 
+8.2. 
+Anexo Informativo ....................................................................................................... 38 
+Anexo 1: Recomendaciones generales de diseño .................................................. 38 
+9.
+Bibliografía .................................................................................................................. 41 
+
+ÍNDICE DE TABLAS 
+Tabla 1: Pasillos, corredores y aceras .................................................................................... 18 
+Tabla 2: Cruces y pasos peatonales ....................................................................................... 20 
+Tabla 3: Escaleras y desniveles ............................................................................................. 21 
+Tabla 4: Rampas y vados ....................................................................................................... 23 
+Tabla 5: Ascensores y plataformas elevadoras ....................................................................... 24 
+Tabla 6: Pasamanos .............................................................................................................. 26 
+Tabla 7: Puertas ..................................................................................................................... 27 
+Tabla 8: Superficies transparentes ......................................................................................... 28 
+Tabla 9: Dispositivos accesibles ............................................................................................. 28 
+Tabla 10: Mobiliario urbano .................................................................................................... 29 
+Tabla 11: Estacionamiento preferencial .................................................................................. 30 
+Tabla 12: Espacios especializados: teatros, auditorios, salas de concierto, museos, 
+escenarios deportivos, coliseos, salas de reunión, salas de conferencia, 
+espacios de culto y similares para el fomento del arte, la cultura y el deporte. ....... 31 
+Tabla 13: Servicios higiénicos, cuartos de baño y baterías sanitarias...................................... 32 
+Tabla 14: Elementos de seguridad ......................................................................................... 35 
+Tabla 15: Mobiliario accesible................................................................................................. 35 
+Tabla 16: Mobiliario urbano accesible ..................................................................................... 36 
+Tabla 17: Orientación y señalización ...................................................................................... 37 
+
+9 
+1.
+Generalidades
+1.1. Referencias Mandatorias 
+Mediante Decreto Ejecutivo No. 3970 suscrito el 15 de Julio 1996, se conforma el Comité 
+Ejecutivo del Código Ecuatoriano de la Construcción (CEC), a efectos de su revisión y 
+actualización; derogado mediante Decreto Ejecutivo No. 705, suscrito el 24 de marzo del 2011 
+donde se conforma el Comité Ejecutivo de la Norma Ecuatoriana de la Construcción (NEC), 
+presidido por el Ministerio de Desarrollo Urbano y Vivienda, y encargado de la expedición de 
+los capítulos de la NEC. 
+En tal razón, los capítulos de la NEC se constituyen en documentos normativos de obligatorio 
+cumplimiento a nivel nacional, en amparo de la Disposición General Décimo Quinta de la Ley 
+Orgánica Reformatoria al Código Orgánico de Organización Territorial, Autonomía y 
+Descentralización (COOTAD), publicada el 21 de enero de 2014 en el Suplemento del 
+Registro Oficial N° 166, Artículo 63. 
+En referencia al trabajo y la gestión realizada en el tema de Accesibilidad Universal, se cuenta 
+con un amplio respaldo de mandatos y acuerdos a nivel nacional e internacional, a través de 
+los que se logra su consolidación dentro de la construcción de la política pública. Estos 
+aspectos permiten mantener una visión integral afín a los documentos nacionales e 
+internacionales que afectan la accesibilidad y engloban temas de planes de ordenamiento, 
+normas técnicas, planes parciales y especiales, como ordenanzas de la edificación, servicios, 
+etc., dentro de los que destacan los siguientes: 
+A nivel nacional 
+La Constitución del Ecuador del 2008 de manera particular reconoce a las personas con 
+discapacidad el derecho a una vivienda adecuada, con facilidades de acceso y condiciones 
+necesarias para atender su discapacidad y para procurar el mayor grado de autonomía en su 
+vida cotidiana. Por su parte el Código Orgánico de Organización Territorial COOTAD prevé 
+entre las funciones de los gobiernos autónomos descentralizados en los respectivos niveles, 
+diseñar, impulsar e implementar políticas de promoción y construcción de equidad e inclusión 
+en su territorio (artículos 31,64,84). 
+La Ley Orgánica de Ordenamiento Territorial, Gestión y Uso de Suelo determina entre las 
+facultades del Consejo Técnico, emitir regulaciones nacionales sobre uso y gestión de suelo en 
+cuanto a parámetros para la elaboración de estándares y normativa urbanísticos que 
+establezcan condiciones mínimas para asegurar los derechos a la vida; a la integridad física; a 
+una vivienda adecuada y digna; a la accesibilidad de personas con discapacidad y a los adultos 
+mayores; a un hábitat seguro y saludable; y, a la protección del patrimonio cultural y el paisaje. 
+Entre estos parámetros se considerará obligatoriamente la prevención y mitigación de riesgo y 
+la normativa nacional de construcción. 
+Ley Orgánica de Discapacidades, entre los principios rectores de esta ley se encuentra la 
+accesibilidad, por la que se garantiza el acceso de las personas con discapacidad al entorno 
+físico, al transporte, la información y las comunicaciones; el artículo 56 de esta ley determina 
+que las personas con discapacidad tendrán derecho a una vivienda digna y adecuada a sus 
+necesidades, con las facilidades de acceso y condiciones, que les permita procurar su mayor 
+grado de autonomía.  El artículo 58 de la misma ley prevé la garantía a las personas con 
+discapacidad para la accesibilidad y utilización de bienes y servicios de la sociedad, eliminando 
+barreras que impidan o dificulten su normal desenvolvimiento e integración social. En toda obra 
+pública y privada de acceso público, urbana o rural, deberán preverse accesos, medios de 
+circulación, información e instalaciones adecuadas para personas con discapacidad.  
+A nivel internacional 
+
+ 
+10 
+ 
+La Convención sobre los derechos de las personas con discapacidad de la Organización de las 
+Naciones Unidas (ONU) en su art. 9 determina que: “Accesibilidad – Los Estados Partes deben 
+velar por que los servicios de comunicación e información, el transporte, los edificios y otras 
+estructuras estén diseñados y construidos de forma que las personas con discapacidad puedan 
+utilizarlos, acceder a ellos o alcanzarlos.”  
+ 
+La Nueva Agenda Urbana, Declaración de Quito sobre Ciudades y Asentamientos Humanos 
+Sostenibles para Todos (ONU) en sus numerales 25, 111, 115 y 118. Los Objetivos de 
+Desarrollo Sostenible en su objetivo 11: Conseguir que las ciudades y los asentamientos 
+humanos sean inclusivos, seguros, resilientes y sostenibles. 
+ 
+ 
+1.2. Antecedentes 
+ 
+ 
+Este capítulo normativo ha sido elaborado a través de un proceso de construcción participativa, 
+mediante la contribución de diferentes actores a nivel nacional, entre los que cuentan entidades 
+públicas, privadas, academia, organizaciones de personas con discapacidad, colegios de 
+profesionales, entre otros. 
+ 
+El presente capítulo, en su etapa inicial, fue trabajado por un grupo núcleo, liderado por 
+MIDUVI, y conformado por el Consejo Nacional para la igualdad de Discapacidades 
+(CONADIS) y la Federación Nacional de Ecuatorianos con Discapacidad Física (FENEDIF).  
+ 
+Estas instituciones ratificaron la necesidad de realizar la actualización del presente capítulo 
+normativo, con el objeto de incluir consideraciones adicionales que enriquezcan su contenido 
+técnico, donde se establecen los criterios mínimos para que los entornos físicos, públicos o 
+privados, que brindan un servicio de uso público, sean comprensibles y utilizables por todas las 
+personas, siendo que se constituye en un documento de cumplimiento obligatorio a nivel 
+nacional. 
+ 
+Este capítulo cuenta con el respaldo técnico de las normas NTE INEN sobre accesibilidad al 
+medio físico vigentes, además de los aportes técnicos emitidos por las diferentes instituciones 
+que participaron en este proceso mediante su contribución desde el ámbito de sus 
+competencias, aspecto que ha fortalecido la construcción de este documento normativo. 
+ 
+El documento normativo aquí presentado, tiene como finalidad que toda la población, en 
+especial aquellas personas que forman parte de los grupos de atención prioritaria (mujeres 
+embarazadas, niños menores de 5 años, adultos mayores, personas con discapacidad y en 
+condición discapacitante) puedan acceder a todos los entornos construidos y garantizar su 
+participación equitativa en la sociedad, en igualdad de condiciones. 
+ 
+ 
+1.3. Disposiciones Generales 
+ 
+ 
+El Ministerio de Desarrollo Urbano y Vivienda -MIDUVI-, en virtud de lo dispuesto mediante 
+Decreto Ejecutivo No. 705 del 24 de marzo de 2011, y como ente rector de hábitat y 
+vivienda, preside el Comité Ejecutivo de la Norma Ecuatoriana de la Construcción -NEC-, 
+encargado de la expedición de los capítulos de la NEC. 
+ 
+En ese contexto, todos los capítulos de la NEC expedidos a través de Acuerdo Ministerial, son 
+documentos normativos de obligatorio cumplimiento a nivel nacional, como se indica en la 
+Disposición General Décimo Quinta de la Ley Orgánica Reformatoria al Código 
+Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD), 
+publicada el 21 de enero de 2014 en el Suplemento del Registro Oficial N° 166, Artículo 
+63. 
+ 
+“Los procesos constructivos que inician a partir de la expedición de la presente reforma, 
+
+ 
+11 
+ 
+deberán obligatoriamente cumplir con las normas ecuatorianas de la construcción que el ente 
+rector en materia de hábitat y asentamientos humanos expedirá para el efecto. El alcance 
+específico de su aplicación deberá ser detallado en los capítulos de la misma norma. 
+  
+Los gobiernos autónomos descentralizados municipales o metropolitanos, en atención a 
+consideraciones particulares del cantón, podrán desarrollar normativa técnica adicional y 
+complementaria que regule los procesos constructivos, siempre que el contenido de estas no 
+contravenga ni sea de menor exigibilidad y rigurosidad que los detallados en las normas 
+ecuatorianas de la construcción.” 
+ 
+ 
+1.4. Estructura del Documento 
+ 
+ 
+Este documento normativo, se constituye en uno de los componentes de la Norma Ecuatoriana 
+de la Construcción (NEC), dentro del eje de Habitabilidad y Salud (HS), de ahí sus siglas NEC-
+HS-AU, y se encuentra dirigido a los profesionales, estudiantes, docentes relacionados con el 
+ámbito de la construcción y el público en general que está interesado en conocer la aplicación 
+de estos criterios técnicos dentro de los entornos edificados de uso público. 
+ 
+Desde el punto de vista técnico, el concepto de Accesibilidad Universal, se constituye en la 
+condición que permite que los entornos puedan ser usados en condiciones de seguridad, 
+autonomía y comodidad por el mayor número de personas, independientemente de su 
+condición física, etaria o de género, ya que todos en un determinado momento podemos 
+vernos beneficiados de entornos que permiten su uso de forma sencilla.  
+ 
+En consecuencia, este documento pretende contribuir a la eliminación de barreras que se 
+constituyen en elementos que no permiten la correcta actuación de las personas dentro de la 
+sociedad; y a la generación de espacios pensados en la diversidad humana, que permitan su 
+plena inclusión como individuos que aportan en la construcción de una sociedad igualitaria.  
+ 
+El contenido de este capítulo está organizado de la siguiente manera: 
+ 
+- Del punto 1 al punto 5, se describen generalidades, objeto, campo de aplicación, referencias 
+normativas, unidades, simbología y abreviaturas, donde se mencionan aspectos generales 
+referentes al capítulo para su correcto entendimiento y aplicación.  
+ 
+- En el punto 6, se describen términos y definiciones, que permiten al lector conocer de 
+manera más clara y concreta el significado de las palabras que han sido usadas en el 
+desarrollo del contenido técnico. 
+ 
+- En el punto 7, se describe el contenido técnico del capítulo, que se encuentra organizado en 
+14 tablas, estructuradas de acuerdo al tipo de elemento y su funcionalidad, de manera que 
+permita una identificación clara y sencilla de los criterios técnicos que deben ser 
+considerados en un determinado elemento.  
+ 
+- En el punto 8, se describe los anexos, donde se detallan dos anexos técnicos organizados 
+en 3 tablas, y un anexo informativo que contempla recomendaciones generales de diseño 
+en otros espacios de uso público. 
+ 
+Las tablas contenidas en este capítulo están distribuidas de la siguiente manera:  
+ 
+- Requisitos de Accesibilidad al medio físico, de la tabla 1 a la tabla 14. 
+- Anexo técnico, de la tabla 15 a la tabla 17.  
+ 
+Para usar este documento de manera efectiva se recomienda a los lectores que presten 
+especial atención a lo descrito dentro del Campo de Aplicación, ya que este punto provee 
+información específica sobre donde deben ser aplicados de manera obligatoria los criterios 
+técnicos descritos en el documento. 
+ 
+
+ 
+12 
+ 
+Esperamos que este capítulo normativo se convierta en una herramienta para los profesionales 
+y futuros profesionales relacionados con el ámbito de la construcción, así como para la 
+sociedad en general, que permita la generación de espacios de uso público accesibles para 
+todos los ciudadanos de nuestro país. 
+ 
+ 
+2. 
+Objeto 
+ 
+ 
+El objeto de esta norma es establecer los requisitos técnicos de diseño, mínimos, que 
+corresponden a las características básicas de uso y ocupación de los elementos y espacios del 
+medio físico, para permitir la accesibilidad universal de todas las personas en los entornos 
+construidos y futuras construcciones, sean estas públicas o privadas, que presten un servicio 
+y/o acceso al público. 
+ 
+ 
+3. 
+Campo de aplicación 
+ 
+ 
+Esta norma es de aplicación obligatoria a nivel nacional, en los procesos de planificación, 
+diseño, remodelación, rehabilitación y construcción de todos los entornos y edificaciones con 
+acceso al público independientemente del dominio de la propiedad y aplicados a todos los 
+elementos y espacios internos y externos a la edificación, dentro de los límites del predio en el 
+que se sitúan, en los cuales existan:  
+ 
+a) puntos de concentración y/o distribución de personas, en espacios de uso público, 
+de uso comunal, entre otros; y/o, 
+ 
+b) flujos de usuarios externos a la edificación o al entorno construido, el cual provee 
+un bien, producto o servicio al público;  
+ 
+ 
+Considerando:  
+ 
+3.1. El estado de la edificación: 
+ 
+ 
+• 
+Para edificaciones nuevas. 
+• 
+Para las edificaciones existentes ya regularizadas, en las cuales la aplicación de esta 
+norma será definida por la entidad reguladora competente a nivel local. 
+• 
+Para aquellas edificaciones existentes cuyas remodelaciones y/o rehabilitaciones 
+impliquen el cambio total o parcial en el uso de la edificación, destinado (s) para uso 
+público. 
+ 
+ 
+3.2. Los usos de los espacios en la edificación: 
+ 
+  
+• 
+Para espacios de uso público en los que existe una condición de uso restringido o 
+condicionado establecido en reglamentos internos. 
+• 
+Para espacios de uso comunal entendidos como aquellos que son de uso de 
+copropietarios de la edificación. 
+• 
+Para espacios privados con prestación de servicios públicos y/o de concurrencia 
+masiva (centros comerciales, de convenciones, clínicas privadas, espacios de culto, 
+museos, recintos feriales, entre otros) 
+ 
+ 
+
+ 
+13 
+ 
+3.3. Excepciones 
+ 
+ 
+• 
+Cuando las condiciones de la edificación respecto de su carácter patrimonial, función 
+específica, configuración espacial u otros de carácter restrictivo, dificulten o 
+directamente impidan la aplicación de las especificaciones descritas en el presente 
+capítulo, por criterios técnicos o limitaciones espaciales. En estos casos se deberá 
+realizar un estudio de condiciones de accesibilidad y plantear soluciones alternativas 
+justificadas mediante informes técnicos realizados por profesionales con conocimiento 
+en Accesibilidad Universal. 
+ 
+  
+4. 
+Referencias normativas 
+ 
+ 
+Las siguientes normas, en su totalidad o en parte, son referidas en el presente documento 
+como complementos técnicos e informativos. Para referencias sin fecha, aplica la última edición 
+del documento incluyendo cualquier enmienda. 
+ 
+• 
+NTE INEN 2240 “Accesibilidad de las Personas al Medio Físico. Símbolo Gráfico. 
+Características Generales”.  
+• 
+NTE INEN 2239 “Accesibilidad de las Personas al Medio Físico. Señalización. 
+Requisitos y clasificación.” 
+• 
+NTE INEN 2243 “Accesibilidad de las Personas al Medio Físico. Vías de circulación 
+peatonal.” 
+• 
+NTE INEN 2244 “Accesibilidad de las personas al medio físico. Bordillos y 
+Pasamanos”. 
+• 
+NTE INEN 2245 “Accesibilidad de las personas al medio físico. Rampas” 
+• 
+NTE INEN 2246 “Accesibilidad de las personas al medio físico. Cruces peatonales a 
+nivel y a desnivel”. 
+• 
+NTE INEN 2247 “Accesibilidad de las personas al medio físico. Corredores y pasillos” 
+• 
+NTE INEN 2248 “Accesibilidad de las personas al medio físico. Estacionamientos” 
+• 
+NTE INEN 2249 “Accesibilidad de las personas al medio físico. Escaleras” 
+• 
+NTE INEN 2293 “Accesibilidad de las personas al medio físico. Servicios higiénicos, 
+cuartos de baño y baterías sanitarias. Requisitos” 
+• 
+NTE INEN 2849-1 “Accesibilidad de las personas al medio físico. Criterios DALCO para 
+facilitar la accesibilidad al entorno” 
+• 
+NTE INEN 2850 “Requisitos de Accesibilidad para la Rotulación” 
+• 
+NTE INEN 2854 “Accesibilidad de las personas al medio físico. Señalización para 
+personas con discapacidad visual en espacios urbanos y en edificios con acceso al 
+público. Señalización en Pisos y Planos Hápticos”. 
+• 
+NTE INEN 2855 “Accesibilidad de las personas al medio físico. Vados y Rebajes de 
+Cordón”. 
+• 
+NTE INEN 3082 “Aparatos sanitarios. Requisitos y métodos de ensayo” 
+• 
+NTE INEN 3139 “Accesibilidad de las personas al medio físico. Circulaciones 
+verticales. Ascensores” 
+• 
+RTE INEN 004-2:2011 “Señalización Vial. Parte 2: Señalización horizontal” 
+• 
+NTE INEN 2309 “Accesibilidad de las personas al medio físico. Puertas”. 
+• 
+NTE INEN 1604 “Urbanización. Terminología” 
+• 
+NTE INEN 2314 “Accesibilidad de las personas al medio físico. Elementos urbanos” 
+• 
+NTE INEN 2315 “Accesibilidad de las personas al medio físico. Terminología” 
+• 
+NTE INEN 3029 “Equipamiento de las superficies de juegos y áreas recreativas” 
+• 
+NTE INEN 3081 “Revestimientos de las superficies de juegos y áreas recreativas” 
+• 
+NTE INEN 3082 “Aparatos sanitarios. Requisitos y métodos de ensayo” 
+• 
+NTE INEN 3141 “Accesibilidad de las personas al medio físico. Dormitorios y 
+habitaciones accesibles. Requisitos” 
+• 
+NTE INEN 3142 “Accesibilidad de las personas al medio físico. ventanas. Requisitos” 
+• 
+NTE INEN ISO 21542 “Edificación. Accesibilidad del Entorno Construido”.  
+
+ 
+14 
+ 
+5. 
+Unidades, simbología y abreviaturas 
+ 
+ 
+5.1. Unidades y forma de medición 
+ 
+ 
+Se emplearán las unidades del sistema internacional de medidas (S.I.) de acuerdo con la 
+Norma ISO 1000. Se utilizarán las siguientes unidades:  
+ 
+• 
+Para alturas y longitudes: m (metro) y mm (milímetro) 
+• 
+Para pendientes o planos inclinados: % (porcentaje) 
+ 
+Para todas las superficies que se describen a continuación, la relación de sus medidas está 
+dada por: ancho (mm) x profundidad (mm). Así mismo, todas las medidas correspondientes a la 
+altura, deberán ser contadas desde la superficie del piso o pavimento terminado. 
+ 
+ 
+5.2. Abreviaturas 
+ 
+ 
+NTE INEN: Norma técnica ecuatoriana del Servicio Ecuatoriana de Normalización. 
+RTE INEN: Reglamento técnico ecuatoriano del Servicio Ecuatoriana de Normalización. 
+NTE INEN ISO: Norma técnica ecuatoriana del Servicio Ecuatoriana de Normalización basada 
+en una norma ISO.  
+ISO: 
+International 
+Organization 
+for 
+Standardization 
+(Organización 
+Internacional 
+de 
+Normalización) 
+ 
+ 
+6. 
+Términos y Definiciones 
+ 
+ 
+Accesibilidad al medio físico: Cualidad del entorno construido, edificaciones o parte de ellas 
+que permite a todas las personas el acceso y uso en igualdad de condiciones con seguridad y 
+autonomía. 
+Accesibilidad universal: Condición que deben cumplir los entornos, procesos, bienes, 
+productos y servicios, así como los objetos o instrumentos, herramientas y dispositivos, para 
+ser comprensibles, utilizables y practicables por todas las personas en condiciones de 
+seguridad y comodidad, y de la forma más autónoma y natural posible. 
+Acera: Área, carril, vía, entre otros, destinada para el tránsito de peatones, localizada en la 
+calle u otro espacio de uso público. 
+Achurado: Superficie que posee un patrón de sombreado, basado en la repetición de trazos o 
+líneas rectas, continuas y paralelas, las cuales las cuales dan percepción de textura, cercanía, 
+lejanía y pendiente, en base a su separación, grosor y color. 
+ 
+Altorrelieve: Tipo de relieve en el que las figuras o caracteres salen del plano respecto al que 
+están impresas en más de la mitad de su volumen o grueso principal.  
+Altura libre de paso: Distancia vertical libre de obstáculos que permite una movilidad peatonal 
+fluida, en espacios arquitectónicos y urbanos como aceras, pasillos, puertas corredores, 
+senderos, vías, carriles, entre otros.  
+ 
+Área de circulación: Espacio determinado o destinado para el tránsito peatonal. Debe tener el 
+ancho suficiente  para permitir una movilidad peatonal fluida libre de obstáculos donde el 
+material de la superficie es firme, antideslizante y libre de piezas sueltas. Entre ellas podemos 
+encontrar aceras, pasillos, corredores, senderos, vías, carriles, entre otros. 
+
+ 
+15 
+ 
+Ascensor: Sistema de transporte vertical, diseñado para mover personas entre los diferentes 
+niveles de un edificio o de una estructura. 
+Banda podotáctil de prevención: Elemento de señalización en alto relieve a través de 
+cilindros o cúpulas, en pisos interiores y exteriores, que indica la existencia de un cambio de 
+nivel en circulaciones peatonales, borde de vados en su límite con la calzada o acera, el 
+acceso a circulaciones verticales fijas y mecanismos de circulación vertical y en el caso de la 
+presencia de desniveles infranqueables, y límites de áreas restringidas por seguridad, cambios 
+de direcciones de la franja guía, el ingreso peatonal principal a una edificación y la existencia 
+de paradas de vehículos de transporte público, obstáculos, elementos urbanos. 
+Banda podotáctil guía: Elemento de señalización en alto relieve a través de líneas o canales 
+en pisos interiores y exteriores, que indica la dirección de un recorrido.  
+Barandilla: Elemento  adecuadamente afianzado instalado a lo largo de los bordes expuestos 
+de un andamio, escalera, circulaciones peatonales, entre otros, que tiene por objeto proteger 
+contra los riesgos de caída fortuita al vacío de personas trabajando o circulando junto al mismo; 
+o cuando se desea impedir el paso a un sitio de acceso restringido. 
+Barreras Arquitectónicas: Cualquier impedimento, traba u obstáculo físico que limite o impida 
+el acceso, la libertad de movimiento, la estancia y la circulación con seguridad de las personas 
+en el medio físico. 
+Bocel: Moldura convexa lisa, de sección semicircular y a veces elíptica. Generalmente se 
+coloca como resalto al inicio de la huella de un peldaño que sobresale sobre la contrahuella. 
+Bolardo: Pieza o elemento vertical de mobiliario urbano cuya función es impedir el paso o 
+acceso vehicular a áreas de circulación restringida, pueden ser fijos o móviles, temporales o 
+definitivos. 
+Bordillo: Faja continua que forma el borde de una acera, de un andén o similares (rampas, 
+escalones, entre otros). Cuando cumplen una función de seguridad como límite en un cambio 
+de nivel o como tope de bastón, sobresalen del nivel de piso terminado. 
+Botonera: Dispositivo que permite actuar sobre un mecanismo o aparato para iniciar, 
+suspender o regular su funcionamiento. 
+Cadena de Accesibilidad: Es el conjunto de elementos que, organizados de manera 
+secuencial y lógica, permiten realizar el proceso de interacción del usuario con el entorno 
+construido. 
+Calzada: Área de la vía pública comprendida entre los bordes de caminos, bermas o 
+espaldones, bordillos y/o aceras, destinada a la circulación de vehículos. 
+Chaflán: Plano inclinado que corta la esquina en la cual convergen y se unen dos superficies 
+planas, para evitar ángulos a 90°. 
+Contraste: Oposición en las características de elementos. Puede ser visual (luz y sombra; 
+claro y oscuro), táctil (liso y rugoso), auditivo (agudo, grave y resonante). 
+Contrahuella: La distancia vertical entre huellas consecutivas o entre el descanso y el 
+siguiente escalón. 
+Corredor (pasillo): Espacios de circulación horizontal que comunica diferentes áreas de una 
+edificación; sus dimensiones se ajustan a las condiciones de uso y en su recorrido no deben 
+existir obstáculos que afecten a la circulación. 
+Cruce cebra: Señalización que delimita una zona de la calzada donde el peatón tiene derecho 
+de paso en forma irrestricta. Está constituida por bandas paralelas al eje de calzada de color 
+blanco. 
+
+ 
+16 
+ 
+Cruces peatonales: Área de paso en la superficie de una calzada, entre dos aceras, mesetas 
+de refugio peatonales, parterres, entre otros, utilizadas por los peatones para cruzar vías 
+vehiculares. 
+Cuarto de baño adaptado y baterías sanitarias: Áreas destinadas para el aseo personal o 
+para satisfacer una determinada necesidad biológica. Posee una configuración espacial 
+especializada, en la cual se encuentran piezas sanitarias, elementos de apoyo y asistencia. 
+Espacialmente puede ser parte de una batería sanitaria o puede estar individualizado.  
+Desnivel: Diferencia de altura entre dos o más puntos o superficies. 
+Discapacidad: se considera persona con discapacidad a toda aquella que, como 
+consecuencia de una o más deficiencias, físicas, mentales, intelectuales o sensoriales, con 
+independencia de la causa que la hubiera originado, ve restringida permanentemente su 
+capacidad biológica, psicológica y asociativa para ejercer una o más actividades de la vida 
+diaria. 
+Edificaciones de instituciones públicas: Son los edificios destinados a la prestación de 
+servicios públicos por entidades públicas sean estos: comercios o equipamientos.   
+Edificaciones con acceso al público: Son los edificios públicos o privados, que prestan 
+servicios o son visitados por público en general. 
+Elemento: Cada uno de los componentes o unidades mínimas de un conjunto arquitectónico o 
+urbano. Se pueden considerar objetos o partes de un espacio, por ejemplo: inodoro, barandilla, 
+escalera. 
+Escaleras: Conjunto de tres o más peldaños que solventan un cambio de nivel. 
+Espacio de maniobra: Área mínima necesaria dentro de la cual se puede completar las 
+maniobras adecuadas para acceder a una instalación, componente o accesorio específicos, en 
+particular mientras se utiliza una silla de ruedas u otra ayuda para caminar.  
+Espacios: Conjunto arquitectónico o urbano, el cual se encuentra compuesto por varios 
+elementos móviles y fijos. 
+Franja Contrastante: cintas o elementos que dispuestos de forma horizontal y/o vertical, sobre 
+una superficie acristalada como puertas, ventanas, mamparas y otras, generan un punto de 
+referencia o contraste visual que indica la presencia de dicha superficie, especialmente cuando 
+son transparentes y su percepción es difícil.  
+   
+Huella: Superficie horizontal de un escalón donde se apoya el pie. 
+Indicador visual en escaleras: Elementos físicos que, colocados en la contrahuella de un 
+peldaño, crean señales visuales de alto contraste cromático que marca la presencia del 
+peldaño. 
+ 
+Itinerario accesible: Es la parte del espacio destinado al tránsito de los peatones de forma 
+continua y sin interrupciones, de forma que, independientemente de las dimensiones de cada 
+ámbito o de su función, garantiza que haya una banda libre de paso mínima y una cierta 
+claridad y racionalidad en la ordenación de los elementos próximos. 
+ 
+Movilidad reducida: Condición limitada que presentan algunas personas en su capacidad de 
+relacionarse con el entorno de manera permanente o temporal. 
+ 
+Palo seco: Tipografía cuyos caracteres sean fáciles de leer, de trazos uniformes y carecen de 
+remates o adornos en sus extremos. 
+Pasamanos: Elemento continuo de sujeción paralelo al piso que facilita la movilidad de las 
+personas proporcionando guía, equilibrio, apoyo y seguridad. 
+
+ 
+17 
+ 
+Pasos peatonales: Área de paso sobre o bajo una vía de circulación vehicular, utilizada por los 
+peatones para cruzar de forma segura, de un extremo al otro de la calle. 
+Pictograma: Representación icónica de una información. Tiene por objetivo sustituir un texto 
+por una imagen asociada a su significado. Permite informar, de modo inmediato y por medio de 
+elementos simples, a un público heterogéneo, manteniendo un lenguaje universal para superar 
+barreras idiomáticas, culturales y cognitivas. 
+Piscina recreativa: Depósito artificial de agua de diferentes formas y medidas, destinado al 
+ocio.  
+Podotáctil: Característica de una superficie (piso o pavimento), relacionada con su relieve, que 
+es percibida por una persona al pisar sobre ella. Puede ser identificada también a través del 
+uso del bastón de ayuda para el desplazamiento. 
+Plataforma Elevadora: Dispositivo electromecánico instalado permanentemente para salvar la 
+altura entre dos niveles o superficies de tránsito, constituido por una plataforma guiada cuyas 
+dimensiones y características de diseño que permiten el acceso de personas con discapacidad 
+o con movilidad reducida. Difiere de un ascensor. 
+ 
+Puerta: Elementos usados en las edificaciones, cuya función es la de abrir, cerrar el paso y 
+acceder a viviendas, inmuebles y edificaciones en general; y entre estas, aislar y comunicar los 
+ambientes. 
+ 
+Puerta abatible: Puertas que tienen una hoja rígida de apertura en un solo sentido por rotación 
+alrededor de un eje vertical situado en uno de los largueros. Pueden ser de apertura derecha o 
+izquierda según giren en el sentido de las agujas del reloj o en sentido contrario, 
+respectivamente. 
+ 
+Puertas corredizas: Puertas que tienen una o varias hojas rígidas de apertura con traslación 
+horizontal en un plano. Pueden ir entre tabiques, muros o adosadas a estos. 
+ 
+Puertas automáticas: Puertas que funcionan con un sistema de accionamiento automático, 
+que puede ser por conmutador eléctrico, radar, rayos infrarrojos, entre otros. 
+ 
+Puerta exterior principal: Puertas de todo entorno construido o edificación que permiten al 
+usuario acceder desde la calle. 
+ 
+Puerta interior: Puertas ubicadas dentro de una edificación para comunicar entre sí los 
+diferentes ambientes. 
+ 
+Pulsador: Botón electromecánico que permite accionar diferentes elementos como, puerta 
+automática,  semáforo peatonal, alarmas de emergencia, entre otros. 
+ 
+Rampa: Elemento formado por un plano inclinado que tiene una pendiente respecto a la 
+horizontal, así como por todos los descansos, que permite salvar desniveles. 
+ 
+Tope de seguridad: Elemento de límite espacial lateral, a nivel de piso o cerca de él, ubicado 
+en toda la longitud de rampas, escaleras, y elementos especializados, para que las personas 
+con discapacidad visual identifiquen el recorrido. 
+Tramo de escalera: Conjunto de peldaños continuos que se encuentran entre descansos, 
+inicio y fin de la escalera. 
+Señalización: Conjuntos de elementos que indican una información específica que puede ser 
+visual, táctil o audible, respecto de la denominación de un espacio y/o informan de la dirección 
+a seguir para llegar a un lugar determinado o describen los usos de los espacios. 
+Sistema Braille: Sistema de lecto-escritura que utiliza puntos en relieve sobre la superficie de 
+un determinado material; los símbolos, signos, números y letras que utiliza una lengua se 
+
+ 
+18 
+ 
+representan a través de un signo generador, organizado de diferentes formas en una matriz 
+rectangular de seis puntos denominada celda. 
+Superficies acristaladas: Panel o tabique de vidrio, que sirve para dividir, aislar un espacio, y 
+mantener una relación visual entre el interior y exterior de un espacio. 
+Vado: Elemento conformado por planos inclinados que unen dos superficies a diferente nivel 
+para asegurar la continuidad de la circulación de todas las personas, independientemente de 
+su condición o discapacidad. Facilita la circulación peatonal permitiendo el cruce de las 
+calzadas destinadas a circulación de vehículos, garantiza la continuidad entre dos áreas del 
+mismo o diferente nivel. 
+Vaso de piscina: estructura que contiene el agua. 
+Ventana: Elemento que se coloca en un vano abierto en un muro o pared que sirve para mirar, 
+dar luz y/o ventilación. 
+Vestuario Accesible: Lugar o espacio cubierto y cerrado que se utiliza para cambiarse de 
+ropa, que cuenta con los elementos necesarios para permitir su acceso y uso por personas con 
+discapacidad y movilidad reducida. 
+Zona de rescate asistido: Espacio de un edificio adyacente a un recorrido principal de 
+evacuación vertical y/o horizontal, que permite que las personas puedan concentrarse y 
+esperar, de forma segura y por un tiempo determinado, la llegada de asistencia o ayuda para el 
+rescate en casos de emergencia. 
+ 
+ 
+7. 
+Requisitos de accesibilidad al medio físico 
+ 
+ 
+En esta norma se referencian los requisitos mínimos y/o máximos indicados en las Normas 
+Técnicas Ecuatorianas (NTE INEN) sobre accesibilidad de las personas al medio físico y 
+algunos establecidos en normas afines.  
+ 
+En aquellos casos en que no se describan los requisitos mínimos de accesibilidad para un 
+elemento en particular se debe remitir al elemento similar encontrado en la normativa vigente. 
+Si el elemento no posee similares, se debe remitir a la normativa vigente nacional y/o 
+internacional correspondiente para determinar las características mínimas accesibles.  
+ 
+Se deben aplicar los requisitos mínimos y/o máximos de accesibilidad en todos los elementos y 
+espacios descritos en las siguientes categorías: 
+ 
+ 
+7.1. Áreas de circulación peatonal: Horizontal 
+ 
+ 
+Tabla 1: Pasillos, corredores y aceras   
+ 
+Contemplan todas aquellas áreas diseñadas específicamente para el desplazamiento de las 
+personas entre dos o más espacios. 
+ 
+PASILLOS, CORREDORES Y ACERAS 
+Parámetros generales 
+Especificaciones técnicas 
+mínimos / máximos accesibles 
+1 
+ 
+Características Generales 
+Ancho mínimo de circulación, libre de obstáculos, 
+igual a 1 200 mm. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 2247. 
+
+ 
+19 
+ 
+Cuando se prevé la circulación simultánea, de dos 
+sillas de ruedas, dos personas con andador, dos 
+coches de bebés, dos coches livianos de transporte 
+de objetos o sus combinaciones, el ancho mínimo 
+libre 
+de 
+obstáculos 
+será 
+1 
+800 
+mm. 
+Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2247. 
+Para giros en silla de ruedas, superficie de diámetro 
+mínimo, igual a 1 500 mm libre de obstáculos.  
+2 Superficies 
+Antideslizante en seco y mojado. 
+Material resistente y estable a las condiciones de uso 
+del material. 
+Libre de piezas sueltas y de irregularidades debidas 
+al uso de material con defectos de fabricación y/o 
+colocación. 
+Para edificaciones con acceso al público: 
+Banda podotáctil de prevención en cambios de nivel 
+(al inicio y al final de rampas y/o escaleras), ingresos 
+principales a los edificios (de existir, en el counter de 
+recepción),  frente a los ascensores, y la presencia 
+de elementos que impliquen riesgos u obstáculos 
+que se encuentren ubicados en las áreas de 
+circulación peatonal. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 2854. 
+Para edificaciones con acceso al público: Banda 
+podotáctil guía para marcar la dirección de los 
+recorridos en las circulaciones principales. Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2854. 
+Separación máxima de las juntas de unión de 
+materiales en acabado igual a 20 mm. 
+ACERAS 
+3 Bordillos 
+Acabado superficial de color contrastante con la 
+acera y calzada. 
+4 Dimensiones 
+Altura máxima de desnivel entre acera y calzada 
+igual a 200 mm. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 2855. 
+Pendiente transversal máxima del 2 %. 
+5 Obstáculos 
+Altura mínima de paso, libre de obstáculos, igual a 
+2200 mm en espacios exteriores.  
+6 Rejillas de drenaje 
+Separación máxima de los orificios de la rejilla, igual 
+a 13 mm. Para especificaciones técnicas adicionales, 
+remitirse a la NTE INEN 2246. 
+PASILLOS Y CORREDORES 
+1 Obstáculos 
+Altura mínima de paso, libre de obstáculos, igual a 
+2100 mm en espacios interiores (La altura mínima de 
+paso en puertas debe regirse según especificaciones 
+técnicas de la NTE INEN 2309). 
+
+ 
+20 
+ 
+Tabla 2: Cruces y pasos peatonales  
+ 
+Los requerimientos se aplican a los elementos dentro de la propiedad de dominio privado. Para 
+especificaciones técnicas adicionales, remitirse a la NTE INEN 2246. 
+ 
+CRUCES Y PASOS PEATONALES 
+Parámetros generales 
+Especificaciones técnicas 
+1 Dimensiones 
+Ancho mínimo de circulación, libre de obstáculos, 
+igual a 1 500 mm. 
+Cuando se prevé la circulación simultánea, en 
+distinto sentido, de dos sillas de ruedas, dos 
+personas con andador, dos coches de bebés, dos 
+coches livianos de transporte de objetos o sus 
+combinaciones, el ancho mínimo libre de obstáculos 
+será 1 800 mm. 
+Refugio peatonal: Si existe entre dos calzadas 
+vehiculares un parterre vial, se debe disponer de un 
+espacio con un ancho y longitud mínimos de 1 200 
+mm, con pendiente no mayor al 2 % en cualquiera 
+de las direcciones. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 2246. 
+2 Vados o rebajes 
+Ubicados al inicio y final de cada cruce peatonal en 
+donde exista desnivel entre acera y calzada. Para 
+especificaciones técnicas adicionales remitirse a la 
+NTE INEN 2855. 
+Debe estar señalizado con bandas podotáctiles, 
+guía y de prevención conforme a la NTE INEN 2854. 
+3 Superficie 
+Antideslizante en seco y mojado. 
+Libre de piezas sueltas y de irregularidades debidas 
+al uso de material con defectos de fabricación y/o 
+colocación. 
+4 Señalización horizontal 
+Señalizado en su totalidad, líneas tipo "cebra" en los 
+cruces peatonales sin semáforo.  De ser el caso, 
+señalizado en su totalidad con dos líneas paralelas 
+perpendiculares a la acera (se recomienda el uso de 
+pictograma del peatón y flechas direccionales) si 
+hay semáforo. 
+Color contrastante con la superficie del piso y del 
+entorno. Para especificaciones técnicas remitirse al 
+Reglamento Técnico RTE INEN 004-2:2011. 
+PASOS PEATONALES A DESNIVEL: ELEVADOS / DEPRIMIDOS 
+1 Dimensiones 
+Ancho mínimo de circulación, libre de obstáculos, 
+igual a 1 500 mm. 
+El acceso al puente se realizará mediante rampas, 
+de acuerdo a las especificaciones técnicas de la 
+NTE INEN 2245. En los sitios donde el espacio no 
+permita el desarrollo correcto de la rampa, se deben 
+
+ 
+21 
+ 
+implementar mecanismos verticales de acceso, 
+como: ascensores, elevadores o similares. 
+2 Superficie 
+Antideslizante en seco y mojado. 
+Libre de piezas sueltas y de irregularidades debidas 
+al uso de material con defectos de fabricación y/o 
+colocación. 
+Para edificaciones con acceso al público: 
+Banda podotáctil de prevención en cambios de nivel 
+(al inicio y al final de rampas y/o escaleras), 
+ingresos principales y elementos que impliquen 
+riesgos en el itinerario peatonal accesible. Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2854. 
+ 
+ 
+7.2. Áreas de circulación peatonal: Vertical  
+ 
+ 
+Tabla 3: Escaleras y desniveles 
+ 
+Contempla todos los criterios mínimos que deben cumplir los elementos de circulación peatonal 
+vertical dentro de las edificaciones con acceso al público, de forma que se garantice la 
+movilidad segura de las personas. 
+ 
+ESCALERAS Y DESNIVELES 
+Parámetros generales 
+Especificaciones técnicas 
+1 Dimensiones generales 
+Longitud mínima de la huella igual a 280 mm. 
+Altura máxima de la contrahuella igual a 180 mm. 
+Ancho mínimo de circulación, libre de obstáculos 
+medido entre los pasamanos igual a 1 200 mm. 
+Altura mínima de paso, libre de obstáculos, igual a  
+2 100 mm en espacios interiores y 2 200 mm en 
+espacios exteriores. 
+2 Escaleras curvas y espiral 
+Pasamano interior continuo colocado paralelo a la 
+huella en el punto que la profundidad de la misma 
+es igual o mayor a 220 mm. 
+3 Bocel 
+Todos los peldaños sin bocel. 
+4 Señalización 
+Señalización direccional que indique los puntos de 
+entrada y salida a la edificación, incluyendo 
+información en sistema Braille (en español). Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2850. 
+Señalización informativa del número de planta al 
+ingreso del elemento, incluyendo información en 
+sistema Braille (en español). Para especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 2850. 
+DESNIVELES EN LAS ENTRADAS 
+
+ 
+22 
+ 
+1 Dimensiones   
+Cuando exista un desnivel, entre dos superficies de 
+tránsito el escalón debe estar achaflanado a 45° en 
+caso de tener una altura máxima a 20 mm y tener 
+diferencia de color en relación con el suelo. 
+ESCALERAS (HASTA DOS ESCALONES) 
+1 Topes de seguridad 
+Los bordes laterales deben tener una altura igual o 
+superior a 100 mm. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 2244. 
+ESCALERAS (MAYOR A DOS ESCALONES) 
+1 Pasamanos 
+Pasamanos continuo en ambos lados del tramo de 
+escaleras. 
+Pasamanos central continuo, en escalera igual o 
+superior a 2 700 mm de ancho de circulación libre 
+de obstáculos. 
+Pasamanos en desniveles superiores a 200 mm a 
+doble altura: pasamanos superior entre 850 – 950 
+mm y pasamanos inferior entre 600 – 750 mm 
+desde el nivel del piso terminado.  Y en caso de no 
+tener bordillo, un tercer pasamano a 300 mm del 
+nivel del piso terminado. Para especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 2244. 
+2 Tramos 
+Conjunto de peldaños sin descanso en el interior y 
+exterior 
+de 
+la 
+edificación 
+de 
+máximo 
+10 
+contrahuellas. 
+3 Descanso 
+Igual o superior al ancho de circulación libre del 
+tramo de escaleras y una profundidad mínima de 1 
+200 mm libre de obstáculos. 
+ 
+  
+ADVERTENCIAS VISUALES Y TÀCTILES 
+1 Franjas o bordes antideslizantes 
+Todos peldaños deben poseer bordillos o franjas 
+antideslizantes en sus filos, en todo el ancho de la 
+grada, a excepción de aquellos materiales de 
+textura rugosa (por ejemplo adoquines, acabados 
+tipo hormigón). 
+2 Indicadores visuales 
+Cintas entre 50 - 100 mm de ancho, colocados en 
+toda la longitud del primer y último peldaño; o cintas 
+entre 40 - 50 mm de ancho, colocados en toda la 
+longitud de todos sus peldaños, o, acanaladuras de 
+máximo 25 mm de ancho con una profundidad de 
+entre 2 mm a 5 mm ± 1 mm y una separación 
+máxima de 25 mm. 
+3 Superficie 
+Para edificaciones con acceso al público: 
+Banda podotáctil de prevención en cambios de nivel 
+(al inicio y al final de escaleras), ingresos principales 
+y elementos que impliquen riesgos en el itinerario 
+peatonal accesible. Para especificaciones técnicas, 
+remitirse a la NTE INEN 2854 y NTE INEN 2249. 
+ 
+
+ 
+23 
+ 
+Tabla 4: Rampas y vados 
+ 
+Hace referencia a los requisitos técnicos mínimos que deben cumplir estos elementos, dentro 
+de las edificaciones con acceso al público y aquellos espacios externos de uso comunal. 
+ 
+RAMPAS Y VADOS 
+Parámetros generales 
+Especificaciones técnicas 
+1 Superficie 
+Antideslizante en seco y mojado. 
+Material resistente y estable a las condiciones de 
+uso del elemento. 
+Libre de piezas sueltas y de irregularidades debidas 
+al uso de materiales con defectos de fabricación y/o 
+colocación. 
+Para edificaciones con acceso al público: 
+Banda podotáctil de prevención en cambios de nivel 
+(rampas), ingresos principales y elementos que 
+impliquen riesgos que se encuentren en áreas de 
+circulación peatonal. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 2854. 
+2 Dimensiones en rampas 
+Ancho mínimo de circulación, libre de obstáculos 
+medido entre los pasamanos, igual a 1 200 mm. 
+Pendiente máxima transversal 2 %. 
+3 Espacio de maniobra 
+Superficie mínima de giro al inicio y final de la 
+rampa, de diámetro igual a 1 500 mm, libre de 
+obstáculos. 
+4 Bordillos y/o pasamanos 
+Bordillo en desniveles de hasta 200 mm, con una 
+altura igual o superior a 100 mm. 
+Pasamanos en desniveles superiores a 200 mm a 
+doble altura: pasamanos superior entre 850 – 950 
+mm y pasamanos inferior entre 600 – 750 mm 
+desde el nivel del piso terminado.  Y en caso de no 
+tener bordillo, un tercer pasamano a 300 mm del 
+nivel del piso terminado. Para especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 2244. 
+Ubicados en ambos lados de la rampa. 
+RAMPAS EN EDIFICACIONES EXISTENTES (con limitaciones de espacio) 
+1 Dimensiones   
+Pendiente máxima igual a 12%. 
+Longitud máxima del tramo igual a 3 000 mm. 
+RAMPAS EN EDIFICACIONES NUEVAS Y EXISTENTES (sin limitaciones de espacio) 
+1 Dimensiones 
+Longitud máxima del tramo igual a 2 000 mm con 
+pendiente máxima igual a 12%. 
+Longitud máxima del tramo igual a 10 000 mm con 
+pendiente máxima igual a 8% (superior a 10 000 
+mm 
+se 
+requiere 
+implementar 
+descansos 
+intermedios). 
+
+ 
+24 
+ 
+2 Descanso 
+Ancho igual o superior al ancho de circulación, libre 
+de obstáculos del tramo de la rampa, mínimo 1 200 
+mm x 1 500 mm. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 2245. 
+Espacio de circulación libre de obstáculos como la 
+proyección de elementos a una altura inferior a 2 
+100 mm en espacios interiores y 2 200 mm en 
+espacios exteriores y el abatimiento de puertas y/o 
+ventanas adyacentes. 
+BORDILLOS 
+1 Dimensiones 
+ Altura 
+igual 
+o 
+superior 
+a 
+100 
+mm. 
+Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2244. 
+VADOS 
+1 Superficie 
+En la acera donde exista la presencia de un vado 
+vehicular se colocará la banda podotáctil de 
+prevención en el límite entre la acera y el vado 
+vehicular, con un ancho mínimo de 400 mm, en todo 
+el largo del vado. 
+Pavimento de material resistente, textura y color 
+diferente al de las circulaciones y recorridos 
+peatonales, contrastando con el material de la 
+calzada. 
+No deben tener pasamanos, ni bordillos laterales. 
+2 Dimensiones 
+El vado peatonal tendrá un ancho mínimo de 
+circulación, libre de obstáculos, igual a 1 500 mm. 
+Para especificaciones técnicas adicionales, remitirse 
+a la NTE INEN 2855. 
+En caso de que la acera y la calzada no estén 
+enrasadas, el desnivel será menor o igual a 20 mm 
+y el canto estará achaflanado o redondeado. 
+Pendiente máxima igual a 12%. 
+ 
+ 
+Tabla 5: Ascensores y plataformas elevadoras 
+ 
+Se establece los requisitos técnicos mínimos y las características generales que deben cumplir 
+los ascensores y plataformas elevadoras para asegurar su acceso y uso seguro para todas las 
+personas. 
+ASCENSORES Y PLATAFORMAS ELEVADORAS 
+Parámetros generales 
+Especificaciones técnicas 
+1 Espacio de maniobra 
+Superficie mínima de giro ante la puerta, de 
+diámetro igual a 1 500 mm. 
+2 Pulsadores 
+Dimensión mínima de lado o diámetro, igual a 25 
+mm. 
+Poseer alto relieve en caracteres (alfanumérico - 
+pictográficos). 
+Poseer información en sistema Braille (en español). 
+ASCENSORES 
+
+ 
+25 
+ 
+1 Sistema de información 
+En 
+edificaciones 
+nuevas, 
+o 
+que 
+implique 
+remodelación y ampliación arquitectónica: el 
+ascensor debe estar provisto de un sistema de 
+información sonora, para comunicar a las personas 
+con discapacidad visual sobre la apertura y cierre de 
+puertas y arribo a cada nivel de la edificación. 
+2 Dimensiones internas de la cabina 
+Para 
+edificaciones nuevas: (ver campo de 
+aplicación). El área útil mínima de la cabina 
+accesible debe ser de 1,25 m2 y ninguno de sus 
+lados debe ser menor a 1 000 mm. Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 3139. 
+Para edificaciones existentes que impliquen 
+remodelación y ampliación arquitectónica: (ver 
+campo de aplicación). El área útil mínima de la 
+cabina accesible debe ser de 1,25 m2 y ninguno de 
+sus lados debe ser menor a 1 000 mm. Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 3139. 
+Para edificaciones existentes que impliquen 
+remodelación y edificaciones existentes ya 
+regularizadas: (ver campo de aplicación). El área 
+útil mínima de la cabina accesible debe ser de 1,25 
+m2 y ninguno de sus lados debe ser menor a 1 000 
+mm. Para especificaciones técnicas adicionales, 
+remitirse a la NTE INEN 3139. 
+Ancho libre de paso mínimo de la puerta de ingreso, 
+igual a 800 mm. 
+Altura libre de paso mínimo de la puerta de ingreso, 
+igual a 2 000 mm. 
+3 Espacio de maniobra 
+Superficie mínima de giro al ingreso del ascensor, 
+de diámetro igual a 1 500 mm, libre de obstáculos. 
+4 Piso de la cabina: Nivel de ingreso y 
+egreso de usuarios 
+Al mismo nivel que el piso terminado de la 
+edificación en cada planta. 
+Tolerancia de parada de la cabina de +/- 10 mm. 
+Tolerancia de nivelación al ingreso y egreso de 
+usuarios  de +/- 20 mm. 
+5 Seguridad 
+Poseer un dispositivo de seguridad para proteger al 
+usuario de accidentes, debido al cierre de las 
+puertas, de al menos 250 mm y 1 800 mm a partir 
+del piso terminado de la cabina. 
+6 Superficie reflectante para usuarios 
+en silla de ruedas 
+El ascensor debe poseer un espejo interior en la 
+pared de fondo frente a la puerta que permita la 
+detección de obstáculos al salir de espaldas con 
+una silla de ruedas. Se exceptúa en ascensores 
+donde las dimensiones de la cabina permitan el giro 
+completo de una silla de ruedas, panorámico, doble 
+acceso o para uso de camillas donde no debe 
+colocarse espejo. 
+Altura mínima del borde inferior de la superficie 
+reflectante igual a 300 mm. 
+PLATAFORMAS ELEVADORAS 
+1 Dimensiones 
+El área útil mínima de la plataforma debe ser de 
+1,00 m2 y ninguno de sus lados debe ser menor a 1 
+000 mm. 
+
+ 
+26 
+ 
+2 Seguridad 
+Poseer estructura de soporte, pasamanos, topes de 
+seguridad, antepechos, botones de parada en cada 
+piso y botón de parada de emergencia. 
+PULSADORES Y BOTONERAS 
+1 Dimensiones de los pulsadores y 
+botoneras  interiores y exteriores 
+Los botones de llamado exterior colocados a una 
+altura comprendida entre 900 mm hasta 1200 mm 
+desde el piso terminado hasta el eje horizontal de la 
+botonera. Los botones de llamado interior ubicados 
+a una altura mínima de 800 mm desde el nivel de 
+piso terminado de cabina hasta el eje horizontal del 
+botón más bajo. 
+2 Orientación y señalización 
+Poseer simbología gráfica. 
+PASAMANOS 
+1 Características 
+Extremos cerrados hacia la pared  o paramento de 
+fijación o desarrollarse en toda la longitud de una 
+pared interna de la cabina, y complementariamente 
+puede colocarse un pasamanos adicional en una de 
+las paredes laterales internas o en ambas. Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2244. 
+ELEMENTOS DE SEGURIDAD 
+1 Alarma de emergencia 
+Símbolo de campana de color amarillo, que emita 
+información visual intermitente al ser activado. 
+Alto 
+relieve 
+en 
+caracteres 
+(alfanuméricos 
+- 
+pictográficos). 
+Información en sistema Braille (en español). 
+SUPERFICIES 
+1 Piso de la cabina del ascensor y 
+plataforma 
+Antideslizante en seco y mojado. 
+Material resistente y estable a las condiciones de 
+uso de la superficie. 
+2 Paredes de la cabina 
+No reflectantes. 
+3 Superficie 
+Para edificaciones con acceso al público: Banda 
+podotáctil de prevención en cambio de nivel 
+(ascensores o plataformas elevadoras), ingresos 
+principales y elementos que impliquen riesgos que 
+se encuentren en áreas de circulación peatonal. 
+Para especificaciones técnicas adicionales, remitirse 
+a la NTE INEN 2854. 
+ 
+ 
+Tabla 6: Pasamanos 
+ 
+Se describen los requisitos técnicos mínimos que deben cumplir los pasamanos. Para 
+especificaciones técnicas adicionales referirse a la NTE INEN 2244. 
+ 
+PASAMANOS 
+Parámetros generales 
+Especificaciones técnicas 
+1 Características y dimensiones 
+Forma ergonómica o redondeada, diámetro entre 40 
+- 50 mm. 
+Separación mínima de los pasamanos, respecto a la 
+superficie de soporte, igual a 40 mm. 
+
+ 
+27 
+ 
+Continuo y sin interrupciones. 
+Superficie lisa. 
+Altura del pasamanos superior entre 850 - 950 mm, 
+medidos desde el piso terminado. 
+Altura del pasamanos inferior entre 600 - 750 mm, 
+medidos desde el piso terminado. 
+Pasamanos central, en escalera igual o superior a 2 
+700 mm de ancho de circulación libre de obstáculos. 
+2 Información 
+Fijar textos en relieve o sistema Braille (en español) 
+del número de planta al inicio y final del pasamanos. 
+3 Prolongación horizontal 
+Prolongación igual a 300 mm en los extremos 
+horizontales del pasamano (cuando no interfiera con 
+la circulación peatonal). Para especificaciones 
+técnicas, remitirse a la NTE INEN 2244. 
+ 
+ 
+7.3. Delimitadores espaciales 
+ 
+ 
+Tabla 7: Puertas 
+ 
+Establece los requisitos técnicos mínimos y las características generales que deben cumplir las 
+puertas y sus accesorios, para facilitar el acceso de todas las personas. Para especificaciones 
+técnicas adicionales remitirse a la NTE INEN 2309. 
+ 
+PUERTAS 
+Parámetros generales 
+Especificaciones técnicas 
+1 Dimensiones 
+Puertas exteriores principales de instituciones que 
+brindan un servicio público con afluencia masiva de 
+personas, el ancho libre mínimo de paso debe ser 
+de 1 800 mm. 
+Puertas exteriores principales el ancho libre mínimo 
+de paso debe ser de 1 000 mm.  
+En puertas interiores el ancho libre mínimo de paso 
+debe ser de 900 mm.  
+Altura mínima, libre de paso, igual a 2 050 mm. 
+2 Área de aproximación 
+Superficie de giro debe proyectarse a los dos lados 
+de la puerta, con diámetro mínimo igual a 1 500 mm 
+libre de obstáculos. 
+3 Tapa-marcos y rieles 
+Color contrastante con el piso y las paredes. 
+Riel guía inferior, empotrada en piso, en puertas 
+corredizas, considerando que la separación máxima 
+del riel no debe superar los 25 mm. 
+ACCESORIOS 
+1 Cerraduras 
+Altura entre 800 – 1 000 mm, medidos desde el 
+nivel de piso terminado hasta el eje de la manija. 
+Manijas tipo palanca. 
+
+ 
+28 
+ 
+Tabla 8: Superficies transparentes  
+ 
+Los requerimientos se aplican a todos los elementos de la edificación, los cuales estén 
+planificados para la interacción con los usuarios. Para especificaciones técnicas adicionales 
+remitirse a la NTE INEN 2309 y NTE INEN 3142. 
+SUPERFICIES TRANSPARENTES 
+Parámetros generales 
+Especificaciones técnicas 
+MAMPARAS Y PUERTAS 
+1 Indicadores visuales 
+Franjas contrastantes con un ancho mínimo de 75 
+mm. 
+Altura de la primera franja contrastante entre 900 – 
+1 000 mm, medidos hasta el eje de la franja. 
+Altura de la segunda franja contrastante entre 1 300 
+mm – 1 400 mm, medidos hasta el eje de la franja. 
+VENTANAS DE USO Y MANIPULACIÓN POR EL USUARIO 
+1 Dimensiones 
+Altura máxima del antepecho debe ser de 1 000 mm 
+siendo la altura más adecuada 800 mm medida 
+desde el piso terminado. 
+2 Dispositivos de control 
+Los dispositivos de control, deben ser de fácil 
+manipulación (tipo palanca en forma de L, U entre 
+otros). 
+Altura entre 900 mm y 1 200 mm. 
+ 
+ 
+7.4. Espacios y elementos especializados 
+ 
+ 
+Tabla 9: Dispositivos accesibles  
+ 
+Cuando existan más de dos unidades de: sistema de turno numerado, teléfono público, 
+registros biométricos, sensores de acceso con tarjeta, expendedora de tickets y cajero 
+automático; debe existir al menos un elemento con las siguientes características. 
+ 
+DISPOSITIVOS ACCESIBLES 
+Parámetros generales 
+Especificaciones técnicas 
+1 Ubicación 
+La altura de todos los mandos, pulsadores, 
+interruptores debe ser medidos hasta el eje de los 
+mismos, a partir del piso terminado. 
+PULSADORES, INTERRUPTORES Y TOMACORRIENTES 
+1 Pulsadores e interruptores 
+Altura entre 800 – 1 200 mm, deberán contrastar 
+con el paramento y su entorno. 
+
+ 
+29 
+ 
+Información en sistema Braille (en español) para los 
+mandos usados por el público en general. 
+2 Tomacorrientes 
+y 
+telecomunicaciones 
+Altura entre 400 – 1 200 mm para los mandos 
+usados por el público en general. 
+SISTEMAS DE TURNO NUMERADO, SENSORES DE ACCESO CON TARJETAS, 
+REGISTROS, BIOMÉTRICOS, EXPENDEDORAS DE TICKETS Y SIMILARES 
+1 Ubicación 
+de 
+mandos 
+y/o 
+dispensación 
+Altura entre 800 - 900 mm. Para especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 2314. 
+TELÉFONOS PÚBLICOS 
+1 Ubicación 
+Altura máxima del teclado y/o controles, entre 900 y  
+1 
+200 
+mm. 
+Para 
+especificaciones 
+técnicas 
+adicionales, remitirse a la NTE INEN 2314. 
+2 Información 
+Contar con los mecanismos de uso necesarios e 
+información en formatos accesibles. 
+3 Estructura de soporte 
+Altura mínima, libre de obstáculos, igual a 700 mm. 
+CAJEROS AUTOMÁTICOS 
+1 Estructura de soporte 
+Altura mínima, libre de obstáculos, igual a 700 mm. 
+Para especificaciones técnicas adicionales, remitirse 
+a la NTE INEN 2314. 
+Profundidad mínima, libre de obstáculos igual 600 
+mm. 
+Ancho mínimo, libre de obstáculos igual a 900 mm. 
+2 Teclado y pantalla 
+Altura entre 800 – 1 100 mm. 
+3 Información 
+Para edificaciones con acceso al público nuevo 
+o existente en proceso de remodelación y 
+ampliación: los cajeros deberán contar con los 
+mecanismos necesarios para su uso e información 
+en formatos accesibles. 
+ 
+ 
+Tabla 10: Mobiliario urbano  
+ 
+Los requerimientos se aplican a los elementos que se encuentren en las áreas de uso público 
+dentro de la propiedad de dominio privado. Para especificaciones técnicas adicionales remitirse 
+a la NTE INEN 2314. 
+ 
+MOBILIARIO URBANO 
+Parámetros generales 
+Especificaciones técnicas 
+BARANDILLAS Y BOLARDOS 
+1 Barandillas 
+Debe ser un antepecho a media altura formado por 
+una o varias secciones, cuyo borde inferior debe 
+estar a una altura máxima, de 100 mm y borde 
+superior con una altura mínima de 1 000 mm. 
+No contendrá elementos horizontales, impidiendo 
+que sea escalable. 
+Los elementos que conforman la barandilla tendrán 
+una abertura máxima entre sus parantes de 100 
+mm. 
+La parte inferior de la barandilla debe disponer de 
+
+ 
+30 
+ 
+un zócalo resistente cuyo borde inferior debe estar a 
+una altura máxima de 100 mm. 
+2 Bolardos 
+Elemento vertical con una altura entre 700 - 900 
+mm. 
+Diámetro o lado mínimo entre 100 - 200 mm. 
+Tener una separación entre sí de: 1 200 mm en 
+cruces peatonales; entre 1 200 mm a 1 500 mm en 
+refugios peatonales; entre 1 200 mm a 2 000 mm en 
+aceras y circulaciones peatonales. 
+Al menos, una banda contrastante reflectiva o 
+lámparas con un ancho entre 50 mm a 100 mm en 
+la parte superior. 
+Color contrastante con la superficie del piso y el 
+entorno. 
+Extremo superior del elemento sin aristas vivas. 
+ 
+ 
+Tabla 11: Estacionamiento preferencial 
+ 
+Considera los requisitos técnicos mínimos que deben tener las plazas de estacionamiento 
+preferencial. Para especificaciones técnicas adicionales remitirse a la NTE INEN 2248. 
+ 
+ESTACIONAMIENTO PREFERENCIAL 
+Parámetros generales 
+Especificaciones técnicas 
+1 Plaza preferencial 
+Una plaza de estacionamiento por cada 25 plazas o 
+fracción. 
+2 Dimensiones de las plazas de 
+estacionamiento 
+Dimensiones mínimas iguales 3 900 mm x 5 000 
+mm (incluye franja de transferencia lateral, con 
+ancho igual a 1 500 mm). 
+Dimensiones mínimas iguales a 6300 x 5000 mm 
+(para 2 plazas de estacionamiento con área de 
+transferencia compartida). 
+3 Área de circulación peatonal 
+Debe estar debidamente especificada, asegurar el 
+recorrido desde cualquier plaza de estacionamiento 
+hacia los accesos y circulaciones, ubicada junto a la 
+plaza de estacionamiento preferencial y ser parte 
+del área de circulación vehicular, con un ancho libre 
+mínimo de paso de 900 mm. 
+4 Elementos en la cubierta 
+Altura mínima, libre de paso, igual a 2 200 mm. 
+5 Superficie 
+Antideslizante en seco y mojado. 
+Material resistente y estable a las condiciones de 
+uso de la superficie. 
+Libre de piezas sueltas y de irregularidades debidas  
+al uso de materiales con defectos de fabricación y/o 
+colocación. 
+6 Señalización 
+Señalización horizontal y vertical con el símbolo 
+internacional de accesibilidad. Para especificaciones 
+técnicas, remitirse a la NTE INEN 2240. 
+7 Área de transferencia 
+Dimensiones mínimas, iguales a 1 500 x 5 000 mm. 
+
+ 
+31 
+ 
+Diferenciado mediante el uso de color contrastante 
+con respecto al resto de la superficie (cebrado). 
+8 Vados o rebajes 
+Ubicados en la acera, frente al área de transferencia 
+o cruce. Para especificaciones técnicas adicionales, 
+remitirse a la NTE INEN 2855. 
+ 
+ 
+Tabla 12: Espacios especializados: teatros, auditorios, salas de concierto, 
+museos, escenarios deportivos, coliseos, salas de reunión, salas de conferencia, 
+espacios de culto y similares para el fomento del arte, la cultura y el deporte. 
+ 
+Hace referencia a los requisitos técnicos mínimos que deben considerar todos los espacios 
+destinados a desarrollar actividades culturales, deportivas, recreativas y similares. 
+ESPACIOS ESPECIALIZADOS: TEATROS, AUDITORIOS, SALAS DE CONCIERTO, 
+MUSEOS, ESCENARIOS DEPORTIVOS, COLISEOS, SALAS DE REUNIÓN, SALAS DE 
+CONFERENCIA, ESPACIOS DE CULTO Y SIMILARES PARA EL FOMENTO DEL ARTE, 
+LA CULTURA Y EL DEPORTE. 
+Parámetros generales 
+Especificaciones técnicas 
+1 Localidades 
+Deben reservarse al menos el 1% de los asientos 
+para personas usuarias de silla de ruedas, con un 
+mínimo de dos espacios reservados. A partir de 51 
+a 100 asientos totales, tres espacios reservados. De 
+101 a 200 asientos totales, cuatro espacios 
+reservados. 
+Para 
+especificaciones 
+técnicas 
+adicionales, remitirse a la NTE INEN ISO 21542. 
+Los espacios reservados se deben integrar entre el 
+resto de asientos, deben ser aleatorias, no todas en 
+el mismo lugar, preferentemente a los costados de 
+las líneas de asientos y que permitan ubicarse junto 
+a 
+sus 
+acompañantes. 
+Para 
+especificaciones 
+técnicas adicionales, remitirse a la NTE INEN ISO 
+21542. 
+Los espacios reservados para usuarios en silla de 
+ruedas deben ser planos. La primera fila no es 
+opción accesible por lo difícil e incómodo que 
+resulta la postura frente a la cercanía de la pantalla 
+y escenarios en donde se generan espectáculos. 
+En el caso de teatros, auditorios, anfiteatros y otros 
+espacios similares para el fomento del arte, la 
+cultura y el deporte, donde se contempla un 
+escenario, éste deberá ser accesible desde la 
+ubicación del público a través de una rampa u otro 
+mecanismo. Para especificaciones técnicas sobre 
+las rampas remitirse a la NTE INEN 2245. 
+En caso de tener butacas fijas, mínimo 15 butacas 
+deben 
+ser 
+plegables 
+o 
+desmontables. 
+Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN ISO 21542. 
+Para sillas de ruedas: Superficie con dimensiones 
+mínimas, libre de obstáculos, iguales a 900 x 1 400 
+mm. Para especificaciones técnicas adicionales, 
+remitirse a la NTE INEN ISO 21542. 
+
+ 
+32 
+ 
+La numeración de las filas y de los asientos será 
+fácilmente localizable, legible para las personas con 
+deficiencia visual. Deben tener alto relieve y/o 
+Sistema Braille (en español), de un tamaño 
+adecuado y tener suficiente contraste visual con 
+respecto al fondo en el que están colocados.  
+2 Localidades reservadas 
+Señalización horizontal con el símbolo internacional 
+de accesibilidad. Para especificaciones técnicas, 
+remitirse a la NTE INEN 2240. 
+3 Señalización 
+Para edificaciones con acceso al público: Se 
+deberá contar con planos hápticos con información 
+concisa. Para especificaciones técnicas remitirse a 
+la NTE INEN 2854 y la NTE INEN ISO 21542. 
+ 
+ 
+Tabla 13: Servicios higiénicos, cuartos de baño y baterías sanitarias 
+ 
+Se describen los requisitos técnicos mínimos que deben cumplir los cuartos de baño adaptados 
+y baterías sanitarias, así como la instalación de los aparatos sanitarios y accesorios, para 
+facilitar la accesibilidad y operatividad. Para especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2293. 
+ 
+SERVICIOS HIGIÉNICOS, CUARTOS DE BAÑO Y BATERÍAS SANITARIAS 
+Parámetros generales 
+Especificaciones técnicas 
+1 
+Superficie del piso 
+Antideslizante en seco y mojado. 
+En el caso de colocar rejilla, deberá tener una 
+separación máxima de los orificios igual a 13 mm. 
+Para 
+especificaciones 
+técnicas 
+adicionales, 
+remitirse a la NTE INEN 2246. 
+Libre de piezas sueltas y de irregularidades 
+debidas al uso de material con defectos de 
+fabricación y/o colocación. 
+CUARTOS DE BAÑO Y BATERÌA SANITARIA 
+1 
+Ubicación 
+Los cuartos de baño adaptados deben estar 
+ubicados  a la entrada de las baterías sanitarias 
+cuando están dentro de las mismas. 
+2 
+Dimensiones 
+Cabina adaptada: Dimensiones 1 650 mm x 2 300 
+mm o 1 650 mm x 2 100 mm, con abatimiento de la 
+puerta hacia afuera. Incluye inodoro, lavamanos, 
+barras de apoyo, espejo, accesorios y pulsadores 
+de llamado de asistencia. Para especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 
+2293. 
+3 
+Espacio de maniobra 
+Superficie de giro dentro del cuarto de baño, con 
+diámetro mínimo igual a 1 500 mm. 
+4 
+Inodoro 
+Movilidad reducida: Altura del asiento entre 450 - 
+500 mm, a partir del piso terminado. Para 
+especificaciones técnicas adicionales, remitirse a 
+la NTE INEN 2293. 
+Altura < 1 340 mm: entre 241 mm y 267 mm, a 
+partir del piso terminado. 
+
+ 
+33 
+ 
+Altura > 1 340 mm: > 343 mm, a partir del piso 
+terminado. 
+Separación mínimo 6 mm, con un máximo de 20 
+mm entre el tanque alto del inodoro, con la pared 
+posterior. 
+Distancia desde el eje del inodoro hacia el 
+paramento más cercano; en caso de movilidad 
+reducida 500 mm. 
+Inodoros de tanque alto (respaldo): Profundidad 
+del anillo (asiento) entre 419 - 500 mm. Para 
+especificaciones técnicas adicionales, remitirse a 
+la NTE INEN 3082. 
+5 
+Barra de apoyo fija a la pared, piso o 
+abatible 
+Ubicada en ambos lados del inodoro. 
+Ubicada a una distancia entre 350 mm (barra 
+abatible) y 450 mm. (fija a la pared), desde el eje 
+del inodoro.  
+En los inodoros que no tienen tanque, se debe 
+instalar una barra de apoyo posterior. 
+Altura del borde superior de la barra horizontal 
+igual a 750 mm desde el nivel del piso terminado. 
+Distancia mínima desde la pared entre 40 a 50 
+mm. 
+La sección circular debe tener un diámetro exterior 
+entre 32 mm a 51 mm. Las barras de apoyo de 
+sección no circular deben tener una sección de 51 
+mm máximo y un perímetro entre 100 mm y 120 
+mm. 
+6 
+Señalización 
+Poseer símbolo gráfico, información en sistema 
+Braille 
+(en 
+español). 
+Para 
+especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 
+2240. 
+Estará colocado en el área de barrido ergonómico 
+de acuerdo a lo especificado dentro de la NTE 
+INEN 2850. 
+7 
+Lavamanos 
+Altura inferior mínima libre de obstáculos igual a 
+650 mm, medida a una profundidad mínima de 200 
+mm desde el borde exterior del lavabo. 
+Espacio mínimo bajo el lavamanos, para acomodar 
+las 
+rodillas, 
+libre 
+de 
+obstáculos, 
+con 
+una 
+profundidad igual a 200 mm (personas usuarias en 
+silla de ruedas). 
+Altura mínima libre de obstáculos, desde el nivel 
+de piso terminado, para acomodar los pies 300 
+mm, para personas con movilidad reducida. 
+Altura desde el nivel del piso terminado hasta el 
+borde superior del lavabo: Estatura (<1340) 660 
+mm; Estatura (>1340) 800 mm a 950 mm; 
+Movilidad reducida igual a 850 mm. 
+De existir dos o más lavamanos, al menos uno 
+deberá estar colocado a una altura máxima de 660 
+mm. 
+Distancia mínima desde el eje del lavamanos hasta 
+el paramento adyacente más cercano igual a 450 
+mm. 
+
+ 
+34 
+ 
+Distancia 
+mínima 
+entre 
+ejes 
+de 
+lavabos 
+adyacentes igual a 900 mm. 
+La distancia máxima desde el borde frontal del 
+lavabo o mesón al eje de la grifería a 500 mm. 
+Mandos de grifo de palanca, botones a presión o 
+sensor. 
+8 
+Espejo 
+El borde inferior del espejo se ubicará entre 50 a 
+100 mm por encima del borde superior del lavabo 
+o mesón de lavabo y el borde superior a una altura 
+mínima de 1 900 mm respecto al nivel de piso 
+terminado. 
+Para 
+especificaciones 
+técnicas 
+adicionales, remitirse a la NTE INEN 2293. 
+9 
+Accesorios 
+Instalados a una altura alcanzable entre 800 mm -  
+1 100 mm, desde el nivel de piso terminado. 
+Portarrollos de papel higiénico a una altura entre 
+600 mm - 700 mm, desde el nivel del piso 
+terminado. 
+10 Duchas 
+Superficie con dimensiones mínimas iguales a 900 
+mm x 1 500 mm. 
+Pendiente máxima igual a 2% hacia el desagüe. 
+Sin bordillos. El área de ducha puede tener un 
+desnivel máximo de -20 mm con relación al área 
+general del baño, sin que exista adicionalmente 
+escalón o bordillo. 
+Disponer de barra de apoyo vertical a una altura 
+mínima desde su borde inferior a 750 mm y una 
+horizontal a una altura igual a 750 mm. 
+Disponer de un asiento fijo o plegable hacia arriba 
+ubicado a una altura de 430 a 480 mm (cuando 
+está plegado no debe representar un riesgo para el 
+usuario), estable, antideslizante, autodrenante, de 
+fácil 
+limpieza, 
+tener 
+esquinas 
+y 
+bordes 
+redondeados, evitar aristas vivas, tener una 
+capacidad de soportar una carga mínima de 100 
+kg. 
+Ducha tipo teléfono con manguera flexible, de 
+longitud mínima igual a 1 200 mm, ubicada a una 
+altura entre 900 mm a 1 100 mm. 
+URINARIOS EN BATERÍAS SANITARIAS 
+1 
+Ubicación 
+Altura desde el nivel de piso terminado hasta el 
+borde de la boca del urinario: Estatura >1340, 600 
+mm a 750 mm; Movilidad reducida 400 mm a 500 
+mm y equipado con una barra de apoyo vertical. 
+Para 
+especificaciones 
+técnicas 
+adicionales 
+remitirse a la NTE INEN 2293. 
+De existir dos o más urinarios al menos uno estará 
+colocado una altura igual a 400 mm, para niños y 
+personas de talla baja. Para especificaciones 
+técnicas adicionales remitirse a la NTE INEN 2293. 
+Distancia 
+mínima 
+entre 
+ejes 
+de 
+urinarios 
+adyacentes igual a 900 mm. 
+Distancia mínima desde el eje del urinario hasta el 
+paramento adyacente más cercano igual a 450 
+mm. 
+ 
+
+ 
+35 
+ 
+Tabla 14: Elementos de seguridad  
+ 
+Para obtener información adicional en la temática, remitirse a la Norma Ecuatoriana de la 
+Construcción NEC-HS-CI: Contra Incendios. 
+ELEMENTOS DE SEGURIDAD 
+Parámetros generales 
+Especificaciones técnicas 
+EXTINTORES DE INCENDIOS 
+1 
+Ubicación del mango o manija de 
+transporte 
+Se deberán instalar de tal forma que desde la 
+manija tenga una altura entre 900 – 1 200 mm. 
+ 
+PULSADOR MANUAL DE ALARMA DE INCENDIOS 
+1 
+Ubicación 
+Altura entre 900 – 1 200 mm. 
+PULSADOR DE LLAMADO DE ASISTENCIA EN CUARTOS DE BAÑO ADAPTADOS 
+1 
+Ubicación 
+Altura máxima del pulsador inferior, igual a 300 mm. 
+Altura del pulsador superior, entre 900 – 1 200 mm. 
+SEÑALES DE EMERGENCIA 
+1 
+Tipos de señales 
+Las alarmas de emergencia deben ser visuales y 
+audibles (producir un nivel de sonido que exceda al 
+menos 15dB al nivel prevaleciente del entorno hasta 
+un máximo de 120dB, por ejemplo, megafonía, 
+bucles magnéticos, pantallas audiovisuales, entre 
+otros). Para especificaciones técnicas adicionales, 
+remitirse a la NTE INEN 2239. 
+PLANOS DE EVACUACIÔN 
+ 
+Ubicación 
+El plano debe estar orientado en el mismo sentido 
+en el que se encuentra distribuido el edificio. 
+ 
+ 
+8. 
+Anexos 
+ 
+ 
+8.1. Anexos Técnicos 
+ 
+ 
+A continuación, se describen requisitos mínimos de accesibilidad para mobiliario y elementos 
+de orientación y señalización. Para elementos que no consten dentro de los anexos, se 
+recomienda aplicar los requisitos mínimos de elementos similares o equivalentes encontrados 
+en las tablas descritas en las siguientes categorías.  
+ 
+Anexo 1: Requisitos mínimos de accesibilidad para el mobiliario 
+ 
+Tabla 15: Mobiliario accesible 
+ 
+Se describen los criterios técnicos mínimos que debe cumplir el mobiliario para garantizar el 
+uso de estos elementos a personas con discapacidad dentro de los espacios de edificaciones 
+públicas y privadas que prestan un servicio al público. Para especificaciones técnicas remitirse 
+a la NTE INEN 2849-1 y la NTE INEN ISO 21542. 
+ 
+MOBILIARIO ACCESIBLE 
+Parámetros generales 
+Especificaciones técnicas 
+
+ 
+36 
+ 
+ESCRITORIOS Y MESAS 
+1 Dimensiones 
+Altura mínima del plano inferior, libre de obstáculos, 
+igual a 700 mm. 
+El plano superior debe estar a una altura 
+comprendida entre 740 mm y 800 mm, a partir del 
+piso terminado. 
+Las mesas deben disponer de un espacio mínimo 
+bajo el mesón, para acomodar las rodillas, libre de 
+obstáculos, con un ancho mínimo de 900 mm 
+(personas usuarias en silla de ruedas). 
+Las mesas deben disponer de un espacio mínimo 
+bajo el mesón, para acomodar las rodillas, libre de 
+obstáculos, con una profundidad igual a 600 mm 
+(personas usuarias en silla de ruedas). 
+ZONAS DE RECEPCIÓN, MOSTRADORES 
+1 Mobiliario de recepción 
+El mostrador debe tener doble altura en su plano 
+superior a partir del piso terminado: (1) 950 mm a 
+1100 mm y (2) entre 740 mm y 800 mm. 
+ 
+Para especificaciones técnicas adicionales, remitirse 
+a la NTE INEN ISO 21542. 
+Mostrador inferior: Altura mínima en su plano 
+inferior a partir del piso terminado, libre de 
+obstáculos, igual a 700 mm, ancho mínimo, 900 
+mm, 
+profundidad 
+mínima, 
+600 
+mm. 
+Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN ISO 21542. 
+EXPENDIO DE COMIDA PREPARADA 
+1 Localidades 
+El 25% de las mesas deben disponer de un espacio 
+mínimo bajo el mesón, para acomodar las rodillas, 
+libre de obstáculos, con una altura mínima de 700 
+mm, profundidad igual a 600 mm y ancho mínimo de 
+900 mm (personas usuarias en silla de ruedas). 
+El 25% de la longitud del mostrador con una altura 
+máxima igual a 800 mm. 
+DORMITORIOS Y HABITACIONES ACCESIBLES 
+1 Mobiliario 
+En habitaciones accesibles, la altura de la cama 
+debe estar comprendida entre 450 mm y 500 mm 
+medida desde el nivel del piso terminado hasta el 
+borde superior del colchón, cuando ésta soporta el 
+peso mínimo de 90 kg. Para especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 3141. 
+El tubo colgador, percha o soporte de ropa se 
+colocará a una altura ajustable entre 850 mm y 1800 
+mm. Para especificaciones técnicas adicionales 
+remitirse a la NTE INEN 3141. 
+ 
+ 
+Tabla 16: Mobiliario urbano accesible 
+ 
+Se establecen los criterios mínimos que deben ser aplicados en el mobiliario dispuesto en el 
+espacio urbano de las edificaciones públicas y privadas que prestan un servicio al público. Para 
+especificaciones técnicas remitirse a la NTE INEN 2314. 
+ 
+
+ 
+37 
+ 
+MOBILIARIO URBANO ACCESIBLE 
+Parámetros generales 
+Especificaciones técnicas 
+AGUA E HIGIENE 
+1 Bebederos de agua 
+Bebedero a doble altura: (1) entre 700 mm - 900 
+mm y (2) entre 900 mm y 1 100 mm, desde el nivel 
+del piso terminado. 
+Altura de los mandos a doble altura: (1) entre 700 
+mm - 900 mm y (2) entre 900 mm y 1 100 mm, 
+desde el nivel del piso terminado. 
+Cualquier elemento que sobresalga de la estructura 
+del bebedero, tendrá máximo 150 mm. 
+Color contrastante con la superficie del piso 
+LIMPIEZA Y RECICLAJE 
+1 Papeleras, basureros o similares 
+Si el basurero tiene la abertura en la parte superior, 
+esta debe estar a una altura máxima de 800 mm, 
+medida desde el nivel del piso terminado.  
+ 
+Si la abertura es lateral al sentido de circulación, la 
+altura de la base inferior de la tapa debe estar entre 
+700 mm y 900 mm.  
+Color contrastante con la superficie del piso. 
+SUPERFICIES DE JUEGO Y ÀREAS RECREATIVAS 
+1 Juegos infantiles 
+En zonas destinadas a recreación se considerará la 
+implementación 
+de 
+juegos 
+inclusivos. 
+Para 
+especificaciones técnicas remitirse a la NTE INEN 
+3029 y NTE INEN 3081. 
+ 
+ 
+Anexo 2: Requisitos mínimos de accesibilidad para orientación y señalización 
+Tabla 17: Orientación y señalización  
+ 
+Contiene los criterios mínimos que permiten determinar la ubicación de espacios, así como los 
+elementos informativos que tienen por objeto orientar y guiar a las personas para que puedan 
+desplazarse en un entorno o en una edificación. Para especificaciones técnicas, remitirse a la 
+NTE INEN 2850. 
+ 
+ORIENTACIÓN Y SEÑALIZACIÓN 
+Parámetros generales 
+Especificaciones técnicas 
+1 Características 
+La señalética debe contener: Pictogramas y texto en 
+alto 
+relieve. 
+Para 
+especificaciones 
+técnicas 
+adicionales, remitirse a la NTE INEN 2850. 
+2 Tipografía 
+Estilo de caracteres palo seco. 
+El tamaño de las letras utilizadas está en función de 
+la distancia a la que puedan ser leídas: 
+ 
+Distancia 0,5 m; min 7 mm: máx. 20 mm 
+Distancia 1 m; min 14 mm: máx. 20 mm 
+Distancia 2 m; min 28 mm: máx. 56 mm 
+Distancia 3 m; min 42 mm: máx. 84 mm 
+Distancia 4 m; min 56 mm: máx. 110 mm 
+Distancia >5 m; min 70 mm: máx. 140 mm 
+Contraste del texto con el color del fondo del rótulo y 
+la superficie en la que se coloquen. 
+
+ 
+38 
+ 
+3 Soporte 
+El material de soporte debe ser mate o de bajo 
+brillo, o al menos, con un factor de pulimento del 
+15% tanto en el fondo como en los caracteres o 
+pictogramas. 
+4 Localización 
+Altura entre 1 200 – 1 600 mm (sólo ambientes). 
+Altura máxima igual a 2 100 mm (espacios con 
+aglomeración de personas). 
+5 Relieve 
+Altura entre 1 - 1,5 mm. 
+6 Braille 
+Información en sistema Braille (en español) en 
+señalización de ambientes. Para especificaciones 
+técnicas adicionales, remitirse a la NTE INEN 2850. 
+PLANO HÁPTICO 
+1 Características generales 
+Altura inferior mínima de 900 mm. 
+Ángulo de inclinación 20 a 30° con respecto a la 
+horizontal. 
+Para 
+especificaciones 
+técnicas 
+adicionales, remitirse a la NTE INEN 2854. 
+El plano debe estar orientado en el mismo sentido 
+en el que se encuentra distribuido el edificio. Para 
+especificaciones técnicas remitirse a la NTE INEN 
+2854. 
+La leyenda debe estar situada en la parte inferior del 
+mapa 
+y 
+ajustarse 
+a 
+la 
+izquierda. 
+Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2854. 
+2 Ubicación 
+Deben ubicarse al ingreso de las edificaciones. Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2854. 
+Para edificaciones con acceso al público: Banda 
+podotáctil 
+guía 
+y 
+de 
+prevención. 
+Para 
+especificaciones técnicas adicionales, remitirse a la 
+NTE INEN 2854. 
+ 
+ 
+8.2. Anexo Informativo 
+ 
+ 
+A continuación, se describen recomendaciones de accesibilidad para el diseño y la 
+planificación de elementos, espacios y mobiliario. 
+ 
+ 
+Anexo 1: Recomendaciones generales de diseño 
+Para la planificación arquitectónica o el diseño de elementos, se detallan recomendaciones a 
+seguir en el diseño: 
+ 
+• 
+Para determinar las áreas donde se aplicará la presente normativa, se observará y 
+analizará el proceso que debe cumplir el usuario dentro y fuera de las edificaciones 
+públicas y privadas con acceso al público, a modo de circuitos o cadenas de 
+accesibilidad. Se priorizarán aquellos circuitos o cadenas de accesibilidad que  posean 
+mayores flujos de usuarios, es decir, las principales zonas como son los espacios de 
+reunión, concentración, circulación y destino dentro de la edificación, entre otros, en las 
+cuales el usuario interacciona con todos los elementos. 
+• 
+No se requiere el cumplimiento de los requisitos mínimos de accesibilidad en zonas 
+que desarrollen actividades especializadas, como es el caso de espacios de 
+producción industrial, espacios de intervenciones médicas como quirófanos, 
+laboratorios, entre otros de la misma naturaleza de especialización, en sus elementos, 
+accesorios y mobiliario. Estos espacios se excluyen de las cadenas de accesibilidad 
+
+ 
+39 
+ 
+(salvo excepciones) siempre y cuando el usuario del servicio prestado no posea acceso 
+o ingreso a dichos espacios y zonas. 
+• 
+Durante el proceso de diseño de edificaciones, se recomienda considerar al menos un 
+espacio con las dimensiones necesarias para realizar una implementación posterior 
+(futura) de algún mecanismo de circulación vertical, especialmente si la edificación 
+podrá crecer en altura. Los accesos a todos los niveles que ingrese el usuario, deben 
+poseer alternativas de circulación vertical. 
+Recomendaciones complementarias para la implementación de accesibilidad universal 
+en elementos, espacios arquitectónicos – urbanos, así como en cadenas de 
+accesibilidad: 
+ 
+ 
+Elementos: 
+ 
+• 
+Los dispositivos y los accesorios en los espacios higiénicos-sanitarios deberían 
+contrastar visualmente con respecto a los elementos y las superficies en los que están 
+colocados. 
+• 
+Los cuartos de baño y las baterías sanitarias deberían prever en su diseño la 
+instalación de un cambiador de pañales. 
+ 
+• 
+Las superficies transparentes como puertas y mamparas deberían evitar ser altamente 
+reflectantes. En dichos casos se utilizarán franjas o indicadores visuales. Para 
+especificaciones técnicas adicionales, remitirse a la NTE INEN 2309. 
+ 
+• 
+En su diseño los detalles arquitectónicos, (contraste de color o textura en el piso, 
+umbral, entre otros) deberían resaltar la ubicación de las entradas, rutas e 
+intersecciones principales, en especial de baterías sanitarias, auditorios, salas de uso 
+múltiple y similares. 
+• 
+En cada edificio o instalación se recomienda mantener criterios homogéneos en cuanto 
+a diseño, altura y ubicación de los rótulos, marcando claramente su tipo: orientativa, 
+informativa, entre otras. Para especificaciones técnicas adicionales, remitirse a la NTE 
+INEN 2850. 
+ 
+• 
+Toda superficie de maniobra frente a un elemento que sea manipulable, considerará 
+una superficie mínima de giro, de diámetro igual o superior a 1 500 mm. 
+ 
+• 
+Las puertas cuya batiente se abre hacia las bandas de circulaciones principales, así 
+como aquellas en donde ingresen usuarios, deberían abrirse hacia afuera del espacio 
+de estancia, sin interrumpir o bloquear la banda de circulación principal para la 
+evacuación. 
+• 
+La disposición de las puertas en los cuartos de baño y baterías sanitarias deben ser de 
+tal forma que su batiente se abra hacia afuera de los cubículos. En el caso de las 
+edificaciones existentes que no cuenten con el espacio necesario para abrir la puerta 
+hacia fuera, se recomienda la instalación de una puerta corrediza. 
+• 
+El mobiliario arquitectónico, así como el urbano, deben ubicarse de tal manera que no 
+interrumpan el área de circulación de los espacios en los que se encuentran ubicados. 
+Para especificaciones técnicas adicionales, remitirse a la NTE INEN 2314. 
+• 
+Las puertas que formen parte de un itinerario accesible deben tener una diferencia 
+mínima de LRV de 30 puntos con respecto al marco de la puerta y del paramento 
+adyacente, debe existir contraste visual entre la hoja y los accesorios de la puerta. 
+ 
+• 
+Para la seguridad y procedimientos de evacuación, se recomienda planificar una zona 
+de rescate asistido adyacente al ingreso de las escaleras en cada planta. 
+ 
+ 
+Circulación: 
+ 
+• 
+Las circulaciones interiores de entornos naturales, deberán contar con un sendero 
+principal accesible, que dibuje un circuito que permita recorrerlo entero y llegar al punto 
+de inicio sin devolverse. Para especificaciones técnicas remitirse a la NTE INEN 2243.  
+ 
+Espacios: 
+ 
+
+ 
+40 
+ 
+• 
+El diseño de un dormitorio accesible debe incluir un cuarto de baño adaptado. Para 
+especificaciones técnicas remitirse a la NTE INEN 3141 y NTE INEN 2293. 
+• 
+Debe planificarse por lo menos un baño accesible por cada 10 unidades o fracción de 
+inodoros instalados, en las zonas de acceso a los usuarios. Además, dentro de las 
+baterías sanitarias, se recomienda la planificación de un espacio destinado para el uso 
+de niños y niñas o personas de talla baja (estatura <1340 mm), en el cual, la altura 
+máxima del lavamanos debe ser de 660 mm., la altura del asiento del inodoro debe 
+estar comprendida entre 241 mm - 267 mm. 
+ 
+• 
+De 1 a 24 habitaciones: 1 habitación con baño adaptado; de 25 a 49 habitaciones: 2 
+habitaciones, cada una con baño adaptado; de 50 a 74 habitaciones: 3 habitaciones, 
+cada una con un baño adaptado; de 75 a 100 habitantes: 4 habitaciones, cada una con 
+baño adaptado. A partir de 100 habitaciones, por cada 50 habitaciones convencionales, 
+se debe agregar una habitación accesible más. Para especificaciones técnicas 
+adicionales, remitirse a la NTE INEN 3141. 
+• 
+En albergues se recomienda contar con al menos 1 cama accesible por cada 50 camas 
+convencionales. 
+• 
+En espacios como salas de concierto, auditorio, cines y otros espacios similares, se 
+preverá la ubicación de espacios señalizados para personas con discapacidad auditiva 
+en las primeras filas, de forma que se garantice condiciones de visibilidad. Además, se 
+podrán ubicar mecanismos como bucles magnéticos, u otros dispositivos que permitan 
+mejorar la calidad de audio para personas con hipoacusia y discapacidad auditiva. 
+• 
+En espacios especializados como teatros, museos, bibliotecas, y similares para el 
+fomento del arte y la cultura, se recomienda el uso de puertas automáticas, las cuales 
+deben cumplir con las especificaciones técnicas de la NTE INEN 2309. 
+• 
+Los vestuarios accesibles deben encontrarse a una distancia máxima de 25 m, de las 
+piscinas, gimnasios o similares y contar con las siguientes características mínimas: 
+§ Encontrarse al mismo nivel que el resto de las instalaciones en donde se 
+encuentran situados. 
+§ Por cada bloque de vestidores, se considerará un mínimo de dos vestidores 
+accesibles (uno para mujeres y uno para hombres). 
+§ El acceso al vestidor debe considerar un itinerario accesible hasta el mismo 
+desde las áreas de acceso y las diversas instalaciones en donde se encuentra 
+situado. 
+§ La puerta de ingreso con ancho mínimo de 900 mm y altura de 2 050 mm, debe 
+abrir hacia afuera, ser corrediza o tipo cortina. 
+§ La dimensión mínima del vestidor será de 1 500 mm x 1 800 mm y contar con un 
+asiento abatible o de altura regulable, junto al mismo debe existir un espacio libre 
+de 900 mm de ancho que permita a las personas con movilidad reducida o silla 
+de ruedas realizar una aproximación lateral. 
+§ Barras de apoyo colocadas en las paredes, a una altura de 750 mm hasta su 
+borde superior desde el piso terminado. 
+§ Espejo situado a partir de 300 mm de altura desde el piso terminado hasta 1 900 
+mm. 
+§ Percha situada en la zona de alcance a una altura entre 1 100 mm y 1 400 mm, 
+para personas en silla de ruedas o talla baja, para colgar elementos como ropa, 
+muletas, entre otros. 
+§ Deben estar señalizados con el símbolo internacional de accesibilidad. 
+ 
+• 
+Área de duchas o regaderas en piscinas o similares: 
+§ Los espacios de regaderas no deberían tener bordes perimetrales, de forma que 
+permita el ingreso a personas con silla de ruedas. 
+§ La superficie debería ser antideslizante en seco y mojado. 
+§ Deberían estar señalizados con el símbolo internacional de accesibilidad. 
+§ Para especificaciones técnicas sobre accesorios, remitirse a la NTE INEN 2293. 
+ 
+• 
+Las piscinas recreativas de uso público deben considerar: 
+§ El circuito hacia la piscina y sus alrededores debería ser accesible desde 
+cualquier dependencia. 
+§ En el vaso de la piscina adicional a los escalones de ingreso, debería incluir una 
+rampa con inclinación suave para facilitar el paso de las personas usuarias de 
+
+ 
+41 
+ 
+sillas de ruedas. De existir imposibilidades espaciales o de diseño en la 
+implementación de rampas, se considerarán alternativas, para garantizar su uso 
+universal como una elevadora hidráulica. 
+§ Colocar pasamanos de acuerdo a especificaciones técnicas de la NTE INEN 
+2244. 
+ 
+• 
+Las localidades reservadas para las personas con discapacidad deben ubicarse 
+cercanas a los accesos, rampas y rutas de evacuación. 
+• 
+Los counters y espacios de información deberían estar correctamente iluminados, 
+evitando la formación de zonas de penumbra.  
+• 
+Las plazas de estacionamiento preferencial no deben exceder los 50 m de distancia a 
+los accesos de los espacios o edificaciones, así como a las circulaciones verticales 
+(ascensores y rampas). 
+ 
+ 
+9. 
+Bibliografía 
+ 
+ 
+• 
+Asociación Española de Normalización y Certificación. (2001). UNE 41510 
+Accesibilidad en el urbanismo. España: Madrid 
+• 
+Corporación Ciudad Accesible. (2010) Manual de Accesibilidad Universal. (1ra ed.) 
+Chile: Santiago de Chile 
+• 
+Servicio 
+Ecuatoriano 
+de 
+Normalización. 
+(2014). 
+NTE-INEN-ISO 
+21542:2014 
+EDIFICACIÓN ACCESIBILIDAD DEL ENTORNO CONSTRUIDO. (1ra ed.) Ecuador: 
+Quito 
+• 
+Instituto Ecuatoriano de Normalización. (s/f). Normas INEN sobre Accesibilidad al 
+Medio Físico. Ecuador: Quito 
+• 
+Ministerio de Fomento. (2010). Documento Básico SUA, Seguridad de utilización y 
+accesibilidad. España: Madrid 
+• 
+Organización de las Naciones Unidas. (2006). Convención sobre los Derechos de las 
+Personas con Discapacidad.  
+• 
+Fundación ONCE. (2011). Manual de accesibilidad para técnicos municipales. España: 
+Madrid. 
+• 
+Corporación Ciudad Accesible (2014). Guía de consulta Accesibilidad Universal. Chile: 
+Santiago de Chile. 
+• 
+MECEP (2010). Manual de diseño y construcción de los Elementos constitutivos del 
+espacio público. Colombia, Santiago de Cali. 
+
+MINISTERIO DE DESARROLLO URBANO Y VIVIENDA 
+SERVICIO NACIONAL DE GESTIÓN DE RIESGOS Y EMERGENCIAS 
+SECRETARIA DE EDUC ACIÓN S UPERIOR. CIENCIA. T ECNOLOGÍA E INNO VACIÓN 

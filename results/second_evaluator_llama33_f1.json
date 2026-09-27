@@ -1,0 +1,392 @@
+{
+ "docs_excluded_no_logprobs": 0,
+ "model": "meta-llama/llama-3.3-70b-instruct",
+ "framing": 1,
+ "framing_text": {
+  "T": "Does the passage support the claim that {c}?",
+  "F": "Does the passage oppose or contradict the claim that {c}?",
+  "I": "Does the passage explicitly state or imply that whether {c} is unsettled, disputed, or cannot be determined?"
+ },
+ "n_items": 1020,
+ "n_dev": 280,
+ "n_test": 740,
+ "gate_H4": {
+  "collapse_R2_insample": 0.0005258437244936021,
+  "nonredundancy": {
+   "poly2_ridge": -0.6821390075599189,
+   "poly4_ridge": -0.6911834253347375,
+   "random_forest": -4.856826580445118,
+   "grad_boosting": -16.866537728533977,
+   "knn10": -8.031967821618474,
+   "mlp": -3.357690419974605,
+   "max_cv_r2": -0.6821390075599189,
+   "nn_pairs": 39419,
+   "nn_mean_abs_dI": 0.007675307021103187,
+   "random_mean_abs_dI": 0.011683100034275948,
+   "nn_ratio": 0.6569580846338151,
+   "verdict": "I not well predicted from (T,F) by any tested class (empirical non-redundancy; not a certificate)"
+  }
+ },
+ "thresholds": {
+  "IND": {
+   "c0": 0.7,
+   "d0": 0.05,
+   "m0": 0.0,
+   "kappa": 0.05
+  },
+  "TF": {
+   "c0": 0.7,
+   "d0": 0.05,
+   "m0": 0.0
+  },
+  "NORM": {
+   "c0": 0.5,
+   "d0": 0.95,
+   "kappa": 0.05
+  },
+  "RENORM3": {
+   "c0": 0.5,
+   "d0": 0.05,
+   "kappa": 0.75
+  },
+  "SCALAR": {
+   "t1": 0.1,
+   "t2": 0.05
+  }
+ },
+ "summary": {
+  "IND": {
+   "macro_f1": 0.6463026153827487,
+   "accuracy": 0.7756756756756756,
+   "macro_f1_ci": [
+    0.6228995874279001,
+    0.6706589509809724
+   ],
+   "per_condition_acc": {
+    "A": 0.03488372093023256,
+    "N": 0.9695121951219512,
+    "N_hard": 0.9506172839506173,
+    "R": 0.6524390243902439,
+    "S": 0.9207317073170732
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.4638222490765026
+  },
+  "TF": {
+   "macro_f1": 0.6374614605112667,
+   "accuracy": 0.7905405405405406,
+   "macro_f1_ci": [
+    0.618485889385057,
+    0.654412858605487
+   ],
+   "per_condition_acc": {
+    "A": 0.0,
+    "N": 1.0,
+    "N_hard": 0.9876543209876543,
+    "R": 0.6646341463414634,
+    "S": 0.926829268292683
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.4408163265306123
+  },
+  "NORM": {
+   "macro_f1": 0.6471843270008104,
+   "accuracy": 0.6567567567567567,
+   "macro_f1_ci": [
+    0.6191104974991033,
+    0.6763815567814655
+   ],
+   "per_condition_acc": {
+    "A": 0.46511627906976744,
+    "N": 0.5487804878048781,
+    "N_hard": 0.4382716049382716,
+    "R": 0.8170731707317073,
+    "S": 0.9207317073170732
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.47678591454525066
+  },
+  "RENORM3": {
+   "macro_f1": 0.3284823142079214,
+   "accuracy": 0.34594594594594597,
+   "macro_f1_ci": [
+    0.2940478079094802,
+    0.3635444386834299
+   ],
+   "per_condition_acc": {
+    "A": 0.23255813953488372,
+    "N": 0.0,
+    "N_hard": 0.006172839506172839,
+    "R": 0.9878048780487805,
+    "S": 0.4451219512195122
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.1346370513439562
+  },
+  "SCALAR": {
+   "macro_f1": 0.3295887724459153,
+   "accuracy": 0.40675675675675677,
+   "macro_f1_ci": [
+    0.31499215403537045,
+    0.34479708499458717
+   ],
+   "per_condition_acc": {
+    "A": 0.0,
+    "N": 0.0,
+    "N_hard": 0.0,
+    "R": 0.9085365853658537,
+    "S": 0.926829268292683
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.0
+  },
+  "mcnemar_IND_vs": {
+   "TF": {
+    "IND_only_correct": 3,
+    "other_only_correct": 14,
+    "p_two_sided": 0.012725830078125
+   },
+   "NORM": {
+    "IND_only_correct": 168,
+    "other_only_correct": 80,
+    "p_two_sided": 2.378968047798704e-08
+   },
+   "RENORM3": {
+    "IND_only_correct": 396,
+    "other_only_correct": 78,
+    "p_two_sided": 2.8125839713269375e-52
+   },
+   "SCALAR": {
+    "IND_only_correct": 324,
+    "other_only_correct": 51,
+    "p_two_sided": 1.0611685930737174e-49
+   }
+  },
+  "delta_IND_vs": {
+   "TF": {
+    "delta_macro_f1": 0.00884115487148196,
+    "ci95_cluster": [
+     -0.0056079946182339135,
+     0.026192449443126153
+    ],
+    "p_perm_cluster": 0.30184907546226886,
+    "tost_accuracy": {
+     "diff": -0.014864864864864866,
+     "ci90": [
+      -0.023653088042049936,
+      -0.006702412868632708
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.6036981509245377
+   },
+   "NORM": {
+    "delta_macro_f1": -0.0008817116180617202,
+    "ci95_cluster": [
+     -0.03506779643161706,
+     0.03452520510760171
+    ],
+    "p_perm_cluster": 0.9660169915042479,
+    "tost_accuracy": {
+     "diff": 0.11891891891891893,
+     "ci90": [
+      0.0884450784593438,
+      0.14881780250347706
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.9660169915042479
+   },
+   "RENORM3": {
+    "delta_macro_f1": 0.3178203011748273,
+    "ci95_cluster": [
+     0.2779114402236575,
+     0.3567048058010891
+    ],
+    "p_perm_cluster": 0.0004997501249375312,
+    "tost_accuracy": {
+     "diff": 0.4297297297297297,
+     "ci90": [
+      0.38820301783264743,
+      0.46756756756756757
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.001999000499750125
+   },
+   "SCALAR": {
+    "delta_macro_f1": 0.3167138429368334,
+    "ci95_cluster": [
+     0.2897180945305347,
+     0.3436660510787911
+    ],
+    "p_perm_cluster": 0.0004997501249375312,
+    "tost_accuracy": {
+     "diff": 0.3689189189189189,
+     "ci90": [
+      0.33791208791208793,
+      0.39762219286657857
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.001999000499750125
+   }
+  }
+ },
+ "condition_means_IND": {
+  "A": {
+   "D": 0.004161173047509503,
+   "E": 0.00416642972426631,
+   "I": 0.012141621938482417,
+   "n": 86
+  },
+  "N": {
+   "D": -2.0202160809662058e-08,
+   "E": 2.0336809856127623e-08,
+   "I": 0.00974026832130989,
+   "n": 164
+  },
+  "N_hard": {
+   "D": -0.00024641226580924684,
+   "E": 0.0043619217067747485,
+   "I": 0.01786524794234643,
+   "n": 162
+  },
+  "R": {
+   "D": -0.1958909233385626,
+   "E": 0.2584870681460193,
+   "I": 0.014763779889580718,
+   "n": 164
+  },
+  "S": {
+   "D": 0.3080141344757756,
+   "E": 0.3085228755370256,
+   "I": 0.00968995768994851,
+   "n": 164
+  }
+ },
+ "doc_level_I": {
+  "A": {
+   "mean": 0.01283827237757567,
+   "share_gt_0_5": 0.012295081967213115,
+   "max": 0.9999999468421517,
+   "p90": 5.043476486153955e-07,
+   "n_docs": 244
+  },
+  "N": {
+   "mean": 0.00974026832130989,
+   "share_gt_0_5": 0.01016260162601626,
+   "max": 0.9999038976108481,
+   "p90": 1.344040976843643e-08,
+   "n_docs": 492
+  },
+  "N_hard": {
+   "mean": 0.01786524794234643,
+   "share_gt_0_5": 0.01646090534979424,
+   "max": 0.9999991684720798,
+   "p90": 1.855391459747226e-07,
+   "n_docs": 486
+  },
+  "R": {
+   "mean": 0.01482404021566064,
+   "share_gt_0_5": 0.014285714285714285,
+   "max": 0.9999999317439638,
+   "p90": 2.382369666934343e-07,
+   "n_docs": 490
+  },
+  "S": {
+   "mean": 0.009729508537662588,
+   "share_gt_0_5": 0.01020408163265306,
+   "max": 0.9997965729604302,
+   "p90": 5.315784970271125e-08,
+   "n_docs": 490
+  }
+ },
+ "emitted_behaviours_test": {
+  "A": {
+   "IND": {
+    "ANSWER": 1,
+    "REFUTE": 0,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 82,
+    "ABSTAIN_INDETERMINATE": 3
+   },
+   "TF": {
+    "ANSWER": 1,
+    "REFUTE": 0,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 85,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "N": {
+   "IND": {
+    "ANSWER": 0,
+    "REFUTE": 0,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 159,
+    "ABSTAIN_INDETERMINATE": 5
+   },
+   "TF": {
+    "ANSWER": 0,
+    "REFUTE": 0,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 164,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "N_hard": {
+   "IND": {
+    "ANSWER": 1,
+    "REFUTE": 0,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 154,
+    "ABSTAIN_INDETERMINATE": 7
+   },
+   "TF": {
+    "ANSWER": 1,
+    "REFUTE": 1,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 160,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "R": {
+   "IND": {
+    "ANSWER": 5,
+    "REFUTE": 107,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 49,
+    "ABSTAIN_INDETERMINATE": 3
+   },
+   "TF": {
+    "ANSWER": 5,
+    "REFUTE": 109,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 50,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "S": {
+   "IND": {
+    "ANSWER": 151,
+    "REFUTE": 0,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 12,
+    "ABSTAIN_INDETERMINATE": 1
+   },
+   "TF": {
+    "ANSWER": 152,
+    "REFUTE": 0,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 12,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  }
+ },
+ "status": "secondary instrument; same battery, pipeline and thresholds procedure as NLI run nli_cum_acc"
+}

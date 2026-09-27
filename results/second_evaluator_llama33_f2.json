@@ -1,0 +1,392 @@
+{
+ "docs_excluded_no_logprobs": 0,
+ "model": "meta-llama/llama-3.3-70b-instruct",
+ "framing": 2,
+ "framing_text": {
+  "T": "Would a careful reader conclude from this passage alone that it is true that {c}?",
+  "F": "Would a careful reader conclude from this passage alone that it is false that {c}?",
+  "I": "Would a careful reader conclude from this passage alone that the question whether {c} cannot be settled?"
+ },
+ "n_items": 1020,
+ "n_dev": 280,
+ "n_test": 740,
+ "gate_H4": {
+  "collapse_R2_insample": 0.04827581238303713,
+  "nonredundancy": {
+   "poly2_ridge": 0.021656532881090106,
+   "poly4_ridge": 0.01315042325970528,
+   "random_forest": -0.029278500904559034,
+   "grad_boosting": -0.08528207196539177,
+   "knn10": -0.05660050764989026,
+   "mlp": 0.017158266367174567,
+   "max_cv_r2": 0.021656532881090106,
+   "nn_pairs": 21192,
+   "nn_mean_abs_dI": 0.45276703611808083,
+   "random_mean_abs_dI": 0.4893944298598566,
+   "nn_ratio": 0.9251577224688389,
+   "verdict": "I not well predicted from (T,F) by any tested class (empirical non-redundancy; not a certificate)"
+  }
+ },
+ "thresholds": {
+  "IND": {
+   "c0": 0.7,
+   "d0": 0.05,
+   "m0": 0.1,
+   "kappa": 0.95
+  },
+  "TF": {
+   "c0": 0.7,
+   "d0": 0.05,
+   "m0": 0.1
+  },
+  "NORM": {
+   "c0": 0.5,
+   "d0": 0.3,
+   "kappa": 0.9
+  },
+  "RENORM3": {
+   "c0": 0.5,
+   "d0": 0.05,
+   "kappa": 0.7
+  },
+  "SCALAR": {
+   "t1": 0.15,
+   "t2": 0.1
+  }
+ },
+ "summary": {
+  "IND": {
+   "macro_f1": 0.4765190554143134,
+   "accuracy": 0.49594594594594593,
+   "macro_f1_ci": [
+    0.43816230181329296,
+    0.513757972713772
+   ],
+   "per_condition_acc": {
+    "A": 0.2441860465116279,
+    "N": 0.3048780487804878,
+    "N_hard": 0.36419753086419754,
+    "R": 0.8841463414634146,
+    "S": 0.5609756097560976
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.34050456417071523
+  },
+  "TF": {
+   "macro_f1": 0.4257444274362399,
+   "accuracy": 0.5081081081081081,
+   "macro_f1_ci": [
+    0.38989201543183427,
+    0.4614571486383712
+   ],
+   "per_condition_acc": {
+    "A": 0.0,
+    "N": 0.36585365853658536,
+    "N_hard": 0.4876543209876543,
+    "R": 0.8841463414634146,
+    "S": 0.5609756097560976
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.27634194831013914
+  },
+  "NORM": {
+   "macro_f1": 0.3750115188436634,
+   "accuracy": 0.35135135135135137,
+   "macro_f1_ci": [
+    0.3423726059896216,
+    0.4077767545843159
+   ],
+   "per_condition_acc": {
+    "A": 0.38372093023255816,
+    "N": 0.07317073170731707,
+    "N_hard": 0.08641975308641975,
+    "R": 0.725609756097561,
+    "S": 0.5
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.21616541353383462
+  },
+  "RENORM3": {
+   "macro_f1": 0.3708464013132586,
+   "accuracy": 0.37027027027027026,
+   "macro_f1_ci": [
+    0.341973234350933,
+    0.39818232105321383
+   ],
+   "per_condition_acc": {
+    "A": 0.4883720930232558,
+    "N": 0.0,
+    "N_hard": 0.0,
+    "R": 0.8597560975609756,
+    "S": 0.5548780487804879
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.17283950617283952
+  },
+  "SCALAR": {
+   "macro_f1": 0.28636037186290547,
+   "accuracy": 0.3527027027027027,
+   "macro_f1_ci": [
+    0.2711797812466815,
+    0.3025378906416007
+   ],
+   "per_condition_acc": {
+    "A": 0.0,
+    "N": 0.0,
+    "N_hard": 0.0,
+    "R": 0.7134146341463414,
+    "S": 0.8780487804878049
+   },
+   "over_answer_rate_conflict": null,
+   "AN_macro_f1": 0.0
+  },
+  "mcnemar_IND_vs": {
+   "TF": {
+    "IND_only_correct": 21,
+    "other_only_correct": 30,
+    "p_two_sided": 0.2624375357110438
+   },
+   "NORM": {
+    "IND_only_correct": 157,
+    "other_only_correct": 50,
+    "p_two_sided": 4.5974278242629657e-14
+   },
+   "RENORM3": {
+    "IND_only_correct": 152,
+    "other_only_correct": 59,
+    "p_two_sided": 1.2039751647019154e-10
+   },
+   "SCALAR": {
+    "IND_only_correct": 159,
+    "other_only_correct": 53,
+    "p_two_sided": 1.6974659658192612e-13
+   }
+  },
+  "delta_IND_vs": {
+   "TF": {
+    "delta_macro_f1": 0.05077462797807347,
+    "ci95_cluster": [
+     0.028789478777081823,
+     0.07258057875288237
+    ],
+    "p_perm_cluster": 0.00399800099950025,
+    "tost_accuracy": {
+     "diff": -0.012162162162162163,
+     "ci90": [
+      -0.02734375,
+      0.003968253968253968
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.00399800099950025
+   },
+   "NORM": {
+    "delta_macro_f1": 0.10150753657064998,
+    "ci95_cluster": [
+     0.06847458556623459,
+     0.13362295921402295
+    ],
+    "p_perm_cluster": 0.0004997501249375312,
+    "tost_accuracy": {
+     "diff": 0.1445945945945946,
+     "ci90": [
+      0.11570247933884298,
+      0.1724137931034483
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.001999000499750125
+   },
+   "RENORM3": {
+    "delta_macro_f1": 0.10567265410105481,
+    "ci95_cluster": [
+     0.06998557413815937,
+     0.14208966180028176
+    ],
+    "p_perm_cluster": 0.0004997501249375312,
+    "tost_accuracy": {
+     "diff": 0.12567567567567567,
+     "ci90": [
+      0.09345794392523364,
+      0.16033755274261605
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.001999000499750125
+   },
+   "SCALAR": {
+    "delta_macro_f1": 0.19015868355140791,
+    "ci95_cluster": [
+     0.15222273333443975,
+     0.22635587499720422
+    ],
+    "p_perm_cluster": 0.0004997501249375312,
+    "tost_accuracy": {
+     "diff": 0.14324324324324325,
+     "ci90": [
+      0.10923276983094929,
+      0.17655172413793102
+     ],
+     "margin": 0.02,
+     "equivalent": false
+    },
+    "p_perm_holm": 0.001999000499750125
+   }
+  }
+ },
+ "condition_means_IND": {
+  "A": {
+   "D": -0.3079204062849761,
+   "E": 0.31571636074163345,
+   "I": 0.5000511123611862,
+   "n": 86
+  },
+  "N": {
+   "D": -0.40358683356784125,
+   "E": 0.403586833763959,
+   "I": 0.483855941593813,
+   "n": 164
+  },
+  "N_hard": {
+   "D": -0.31184563478703387,
+   "E": 0.3159608659378782,
+   "I": 0.531679688112224,
+   "n": 162
+  },
+  "R": {
+   "D": -0.29933478214078213,
+   "E": 0.5416901370638075,
+   "I": 0.31778734845244344,
+   "n": 164
+  },
+  "S": {
+   "D": 0.0715411832811631,
+   "E": 0.5155425728469267,
+   "I": 0.36166281462925426,
+   "n": 164
+  }
+ },
+ "doc_level_I": {
+  "A": {
+   "mean": 0.5287425696278116,
+   "share_gt_0_5": 0.5204918032786885,
+   "max": 0.9999999997538302,
+   "p90": 0.9999999715466529,
+   "n_docs": 244
+  },
+  "N": {
+   "mean": 0.483855941593813,
+   "share_gt_0_5": 0.4878048780487805,
+   "max": 0.9999999998973812,
+   "p90": 0.9999999827421726,
+   "n_docs": 492
+  },
+  "N_hard": {
+   "mean": 0.5316796881122239,
+   "share_gt_0_5": 0.5288065843621399,
+   "max": 0.9999999998506905,
+   "p90": 0.9999999804443195,
+   "n_docs": 486
+  },
+  "R": {
+   "mean": 0.31908443967061667,
+   "share_gt_0_5": 0.3224489795918367,
+   "max": 0.999999999782756,
+   "p90": 0.9999991684720783,
+   "n_docs": 490
+  },
+  "S": {
+   "mean": 0.36313898938284306,
+   "share_gt_0_5": 0.363265306122449,
+   "max": 0.9999999997538302,
+   "p90": 0.9999999586006251,
+   "n_docs": 490
+  }
+ },
+ "emitted_behaviours_test": {
+  "A": {
+   "IND": {
+    "ANSWER": 1,
+    "REFUTE": 33,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 31,
+    "ABSTAIN_INDETERMINATE": 21
+   },
+   "TF": {
+    "ANSWER": 1,
+    "REFUTE": 47,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 38,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "N": {
+   "IND": {
+    "ANSWER": 0,
+    "REFUTE": 74,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 50,
+    "ABSTAIN_INDETERMINATE": 40
+   },
+   "TF": {
+    "ANSWER": 0,
+    "REFUTE": 104,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 60,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "N_hard": {
+   "IND": {
+    "ANSWER": 1,
+    "REFUTE": 52,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 59,
+    "ABSTAIN_INDETERMINATE": 50
+   },
+   "TF": {
+    "ANSWER": 1,
+    "REFUTE": 82,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 79,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "R": {
+   "IND": {
+    "ANSWER": 6,
+    "REFUTE": 145,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 12,
+    "ABSTAIN_INDETERMINATE": 1
+   },
+   "TF": {
+    "ANSWER": 6,
+    "REFUTE": 145,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 13,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  },
+  "S": {
+   "IND": {
+    "ANSWER": 92,
+    "REFUTE": 45,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 27,
+    "ABSTAIN_INDETERMINATE": 0
+   },
+   "TF": {
+    "ANSWER": 92,
+    "REFUTE": 45,
+    "CONFLICT_AWARE": 0,
+    "ABSTAIN_INSUFFICIENT": 27,
+    "ABSTAIN_INDETERMINATE": 0
+   }
+  }
+ },
+ "status": "secondary instrument; same battery, pipeline and thresholds procedure as NLI run nli_cum_acc"
+}

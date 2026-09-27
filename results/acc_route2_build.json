@@ -1,0 +1,32 @@
+{
+ "log": {
+  "comparisons": 150,
+  "drop_value_in_antecedent": 18,
+  "seeds_pre_llm": 132,
+  "gen_twin_drift": 5,
+  "gen_bad_twin": 17,
+  "gen_ok": 89,
+  "gen_role_scope": 19,
+  "gen_arith_check_failed": 1,
+  "gen_bad_fact": 1,
+  "real_drop_lookalike": 16,
+  "real_final": 58
+ },
+ "seeds_final": 89,
+ "clauses_final": 77,
+ "items": 503,
+ "by_condition": {
+  "D": 89,
+  "INS_reg": 89,
+  "INS_design": 89,
+  "IND_del": 89,
+  "IND_sil": 89,
+  "IND_real": 58
+ },
+ "ins_reg_round": {
+  "1": 86,
+  "None": 1,
+  "2": 2
+ },
+ "cost": "deepseek/deepseek-chat-v3.1: 260 llamadas nuevas, 48522 in, 13321 out, 0.025 USD\nTOTAL nuevo: 0.025 USD"
+}

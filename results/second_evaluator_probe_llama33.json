@@ -1,0 +1,99 @@
+{
+ "model": "meta-llama/llama-3.3-70b-instruct",
+ "n_discretionary": 94,
+ "n_decidable": 236,
+ "framings": {
+  "EVID": {
+   "question": "Is it uncertain whether this requirement is met?",
+   "auroc": 0.6683645870897944,
+   "ci95": [
+    0.6051501081860801,
+    0.7275085647313378
+   ],
+   "mean_p_discretionary": 0.06976883636988404,
+   "mean_p_decidable": 0.02132290228184303,
+   "share_gt_0_5_discretionary": 0.06382978723404255,
+   "share_gt_0_5_decidable": 0.025423728813559324,
+   "n_failed": 0,
+   "digit_controlled": {
+    "n_discretionary_with_digit": 1,
+    "n_decidable": 236,
+    "auroc": 0.8940677966101694,
+    "ci95": [
+     0.8559322033898306,
+     0.9322033898305084
+    ]
+   }
+  },
+  "APPL": {
+   "question": "Does this provision leave its requirement without a measurable threshold?",
+   "auroc": 0.9726153984853949,
+   "ci95": [
+    0.9564765146051207,
+    0.9865229444644789
+   ],
+   "mean_p_discretionary": 0.9563775091932456,
+   "mean_p_decidable": 0.14168433758444512,
+   "share_gt_0_5_discretionary": 0.9574468085106383,
+   "share_gt_0_5_decidable": 0.13983050847457626,
+   "n_failed": 0,
+   "digit_controlled": {
+    "n_discretionary_with_digit": 1,
+    "n_decidable": 236,
+    "auroc": 0.7669491525423728,
+    "ci95": [
+     0.711864406779661,
+     0.8220338983050848
+    ]
+   }
+  },
+  "JUDG": {
+   "question": "Does this provision leave the requirement to professional judgement?",
+   "auroc": 0.8921520014424811,
+   "ci95": [
+    0.8545038090515686,
+    0.9258514019112872
+   ],
+   "mean_p_discretionary": 0.8385265220833267,
+   "mean_p_decidable": 0.23519039778503106,
+   "share_gt_0_5_discretionary": 0.851063829787234,
+   "share_gt_0_5_decidable": 0.2288135593220339,
+   "n_failed": 0,
+   "digit_controlled": {
+    "n_discretionary_with_digit": 1,
+    "n_decidable": 236,
+    "auroc": 0.9872881355932204,
+    "ci95": [
+     0.9703389830508474,
+     1.0
+    ]
+   }
+  },
+  "CTRL": {
+   "question": "Does this provision concern a building?",
+   "auroc": 0.5476469527587451,
+   "ci95": [
+    0.47909754778218533,
+    0.6114682879552831
+   ],
+   "mean_p_discretionary": 0.9766592632543034,
+   "mean_p_decidable": 0.94623125396443,
+   "share_gt_0_5_discretionary": 0.9787234042553191,
+   "share_gt_0_5_decidable": 0.9449152542372882,
+   "n_failed": 0,
+   "digit_controlled": {
+    "n_discretionary_with_digit": 1,
+    "n_decidable": 236,
+    "auroc": 0.9491525423728814,
+    "ci95": [
+     0.9300847457627118,
+     0.9661016949152542
+    ]
+   }
+  }
+ },
+ "cost_this_probe_usd": 0.02819041499999997,
+ "total_second_evaluator_usd": 0.56850779,
+ "hard_cap_usd": 2.0,
+ "status": "secondary instrument; direct clause probe, same classes as 20_framing_probe.py"
+}

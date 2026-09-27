@@ -1,0 +1,803 @@
+{
+ "s0022_1": {
+  "seed": "s0022_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0022_3": {
+  "seed": "s0022_3",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0051_1": {
+  "seed": "s0051_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0055_1": {
+  "seed": "s0055_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0059_1": {
+  "seed": "s0059_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0059_2": {
+  "seed": "s0059_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "An OTHER_CLAUSE states that the tread must be at least 270 millimetres, fixing another numeric threshold for tread."
+ },
+ "s0063_1": {
+  "seed": "s0063_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0084_1": {
+  "seed": "s0084_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0088_1": {
+  "seed": "s0088_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0088_2": {
+  "seed": "s0088_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0093_1": {
+  "seed": "s0093_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "Several OTHER_CLAUSES set numeric minimum widths for exits, including 900 and 1,200 millimetres."
+ },
+ "s0103_1": {
+  "seed": "s0103_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0117_1": {
+  "seed": "s0117_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0155_1": {
+  "seed": "s0155_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "An OTHER_CLAUSE requires a total barrier height of one metre when the drop is no more than six metres."
+ },
+ "s0171_1": {
+  "seed": "s0171_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0177_1": {
+  "seed": "s0177_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0193_1": {
+  "seed": "s0193_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0195_1": {
+  "seed": "s0195_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0198_1": {
+  "seed": "s0198_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0204_1": {
+  "seed": "s0204_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0223_1": {
+  "seed": "s0223_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0224_1": {
+  "seed": "s0224_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0230_1": {
+  "seed": "s0230_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0241_1": {
+  "seed": "s0241_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0263_1": {
+  "seed": "s0263_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0263_2": {
+  "seed": "s0263_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "An OTHER_CLAUSE explicitly requires the tread to be no less than 270 millimetres."
+ },
+ "s0266_1": {
+  "seed": "s0266_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0269_1": {
+  "seed": "s0269_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0281_1": {
+  "seed": "s0281_1",
+  "q1_requirement": false,
+  "q2_verdict_correct": false,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": "The clause requires the bay to be capable of being widened to 3.3m; it does not impose width <= 3.3m. A stated widened width of 2.47m therefore does not establish compliance."
+ },
+ "s0284_1": {
+  "seed": "s0284_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0284_2": {
+  "seed": "s0284_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0285_1": {
+  "seed": "s0285_1",
+  "q1_requirement": false,
+  "q2_verdict_correct": false,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "The 300mm going is merely preferred, so 225mm is not a compliance violation. Another clause sets a 280mm minimum going for external tapered steps."
+ },
+ "s0288_1": {
+  "seed": "s0288_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0308_1": {
+  "seed": "s0308_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0353_1": {
+  "seed": "s0353_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0398_1": {
+  "seed": "s0398_1",
+  "q1_requirement": false,
+  "q2_verdict_correct": false,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": "The extension-area limit is phrased as a scope/applicability condition; exceeding it changes applicability rather than itself constituting a violation."
+ },
+ "s0405_1": {
+  "seed": "s0405_1",
+  "q1_requirement": false,
+  "q2_verdict_correct": false,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": "The capacity statement describes a system/category condition rather than a requirement that every compliant design must satisfy, so 375 litres cannot by itself establish compliance."
+ },
+ "s0420_1": {
+  "seed": "s0420_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "Another clause fixes a numeric tread minimum of 270mm."
+ },
+ "s0420_2": {
+  "seed": "s0420_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "Other clauses fix numeric riser limits of 220mm for emergency-exit stairs and 180mm for indoor steps in other everyday-use spaces."
+ },
+ "s0422_2": {
+  "seed": "s0422_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0435_1": {
+  "seed": "s0435_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0463_1": {
+  "seed": "s0463_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0464_1": {
+  "seed": "s0464_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0478_1": {
+  "seed": "s0478_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0478_2": {
+  "seed": "s0478_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0491_1": {
+  "seed": "s0491_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0492_1": {
+  "seed": "s0492_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0492_2": {
+  "seed": "s0492_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0494_1": {
+  "seed": "s0494_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0495_1": {
+  "seed": "s0495_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0507_1": {
+  "seed": "s0507_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0509_1": {
+  "seed": "s0509_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0512_1": {
+  "seed": "s0512_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0514_1": {
+  "seed": "s0514_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0521_1": {
+  "seed": "s0521_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0523_1": {
+  "seed": "s0523_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0579_1": {
+  "seed": "s0579_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0592_1": {
+  "seed": "s0592_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0597_1": {
+  "seed": "s0597_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0600_1": {
+  "seed": "s0600_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "An OTHER_CLAUSE fixes the width of a dwelling's exit at no less than 850 millimetres when a lift or other level-changing device is installed in an existing building."
+ },
+ "s0603_1": {
+  "seed": "s0603_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0603_2": {
+  "seed": "s0603_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0615_1": {
+  "seed": "s0615_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "OTHER_CLAUSES gives other numeric width thresholds for exits, including 850 mm and conditional 900 mm requirements."
+ },
+ "s0615_2": {
+  "seed": "s0615_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0619_1": {
+  "seed": "s0619_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0622_1": {
+  "seed": "s0622_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0647_1": {
+  "seed": "s0647_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0649_1": {
+  "seed": "s0649_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0656_1": {
+  "seed": "s0656_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0660_1": {
+  "seed": "s0660_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0661_1": {
+  "seed": "s0661_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0668_1": {
+  "seed": "s0668_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0671_1": {
+  "seed": "s0671_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0680_1": {
+  "seed": "s0680_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0681_1": {
+  "seed": "s0681_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": false,
+  "note": "OTHER_CLAUSES fixes other numeric minimum tread depths, including 220 mm and 270 mm."
+ },
+ "s0681_2": {
+  "seed": "s0681_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0696_1": {
+  "seed": "s0696_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0712_1": {
+  "seed": "s0712_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0716_1": {
+  "seed": "s0716_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0729_1": {
+  "seed": "s0729_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0745_1": {
+  "seed": "s0745_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0745_2": {
+  "seed": "s0745_2",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0768_1": {
+  "seed": "s0768_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0770_1": {
+  "seed": "s0770_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0815_1": {
+  "seed": "s0815_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": false,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": "The FACT is internally inconsistent: 9 mg/m3 exceeds the limit, while the stated 6 ppm equals the clause's parenthetical limit, so VIOLATES is not unambiguously correct."
+ },
+ "s0827_1": {
+  "seed": "s0827_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0832_1": {
+  "seed": "s0832_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0851_1": {
+  "seed": "s0851_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": true,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": ""
+ },
+ "s0854_1": {
+  "seed": "s0854_1",
+  "q1_requirement": true,
+  "q2_verdict_correct": false,
+  "q3_missing_ok": true,
+  "q4_twin_no_threshold": true,
+  "q5_no_other_threshold": true,
+  "note": "The 9mm minimum grammatically applies to timber sheathing; the FACT does not identify the resilient layer as timber sheathing and it could instead be expanded metal or a similar permitted material."
+ }
+}

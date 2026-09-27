@@ -1,0 +1,27 @@
+
+== framing 1  spent so far 0.1205 USD, 4050 new calls
+  A       I_mean(agg) 0.012  docI_mean 0.013  docI>0.5 0.012  IND emits IND-abst 3/86
+  N       I_mean(agg) 0.010  docI_mean 0.010  docI>0.5 0.010  IND emits IND-abst 5/164
+  N_hard  I_mean(agg) 0.018  docI_mean 0.018  docI>0.5 0.016  IND emits IND-abst 7/162
+  R       I_mean(agg) 0.015  docI_mean 0.015  docI>0.5 0.014  IND emits IND-abst 3/164
+  S       I_mean(agg) 0.010  docI_mean 0.010  docI>0.5 0.010  IND emits IND-abst 1/164
+  IND      macroF1 0.646 acc 0.776 AN 0.4638222490765026 per-cond {'A': 0.03488372093023256, 'N': 0.9695121951219512, 'N_hard': 0.9506172839506173, 'R': 0.6524390243902439, 'S': 0.9207317073170732}
+  TF       macroF1 0.637 acc 0.791 AN 0.4408163265306123 per-cond {'A': 0.0, 'N': 1.0, 'N_hard': 0.9876543209876543, 'R': 0.6646341463414634, 'S': 0.926829268292683}
+  NORM     macroF1 0.647 acc 0.657 AN 0.47678591454525066 per-cond {'A': 0.46511627906976744, 'N': 0.5487804878048781, 'N_hard': 0.4382716049382716, 'R': 0.8170731707317073, 'S': 0.9207317073170732}
+  RENORM3  macroF1 0.328 acc 0.346 AN 0.1346370513439562 per-cond {'A': 0.23255813953488372, 'N': 0.0, 'N_hard': 0.006172839506172839, 'R': 0.9878048780487805, 'S': 0.4451219512195122}
+  SCALAR   macroF1 0.330 acc 0.407 AN 0.0 per-cond {'A': 0.0, 'N': 0.0, 'N_hard': 0.0, 'R': 0.9085365853658537, 'S': 0.926829268292683}
+  IND vs TF {'delta_macro_f1': 0.00884115487148196, 'ci95_cluster': [-0.0056079946182339135, 0.026192449443126153], 'p_perm_cluster': 0.30184907546226886, 'tost_accuracy': {'diff': -0.014864864864864866, 'ci90': [-0.023653088042049936, -0.006702412868632708], 'margin': 0.02, 'equivalent': False}, 'p_perm_holm': 0.6036981509245377}
+
+== framing 2  spent so far 0.3884 USD, 13011 new calls
+  A       I_mean(agg) 0.500  docI_mean 0.529  docI>0.5 0.520  IND emits IND-abst 21/86
+  N       I_mean(agg) 0.484  docI_mean 0.484  docI>0.5 0.488  IND emits IND-abst 40/164
+  N_hard  I_mean(agg) 0.532  docI_mean 0.532  docI>0.5 0.529  IND emits IND-abst 50/162
+  R       I_mean(agg) 0.318  docI_mean 0.319  docI>0.5 0.322  IND emits IND-abst 1/164
+  S       I_mean(agg) 0.362  docI_mean 0.363  docI>0.5 0.363  IND emits IND-abst 0/164
+  IND      macroF1 0.477 acc 0.496 AN 0.34050456417071523 per-cond {'A': 0.2441860465116279, 'N': 0.3048780487804878, 'N_hard': 0.36419753086419754, 'R': 0.8841463414634146, 'S': 0.5609756097560976}
+  TF       macroF1 0.426 acc 0.508 AN 0.27634194831013914 per-cond {'A': 0.0, 'N': 0.36585365853658536, 'N_hard': 0.4876543209876543, 'R': 0.8841463414634146, 'S': 0.5609756097560976}
+  NORM     macroF1 0.375 acc 0.351 AN 0.21616541353383462 per-cond {'A': 0.38372093023255816, 'N': 0.07317073170731707, 'N_hard': 0.08641975308641975, 'R': 0.725609756097561, 'S': 0.5}
+  RENORM3  macroF1 0.371 acc 0.370 AN 0.17283950617283952 per-cond {'A': 0.4883720930232558, 'N': 0.0, 'N_hard': 0.0, 'R': 0.8597560975609756, 'S': 0.5548780487804879}
+  SCALAR   macroF1 0.286 acc 0.353 AN 0.0 per-cond {'A': 0.0, 'N': 0.0, 'N_hard': 0.0, 'R': 0.7134146341463414, 'S': 0.8780487804878049}
+  IND vs TF {'delta_macro_f1': 0.05077462797807347, 'ci95_cluster': [0.028789478777081823, 0.07258057875288237], 'p_perm_cluster': 0.00399800099950025, 'tost_accuracy': {'diff': -0.012162162162162163, 'ci90': [-0.02734375, 0.003968253968253968], 'margin': 0.02, 'equivalent': False}, 'p_perm_holm': 0.00399800099950025}
+TOTAL gasto (todas las llamadas en cache): 0.5403 USD en 17922 llamadas

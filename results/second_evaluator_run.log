@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "C:\Users\HP\Documents\ACC_TypedAbstention_2026\code\49_second_evaluator.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\HP\Documents\ACC_TypedAbstention_2026\code\49_second_evaluator.py", line 125, in main
+    sc = dict(ex.map(score_pair, pairs))
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 639, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 311, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 450, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 395, in __get_result
+    raise self._exception
+  File "C:\Python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Users\HP\Documents\ACC_TypedAbstention_2026\code\49_second_evaluator.py", line 123, in score_pair
+    return pc, {ch: ask(pc[0], q[ch], a.budget) for ch in ("T", "F", "I")}
+                    ~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Documents\ACC_TypedAbstention_2026\code\49_second_evaluator.py", line 78, in ask
+    raise RuntimeError(f"fallo: {last}")
+RuntimeError: fallo: no logprobs

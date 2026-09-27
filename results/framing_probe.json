@@ -1,0 +1,47 @@
+{
+  "model": "cross-encoder/nli-deberta-v3-base",
+  "n_discretionary": 94,
+  "n_decidable": 236,
+  "framings": {
+    "EVID": {
+      "hypothesis": "It is uncertain whether this requirement is met.",
+      "auroc": 0.6235124413992066,
+      "ci95": [
+        0.5582300306527227,
+        0.6900750540930398
+      ],
+      "mean_discretionary": 0.0001763206301086726,
+      "mean_decidable": 0.00010268413569650936
+    },
+    "APPL": {
+      "hypothesis": "This provision does not state a measurable threshold.",
+      "auroc": 0.7128110349801658,
+      "ci95": [
+        0.6575831680490444,
+        0.7665952939055175
+      ],
+      "mean_discretionary": 0.00025267456160865085,
+      "mean_decidable": 0.0019332904006798839
+    },
+    "JUDG": {
+      "hypothesis": "This provision leaves the requirement to professional judgement.",
+      "auroc": 0.625360620266859,
+      "ci95": [
+        0.5538214478903714,
+        0.6940148305084746
+      ],
+      "mean_discretionary": 7.777299332643607e-05,
+      "mean_decidable": 9.931620283076249e-05
+    },
+    "CTRL": {
+      "hypothesis": "This provision concerns a building.",
+      "auroc": 0.5083393436711143,
+      "ci95": [
+        0.4405787955283087,
+        0.5750112693833394
+      ],
+      "mean_discretionary": 0.10256405888480429,
+      "mean_decidable": 0.05750131653683453
+    }
+  }
+}

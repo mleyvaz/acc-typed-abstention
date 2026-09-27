@@ -1,0 +1,153 @@
+{
+ "n": 862,
+ "by_jurisdiction": {
+  "UK": {
+   "nondecidable": 79,
+   "total": 609,
+   "rate": 0.1297208538587849
+  },
+  "FI": {
+   "nondecidable": 15,
+   "total": 253,
+   "rate": 0.05928853754940711
+  }
+ },
+ "by_document": {
+  "UK_DocM_V2_AccessAndUseOfBuildings": {
+   "juris": "UK",
+   "nondecidable": 26,
+   "total": 204,
+   "rate": 0.12745098039215685
+  },
+  "UK_DocF_V1_Ventilation": {
+   "juris": "UK",
+   "nondecidable": 9,
+   "total": 69,
+   "rate": 0.13043478260869565
+  },
+  "Finnish_Health-WaterAndSewerage": {
+   "juris": "FI",
+   "nondecidable": 1,
+   "total": 45,
+   "rate": 0.022222222222222223
+  },
+  "UK_DocF_V2_Ventilation": {
+   "juris": "UK",
+   "nondecidable": 3,
+   "total": 26,
+   "rate": 0.11538461538461539
+  },
+  "Finnish_EnergyEfficiency": {
+   "juris": "FI",
+   "nondecidable": 0,
+   "total": 15,
+   "rate": 0.0
+  },
+  "Finnish_Accessibility": {
+   "juris": "FI",
+   "nondecidable": 5,
+   "total": 16,
+   "rate": 0.3125
+  },
+  "UK_DocL_V1_ConsrvationOfFuelAndPower": {
+   "juris": "UK",
+   "nondecidable": 21,
+   "total": 150,
+   "rate": 0.14
+  },
+  "Finnish_Health-Humidity": {
+   "juris": "FI",
+   "nondecidable": 0,
+   "total": 25,
+   "rate": 0.0
+  },
+  "UK_DocM_V1_AccessAndUseOfBuildings": {
+   "juris": "UK",
+   "nondecidable": 11,
+   "total": 57,
+   "rate": 0.19298245614035087
+  },
+  "Finnish_FireSafety": {
+   "juris": "FI",
+   "nondecidable": 3,
+   "total": 41,
+   "rate": 0.07317073170731707
+  },
+  "Finnish_SafetyOfUse": {
+   "juris": "FI",
+   "nondecidable": 5,
+   "total": 74,
+   "rate": 0.06756756756756757
+  },
+  "UK_DocO_Overheating": {
+   "juris": "UK",
+   "nondecidable": 3,
+   "total": 24,
+   "rate": 0.125
+  },
+  "UK_DocQ_Security_Dwellings": {
+   "juris": "UK",
+   "nondecidable": 1,
+   "total": 17,
+   "rate": 0.058823529411764705
+  },
+  "UK_DocR_V1_InfrastructureForElectircalCommunications": {
+   "juris": "UK",
+   "nondecidable": 0,
+   "total": 3,
+   "rate": 0.0
+  },
+  "UK_DocD_ToxicSubstances": {
+   "juris": "UK",
+   "nondecidable": 1,
+   "total": 4,
+   "rate": 0.25
+  },
+  "UK_DocS_InfrastructureForChargingOfElectricalVehicles": {
+   "juris": "UK",
+   "nondecidable": 2,
+   "total": 30,
+   "rate": 0.06666666666666667
+  },
+  "UK_DocA_Structure": {
+   "juris": "UK",
+   "nondecidable": 0,
+   "total": 5,
+   "rate": 0.0
+  },
+  "UK_DocP_ElectricalSafety": {
+   "juris": "UK",
+   "nondecidable": 2,
+   "total": 2,
+   "rate": 1.0
+  },
+  "Finnish_Health-IndoorClimateAndVentilation": {
+   "juris": "FI",
+   "nondecidable": 1,
+   "total": 22,
+   "rate": 0.045454545454545456
+  },
+  "UK_DocK_ProtectionFromFalling": {
+   "juris": "UK",
+   "nondecidable": 0,
+   "total": 18,
+   "rate": 0.0
+  },
+  "Finnish_StabilityOfStructures": {
+   "juris": "FI",
+   "nondecidable": 0,
+   "total": 13,
+   "rate": 0.0
+  },
+  "Finnish_AcousticEnvironment": {
+   "juris": "FI",
+   "nondecidable": 0,
+   "total": 2,
+   "rate": 0.0
+  }
+ },
+ "decidable": 236,
+ "discretionary": 94,
+ "contains_any_digit": 237,
+ "decidable_and_discretionary": 0
+}

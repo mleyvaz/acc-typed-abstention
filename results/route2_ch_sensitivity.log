@@ -1,0 +1,16 @@
+ch584_ce1x_risk1.0         total     -7.1 [-19,+5]  -2.1% | IND_del    +8.4 [+7,+9] | INS_reg   -39.3
+ch584_ce1x_risk0.05        total   +119.2 [+86,+153]  20.4% | IND_del    -0.7 [-1,-0] | INS_reg  +217.2
+ch584_ce3x_risk1.0         total    +11.1 [-13,+37]   2.7% | IND_del   +72.1 [+9,+147] | INS_reg   -38.6
+ch584_ce3x_risk0.05        total    +95.5 [+56,+135]  16.4% | IND_del   -48.0 [-106,-1] | INS_reg  +169.8
+ch1168_ce1x_risk1.0        total    -20.5 [-44,-0]  -3.1% | IND_del   +12.4 [+11,+14] | INS_reg   -94.2
+ch1168_ce1x_risk0.05       total   +239.5 [+174,+307]  20.5% | IND_del    -0.7 [-1,-0] | INS_reg  +438.2
+ch1168_ce3x_risk1.0        total    +12.3 [-36,+60]   1.5% | IND_del   +76.8 [-75,+229] | INS_reg   -61.1
+ch1168_ce3x_risk0.05       total   +192.2 [+114,+271]  16.5% | IND_del   -95.4 [-211,-1] | INS_reg  +343.5
+ch2920_ce1x_risk1.0        total   +140.8 [+49,+219]   9.4% | IND_del  +856.5 [+749,+958] | INS_reg  -250.0
+ch2920_ce1x_risk0.05       total   +759.3 [+544,+985]  26.0% | IND_del   -15.3 [-46,-0] | INS_reg +1057.3
+ch2920_ce3x_risk1.0        total   +321.4 [+157,+478]  16.2% | IND_del +1355.8 [+1020,+1716] | INS_reg  -259.2
+ch2920_ce3x_risk0.05       total   +640.9 [+400,+891]  22.0% | IND_del  -252.0 [-540,-15] | INS_reg  +820.5
+ch5510_ce1x_risk1.0        total    +62.1 [-93,+198]   2.6% | IND_del  +856.5 [+749,+958] | INS_reg  -460.0
+ch5510_ce1x_risk0.05       total  +1573.1 [+1140,+2022]  28.5% | IND_del   -15.3 [-46,-0] | INS_reg +2037.3
+ch5510_ce3x_risk1.0        total   +391.4 [+91,+682]  12.0% | IND_del +1775.8 [+1105,+2497] | INS_reg  -504.2
+ch5510_ce3x_risk0.05       total  +1349.7 [+885,+1835]  24.5% | IND_del  -462.0 [-1006,-15] | INS_reg +1590.5

@@ -1,0 +1,754 @@
+
+Guido Esteban Macchiavello Almeida 
+Ministro de Desarrollo Urbano y Vivienda 
+Andrea Verónica Estupiñán Trujillo   
+Subsecretaria de Hábitat y Espacio Público 
+Textos y Edición 
+Ministerio de Desarrollo Urbano y Vivienda (MIDUVI) 
+Noviembre, 2019 
+
+El Gobierno Nacional, a través del Ministerio de Desarrollo Urbano y Vivienda (MIDUVI), como 
+ente rector en materia de hábitat y asentamientos humanos, ha impulsado un cambio 
+estructural en la política habitacional y constructiva en todo el país con la elaboración de 
+documentos que fomentan el desarrollo ordenado de los asentamientos humanos y el acceso a 
+la vivienda digna.  
+De acuerdo con el Decreto Ejecutivo No. 705 del 24 de marzo de 2011, el MIDUVI coordina el 
+trabajo para la elaboración de la Norma Ecuatoriana de la Construcción (NEC) y preside el 
+Comité Ejecutivo de la NEC, integrado por el Ministerio Coordinador de Seguridad MICS 
+eliminado mediante Decreto Ejecutivo No. 7 del 24 de mayo de 2017; el Servicio Nacional de 
+Gestión de Riesgos y Emergencias (SNGRE); la Secretaría de Educación Superior, Ciencia, 
+Tecnología e Innovación (SENESCYT); la Asociación de Municipalidades Ecuatorianas (AME); 
+la Federación Ecuatoriana de Cámaras de la Construcción (FECC) y un representante de las 
+Facultades de Ingeniería de las Universidades y Escuelas Politécnicas.  
+En cumplimiento de lo dispuesto, la NEC establece un conjunto de especificaciones mínimas, 
+organizadas por capítulos dentro de tres ejes de acción: Seguridad Estructural (NEC-SE); 
+Habitabilidad y Salud (NEC-HS) y Servicios Básicos (NEC-SB). Adicionalmente, la NEC incluye 
+la figura de Documentos Reconocidos (NEC-DR) que contiene información complementaria a 
+los capítulos de los tres ejes establecidos.  
+La NEC es de cumplimiento obligatorio a nivel nacional y debe ser considerada en todos los 
+procesos constructivos, como lo indica la Disposición General Décimo Quinta de la Ley 
+Orgánica Reformatoria al Código Orgánico de Organización Territorial, Autonomía y 
+Descentralización (COOTAD), publicada el 21 de enero de 2014 en el Suplemento del Registro 
+Oficial N° 166, Art. 63.  
+Se constituye en una normativa que busca la calidad de vida de los ecuatorianos y aporta en la 
+construcción de una cultura de seguridad y prevención; por ello, define los principios básicos 
+para el diseño sismo resistente de las estructuras; establece parámetros mínimos de seguridad 
+y calidad en las edificaciones; optimiza los mecanismos de control y mantenimiento en los 
+procesos constructivos; reduce el consumo y mejora la eficiencia energética de las 
+edificaciones; aboga por el cumplimiento de los principios básicos de habitabilidad y salud; y 
+además fija responsabilidades, obligaciones y derechos de todos los actores involucrados en la 
+construcción.  
+Con la expedición de la Norma Ecuatoriana de la Construcción, el MIDUVI y quienes integran el 
+Comité Ejecutivo presentan al país este documento como un aporte al buen vivir de todos los 
+ecuatorianos.  
+■Presentación
+
+Ministerio de Desarrollo Urbano y Vivienda 
+En el marco del Eje de Habitabilidad y Salud (NEC-HS), se ha desarrollado el capítulo NEC-
+HS-CI: Contra incendios, que contempla los requisitos mínimos para el diseño, instalación, 
+operación y mantenimiento del sistema contra incendios de todas las edificaciones para la 
+seguridad de la vida humana contra el fuego y está orientada a mejorar la calidad de las 
+edificaciones, sobre todo a proteger la vida de la población; para lo cual el Ministerio de 
+Desarrollo Urbano y Vivienda, a través de la Subsecretaría de Hábitat y Espacio Público 
+coordina y gestiona la elaboración del mencionado capítulo. 
+Este documento ha sido desarrollado por una comisión técnica integrada por expertos y actores 
+vinculados en la temática de sistemas contra incendios de entidades públicas, privadas, 
+gremios profesionales, academia incluso expertos internacionales  con quienes se revisa y 
+elabora el anteproyecto que da inicio a este capítulo. 
+Los capítulos expedidos en la Norma Ecuatoriana de la Construcción se publican en la página 
+web 
+institucional 
+del 
+Ministerio 
+de 
+Desarrollo 
+Urbano 
+y 
+Vivienda: 
+https://www.habitatyvivienda.gob.ec/presentacion-norma-ecuatoriana-de-la-
+construccion/ 
+■Prólogo
+
+ TABLA DE DATOS 
+NOMBRE 
+FECHA 
+Expedición mediante Acuerdo Ministerial No. 015-19 
+2 de octubre de 2019 
+Registro Oficial, Año I, No. 70. 
+29 de octubre de 2019 
+   PERSONAS Y ENTIDADES PARTICIPANTES EN LA REVISIÓN DEL CAPÍTULO 
+INSTITUCIÓN 
+NOMBRE 
+AME - Asociación de Municipalidades del Ecuador 
+Herrera Marco 
+AME - Asociación de Municipalidades del Ecuador 
+Vega Cobo Fabián  
+BCBG - Benemérito Cuerpo de Bomberos de Guayaquil 
+Moreno Andrea 
+BCBG - Benemérito Cuerpo de Bomberos de Guayaquil 
+Ochoa Vanessa 
+BCBG - Benemérito Cuerpo de Bomberos de Guayaquil 
+Parker Christopher  
+BCBG - Benemérito Cuerpo de Bomberos de Guayaquil 
+Peña Santiago 
+BCBG - Benemérito Cuerpo de Bomberos de Guayaquil 
+Rumbea María Fernanda 
+BCBVC - Benemérito Cuerpo de Bomberos Voluntarios de Cuenca 
+Chaca Pacheco Carlos 
+BCBVC - Benemérito Cuerpo de Bomberos Voluntarios de Cuenca 
+Guamán Y. Javier 
+BCBVC - Benemérito Cuerpo de Bomberos Voluntarios de Cuenca 
+Morales Palacios Diana 
+CAE-P - Colegio de Arquitectos del Ecuador - Pichincha 
+Moreira Pablo 
+CAE-P - Colegio de Arquitectos del Ecuador - Pichincha 
+Moreno Adrián 
+CAMICON – Cámara de la Industria de la Construcción 
+Cifuentes C Daniela 
+CBDMQ - Cuerpo de Bomberos del Distrito Metropolitano de Quito 
+Alvear Vladimir 
+CBDMQ - Cuerpo de Bomberos del Distrito Metropolitano de Quito 
+Arroyo Eber 
+CBDMQ - Cuerpo de Bomberos del Distrito Metropolitano de Quito 
+Hernández Maricruz 
+CBDMQ - Cuerpo de Bomberos del Distrito Metropolitano de Quito 
+Osorio Alexander  
+CBDMQ - Cuerpo de Bomberos del Distrito Metropolitano de Quito 
+Realpe Diana 
+CBDMQ - Cuerpo de Bomberos del Distrito Metropolitano de Quito 
+Ulloa Luis 
+CIAMP – Colegio de Ingenieros Ambientales de Pichincha 
+Vilches Richard 
+CICP – Colegio de Ingenieros Civiles de Pichincha 
+Carrión Eduardo 
+CICP – Colegio de Ingenieros Civiles de Pichincha 
+Huacho Jorge Andrés 
+CICP – Colegio de Ingenieros Civiles de Pichincha 
+Miranda Verónica 
+CICP – Colegio de Ingenieros Civiles de Pichincha 
+Torres Mora Patricio 
+CIMEG - Colegio de Ingenieros Mecánicos de Guayas 
+Chalen Manuel 
+CIMEPI – Colegio de Ingenieros Mecánicos de Pichincha 
+Durán Santiago 
+CIMEPI – Colegio de Ingenieros Mecánicos de Pichincha 
+Ruales Pablo 
+CIMEPI – Colegio de Ingenieros Mecánicos de Pichincha 
+Baldeón Carlos 
+COHECO 
+Gualoto Patricio 
+Colegio Ingenieros Ambientales 
+Avilés Juan Carlos 
+Colegio Nacional de Arquitectos del Ecuador 
+Dávila López Pablo 
+Constructores Positivos 
+Álvarez Bravo Mauricio 
+Constructores Positivos 
+Álvarez Bravo Patricio 
+Constructores Positivos 
+Heredia Miguel 
+Constructores Positivos 
+Madruñero Egas Nelson 
+Constructores Positivos 
+Mayorga Andrés 
+Constructores Positivos 
+Mejía Hernán 
+Constructores Positivos 
+Riofrío Juan 
+Constructores Positivos 
+Rosero Jorge 
+Constructores Positivos 
+Barceló Juan 
+ECP - Entidad Colaboradora de Pichincha 
+Corral Felipe 
+ECP – Entidad Colaboradora de Pichicha 
+Menoscal Gisela 
+ECP – Entidad Colaboradora de Pichicha 
+Quintana Verónica 
+Entidad Colaboradora Desintecsa 
+Loaiza María 
+Entidad Colaboradora Desintecsa 
+Mosquera C Tatiana 
+ETEX 
+Carvallo Matías 
+FECC – Federación Ecuatoriana de la Cámaras de la Construcción  
+Saltos Arteaga Xavier 
+FECC – Federación Ecuatoriana de la Cámaras de la Construcción 
+Elmir Daniel 
+INEN - Servicio Ecuatoriano de Normalización 
+Quintana Eduardo 
+
+INEN - Servicio Ecuatoriano de Normalización 
+Santana Andrea 
+INEN- Servicio Ecuatoriano de Normalización 
+Banegas Sanmartín Fernanda 
+INEN- Servicio Ecuatoriano de Normalización 
+Ullaguari Edwin 
+Institución Privada 
+Tandalla Bolívar 
+KUBIEC 
+Lascano Adrían 
+Mexichem Ecuador 
+Moreira Gabriel 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Salazar Diego 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Andrade Moncayo Max 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Esteves Nelly 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Caicedo Carlos 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Castillo Jorge 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Pineda Patricio 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Vega Erazo Estefanía 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Correa Mario 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Arias Jenny 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Jaramillo Estuardo 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Marín Natalia 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+Zumárraga Fabricio 
+MIDUVI – Ministerio de Desarrollo Urbano y Vivienda 
+José Ruales 
+SENESCYT - Secretaría de Educación Superior, Ciencia, Tecnología e 
+Gallardo Gabriela 
+SENESCYT - Secretaría de Educación Superior, Ciencia, Tecnología e 
+Ruiz Félix 
+SNGRE - Servicio Nacional de Gestión de Riesgos y Emergencias 
+Gaona Sarmiento Freddy 
+STHV - Secretaria de Territorio, Hábitat y Vivienda del Distrito 
+Aguilar María Isabel  
+STHV - Secretaria de Territorio, Hábitat y Vivienda del Distrito 
+Madera Roberto  
+STHV - Secretaria de Territorio, Hábitat y Vivienda del Distrito 
+Herdoíza Jacobo 
+STHV - Secretaria de Territorio, Hábitat y Vivienda del Distrito 
+Quezada Carlos 
+STHV - Secretaria de Territorio, Hábitat y Vivienda del Distrito 
+Rosero Germán 
+STHV - Secretaria de Territorio, Hábitat y Vivienda del Distrito 
+Viteri Soledad 
+TIGRE Tubos y Conexiones 
+Mortola Valero Jorge 
+Universidad de Cuenca 
+Calle Chaca Christian  
+Universidad de Cuenca 
+Encalada Ochoa Patricio 
+Universidad Técnica de Manabí 
+Arteaga Linzán Angel 
+Universidad Técnica de Manabí 
+Buitrón Edison  
+Universidad Técnica de Manabí 
+Castillo Jurado Washington  
+Universidad Técnica de Manabí 
+Delgado Janumis Andrés 
+Universidad Técnica de Manabí 
+Litardo Velásquez Carlos 
+Universidad Técnica de Manabí 
+Loor Marcos  
+Universidad Técnica de Manabí 
+Villacreses Viteri Carlos 
+Universidad Técnica de Manabí 
+Zambrano Arcentales Medardo 
+Universidad Técnica de Manabí 
+Zevallos Loor Marcos 
+Universidad Técnica de Ambato 
+Martínez Pamela 
+ULEAM Universidad Laica Eloy Alfaro de Manabí 
+Macías Alexis  
+ULEAM Universidad Laica Eloy Alfaro de Manabí 
+Chinga Gloria  
+ULEAM Universidad Laica Eloy Alfaro de Manabí 
+Cedeño Milton  
+Universidad de Guayaquil 
+Passailaigue Roberto  
+Universidad de Guayaquil 
+Ullauri Hector Hugo  
+Universidad Estatal del Sur de Manabí 
+Eduardo López Vélez 
+Universidad Laica Vicente Rocafuerte de Guayaquil 
+Cruz Toala Cecilia  
+Universidad Politécnica Salesiana 
+Cristian Díaz 
+Experto Internacional 
+Moncada Jaime 
+Experto Internacional 
+Poo Claudio 
+
+7 
+ 
+CONTRA INCENDIOS 
+(CI) 
+NEC 
+CÓDIGO 
+NEC – HS – CI 
+NORMA ECUATORIANA 
+DE LA CONSTRUCCIÓN 
+
+8 
+CONTENIDO 
+1.
+Generalidades .................................................................................................... 9 
+1.1. 
+Referencias Mandatorias ................................................................................... 9 
+1.2. 
+Antecedentes ..................................................................................................... 9 
+1.3. 
+Disposiciones Generales .................................................................................. 10 
+2.
+Objeto ............................................................................................................. 11 
+3.
+Campo de aplicación ....................................................................................... 11 
+4.
+Referencias normativas ................................................................................... 11 
+5.
+Términos y Definiciones ................................................................................. 12 
+6.
+Clasificación por ocupación y Uso................................................................... 12 
+7.
+Requisitos mínimos para protección contra incendios en las edificaciones ....... 14 
+7.1. 
+Generalidades .................................................................................................. 14 
+7.2. 
+Especificaciones .............................................................................................. 15 
+1.1.1. 
+Medios de egreso............................................................................... 15 
+1.1.2. 
+Sistemas de Detección y Alarma ......................................................... 16 
+1.1.3. 
+Medios de Extinción ........................................................................... 16 
+1.
+RESPONSABILIDADES ............................................ ¡Error! Marcador no definido. 
+8.
+Anexos ............................................................................................................ 17 
+
+9 
+1. 
+Generalidades 
+1.1. 
+Referencias Mandatorias 
+Mediante Decreto Ejecutivo No. 3970 suscrito el 15 de Julio 1996, se conforma el Comité 
+Ejecutivo del Código Ecuatoriano de la Construcción (CEC), a efectos de su revisión y 
+actualización; derogado mediante Decreto Ejecutivo No. 705. 
+El Decreto Ejecutivo No. 705, de 24 de marzo de 2011, publicado en el Registro Oficial No. 
+421, de 6 de abril del 2011, conforma el Comité Ejecutivo de la Norma Ecuatoriana de la 
+Construcción (NEC) encargado de expedir la Norma Ecuatoriana de la Construcción, que 
+contempla los requisitos mínimos que debe observarse al momento de realizar los diseños, al 
+construir y controlar la ejecución de obras y orientada a promover la necesidad de mejorar la 
+calidad de las edificaciones, sobre todo a proteger la vida de la población. 
+En tal razón, los capítulos de la NEC se constituyen en documentos normativos de obligatorio 
+cumplimiento a nivel nacional, en amparo de la Disposición General Décimo Quinta de la Ley 
+Orgánica Reformatoria al Código Orgánico de Organización Territorial, Autonomía y 
+Descentralización (COOTAD), publicada el 21 de enero de 2014 en el Suplemento del Registro 
+Oficial N° 166, Artículo 63. 
+En referencia al trabajo y la gestión realizada en el tema de sistemas contra incendios, se 
+cuenta con normativas locales, nacionales e internacionales, a través de los que se logra su 
+consolidación dentro de la construcción de la política pública. Estos aspectos permiten 
+mantener una visión integral considerando los marcos normativos nacionales e internacionales, 
+dentro de los que destacan los siguientes: 
+A nivel nacional 
+El Artículo 30 de la Constitución de la República del Ecuador dispone que las personas tengan 
+derecho a un hábitat seguro y saludable, y a una vivienda adecuada y digna, con 
+independencia de su situación social y económica. 
+El Artículo 375 de la Constitución establece que le corresponde al Estado ejercer la rectoría 
+para la planificación, regulación, control, financiamiento y elaboración de políticas de hábitat y 
+vivienda. 
+La Ley Orgánica de Ordenamiento Territorial, Gestión y Uso de Suelo determina entre las 
+facultades del Consejo Técnico, emitir regulaciones nacionales sobre uso y gestión de suelo en 
+cuanto a parámetros para la elaboración de estándares y normativa urbanísticos que 
+establezcan condiciones mínimas para asegurar los derechos a la vida; a la integridad física; a 
+una vivienda adecuada y digna; a la accesibilidad de personas con discapacidad y a los adultos 
+mayores; a un hábitat seguro y saludable; y, a la protección del patrimonio cultural y el paisaje. 
+Entre estos parámetros se considerará obligatoriamente la prevención y mitigación de riesgo, y 
+la normativa nacional de construcción. 
+A nivel internacional 
+La implementación de la Nueva Agenda Urbana contribuye a la implementación y localización 
+de la Agenda 2030 para el Desarrollo Sostenible de manera integral, y para el logro de los 
+Objetivos para el Desarrollo Sostenible (ODS) y sus metas, incluyendo la meta 11 de construir 
+ciudades y asentamientos humanos inclusivos, seguros, resilientes y sostenibles. 
+1.2. 
+Antecedentes 
+Mediante Acuerdo Ministerial No. 046-15 de 22 de octubre de 2015, publicada en el Registro 
+Oficial Suplemento Nro. 630 de fecha 18 de noviembre de 2015, se expide el capítulo NEC-HS-
+CI: Contra incendios. 
+
+10 
+Mediante Acuerdo Ministerial No. 019-18, suscrito el 13 de septiembre de 2018, se expidió la 
+transitoria de suspensión temporal del Capítulo NEC-HS-CI: Contra incendios de la Norma 
+Ecuatoriana de la Construcción (NEC), conforme resolución del Comité Ejecutivo de la NEC de 
+31 de agosto de 2018 por el plazo de seis meses, mientras se analiza la creación de un Comité 
+Técnico con el carácter de permanente; el mismo que realizará un estudio del documento 
+normativo, emitiendo informes con insumos técnicos de respaldo para dictaminar las 
+respectivas resoluciones, encaminadas a la actualización de incendios. 
+Mediante Acuerdo Ministerial No. 005-19 suscrito el 08 de marzo de 2019 y publicado en el 
+Registro Oficial Nro. 457 de viernes 29 de marzo de 2019, se amplía por el lapso de hasta seis 
+meses la suspensión de la aplicación de la norma NEC CONTRA INCENDIOS-NEC-HS-CI. 
+En cumplimiento del Acuerdo Ministerial No. 019-18 y 005-19  se procede al proceso de 
+actualización del capítulo NEC-HS-CI: Contra incendios. Este capítulo normativo ha sido 
+elaborado a través de un proceso de construcción participativa, mediante la contribución de 
+diferentes actores a nivel nacional e internacional. 
+El proceso desarrollado establece una comisión técnica conformada por un grupo de expertos y 
+actores vinculados a esta temática, encargada en un primer momento de la elaboración de un 
+documento base de discusión y en un segundo momento, con mayor participación de los 
+actores vinculados con conocimientos afines a esta temática como entidades públicas, 
+privadas, gremios profesionales, academia incluso expertos internacionales a fin de establecer 
+los requisitos mínimos considerando el diseño, la instalación, operación y mantenimiento del 
+sistema contra incendios de todas las edificaciones, con el objetivo de precautelar la seguridad 
+de la vida humana contra el fuego y además brindar condiciones de aplicabilidad y efectividad 
+acorde a nuestra realidad y avances tecnológicos. 
+Este capítulo cuenta con el respaldo técnico de las normas nacionales e internacionales 
+vigentes, además de los aportes técnicos emitidos por las diferentes instituciones que 
+participaron en este proceso mediante su contribución desde el ámbito de sus competencias, 
+aspecto que ha fortalecido la construcción de este documento normativo. 
+1.3. 
+Disposiciones Generales (Cumplimiento y 
+Control) 
+En amparo de la Disposición General Décimo Quinta de la Ley Orgánica Reformatoria al 
+Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD), 
+publicada el 21 de enero de 2014 en el Suplemento del Registro Oficial N° 166, Art. 63 dispone 
+que:  
+“Los procesos constructivos que inician a partir de la expedición de la presente reforma, 
+deberán obligatoriamente cumplir con las normas ecuatorianas de la construcción que 
+el ente rector en materia de hábitat y asentamientos humanos expedirá para el efecto. 
+El alcance específico de su aplicación deberá ser detallado en los capítulos de la 
+misma norma”  
+y establece que: 
+“Los gobiernos autónomos descentralizados municipales o metropolitanos, en atención 
+a consideraciones particulares del cantón, podrán desarrollar normativa técnica 
+adicional y complementaria que regule los procesos constructivos, siempre que el 
+
+11 
+contenido de estas no contravenga ni sea de menor exigibilidad y rigurosidad que los 
+detallados en las Normas Ecuatorianas de la Construcción”. 
+Adicionalmente, el Ministerio de Desarrollo Urbano y Vivienda ejecuta un plan de 
+implementación y fortalecimiento de capacidades en coordinación y colaboración con el Comité 
+Ejecutivo de la NEC, Gobiernos Autónomos Descentralizados Municipales y Metropolitanos, 
+Cuerpos de Bomberos, gremios profesionales, academia y sociedad civil la aplicación de la 
+norma NEC-HS-CI: Contra Incendios en todo el país. 
+Los Gobiernos Autónomos Descentralizados Municipales y Metropolitanos y Cuerpos de 
+Bomberos serán los responsables de verificar el cumplimiento y control de la aplicación de la 
+presente normativa.  
+2. 
+Objeto 
+El objeto de esta norma es proveer los requisitos mínimos para el diseño, instalación, operación 
+y mantenimiento del sistema contra incendios de todas las edificaciones, para la seguridad de 
+la vida humana contra el fuego. Dichos requerimientos mínimos se refieren a los Medios de 
+Egreso, Sistemas de Detección y Alarma y los Medios de Extinción para cada tipo de 
+ocupación y uso. 
+3. 
+Campo de aplicación 
+Esta norma se aplica al diseño y construcción de edificaciones nuevas a nivel nacional, a partir 
+de su vigencia. 
+Se aplica para las edificaciones existentes que impliquen modificaciones, remodelaciones, 
+ampliaciones donde exista cambio de ocupación y uso o se mantenga el mismo y para 
+edificaciones existentes ya regularizadas, sin embargo, cuando alguna parte del sistema 
+exigido no sea factible o posible de suplir o de instalar, el proyectista deberá presentar, junto 
+con los planos, una justificación técnica que indique las razones que impiden su aplicación y 
+presentar una posible solución o alternativa que reduzca el riesgo de incendios. 
+Para sistemas contra incendios no cubiertos por esta norma, se deberá presentar la normativa 
+de apoyo de dichos sistemas, para su revisión y aprobación por parte de la entidad 
+competente. 
+4. 
+Referencias normativas 
+Los siguientes documentos, en su totalidad o en su parte pertinente, se constituyen en 
+referencia normativa, así como, aquellas normas citadas con sus respectivas referencias. Para 
+referencias sin fecha, aplica la última edición del documento de referencia en español.  
+NFPA 101: Código de Seguridad Humana. 
+NFPA 1: Código de prevención de incendios. 
+NFPA 4: Norma para pruebas integradas de sistemas de protección contra incendios de 
+seguridad humana. 
+NFPA 10: Extintores Portátiles. 
+NFPA 13: Norma para Instalación de Sistemas de Rociadores. 
+NFPA 14: Instalación de sistemas de tuberías verticales y mangueras. 
+NFPA 15: Sistemas fijos aspersores de agua. 
+NFPA 20: Instalación de bombas estacionarias. 
+NFPA 24: Norma para la instalación de tuberías para servicio privado de incendios y sus 
+accesorios. 
+
+12 
+NFPA 25: Inspección, prueba y mantenimiento de sistemas de protección a base de agua. 
+NFPA 72: Código Nacional de Alarmas. 
+NFPA 88A: Estructuras de Estacionamientos. 
+DB-SI: Documento Básico de Seguridad en caso de incendio del Código Técnico de 
+Edificación. 
+NTE INEN ISO 13943: Protección contra incendios – Vocabulario. 
+NTE INEN  3083: Sistemas Contra Incendio. Tubos Plásticos de Poli (Cloruro de Vinilo) No 
+Plastificado (PVC-U), Poli (Cloruro de Vinilo) Orientado (PVC-O) o Polietileno de Alta Densidad 
+Tipo: PE 100 y PE 80, y accesorios, para uso en líneas de conducción y redes de distribución 
+de agua a presión, enterradas en servicios privados. Requisitos.  
+NTE INEN 3131: Sistemas Contra Incendio en Edificaciones. Tubería y Accesorios de Poli 
+(Cloruro de Vinilo) Clorado (CPVC), para sistemas de rociadores automáticos de agua en 
+ocupaciones con riesgo leve. Requisitos y Métodos de Ensayo. 
+5. 
+Términos y Definiciones 
+Los términos y definiciones de esta norma son los contenidos en la NTE INEN ISO 13943, 
+la NFPA 101 y el DB-SI. 
+6. 
+Clasificación por ocupación y Uso 
+La clasificación de acuerdo con la ocupación que se aplica a esta norma es la establecida 
+dentro del contenido de la NFPA 101, Capítulo 6. Clasificación de la Ocupación y Riesgos. La 
+entidad competente definirá la clasificación individual de una edificación en caso de 
+controversia.  
+La clasificación incluye los contenidos listados a continuación: 
+•
+Reuniones Públicas: Ocupación y uso (1) utilizada para reunir a cincuenta o más
+personas para deliberación, culto, entretenimiento, comida, bebida, diversión, espera
+de transporte o usos similares; o (2) utilizada como edificio de divertimento especial,
+independientemente de su carga de ocupantes [NFPA 101:6.1.2]
+•
+Educacionales: Ocupación y uso utilizada para propósitos educativos con capacidad
+para 6 o más personas, durante 4 o más horas diarias o más de 12 horas semanales.
+[NFPA 101:6.1.3]
+•
+Guarderías: Ocupaciones y uso en las cuales 4 o más clientes reciben cuidados,
+manutención y supervisión por personas que no son sus parientes o tutores, durante
+menos de 24 horas diarias. [NFPA 101:6.1.4]
+•
+Cuidado de la Salud: Ocupación y uso utilizada para propósitos de tratamiento médico
+u otros cuidados o tratamientos, simultáneamente a 4 o más pacientes en régimen de
+internación, donde los pacientes son mayormente incapaces de su auto preservación
+por motivos de edad, discapacidad física o mental, o debido a que las medidas de
+seguridad no están bajo el control de los ocupantes. [NFPA 101:6.1.5]
+•
+Cuidado de la Salud de Pacientes Ambulatorios: Utilizada para proveer servicios o
+tratamientos simultáneamente a 4 o más pacientes y que brinda, en un régimen de
+pacientes externos, uno o más de los siguientes: [NFPA 101:6.1.6]
+a.
+Tratamiento a pacientes que los incapacita para tomar acción para su auto
+preservación en condiciones de emergencia sin asistencia de otras
+personas.
+
+13 
+b.
+Anestesia que incapacita a los pacientes para tomar acción para su auto
+preservación en condiciones de emergencia sin asistencia de otras
+personas.
+c.
+Atención de emergencias o urgencias para pacientes que, debido a la
+naturaleza de sus heridas o enfermedades son incapaces de tomar acción
+para su auto preservación en condiciones de emergencia sin asistencia de
+otras personas.
+•
+Detención y Correccional: Ocupación y uso utilizada para aislar 1 o más personas
+bajo distintos grados de privación de la libertad o de seguridad, donde la mayoría de
+sus ocupantes son incapaces de tomar acción debido a que las medidas de seguridad
+no se encuentran bajo el control de sus ocupantes. [NFPA 101:6.1.7]
+•
+Residencial y Alojamiento: Ocupación y uso que provee comodidades para dormir
+con fines diferentes que los de cuidado de la salud o los de detención y correccional.
+[NFPA 101:6.1.8]
+a. Vivienda Unifamiliar y Bifamiliar: Edificio que contiene no más de dos unidades
+de vivienda, cada una de ellas ocupada por miembros de una única familia
+con no más de tres personas ajenas, si hay alguna, alojadas en habitaciones 
+arrendadas. 
+b. Casa de Huéspedes o Pensión: Edificio o parte de un edificio que no califica
+como vivienda unifamiliar o bifamiliar, que provee comodidades para dormir
+para un total de 16 personas o menos, en un régimen transitorio o 
+permanente, sin servicio de asistencia personal, con comidas o sin ellas, pero 
+sin instalaciones separadas para cocinar para ocupantes individuales.  
+c. Hotel: Edificio o grupo de edificios bajo la misma administración en el que
+existen comodidades para dormir para más de 16 personas y que es utilizado
+principalmente por ocupantes transitorios como alojamiento, con comidas o 
+sin ellas.  
+d. Hostal / Dormitorio: Edificio o espacio en un edificio en el que se provee, en
+una misma habitación o en una serie de habitaciones cercanas asociadas,
+comodidades grupales para dormir para 16 personas que no son miembros 
+de la misma familia, bajo una administración única y para el conjunto 
+colectivo, con comidas o sin ellas, pero sin instalaciones individuales para 
+cocinar. 
+e. Edificio de apartamentos: Edificio o parte de éste que contiene 3 o más
+unidades de vivienda con instalaciones para cocinar y cuarto de baño
+independientes. 
+•
+Asilos y Centros de Acogidas Residenciales: Ocupación y uso que se utiliza para
+brindar alojamiento y comida a 4 o más residentes, sin relación de parentesco por
+sangre o matrimonio con los propietarios u operadores, con el fin de proporcionarles
+asistencia personal. [NFPA 101:6.1.9].
+•
+Mercantil / Comercial: Ocupación y uso utilizado para la exhibición y venta de
+mercancías. [NFPA 101:6.1.10].
+•
+Negocios / Oficinas / Servicios: Ocupación y uso utilizado para la transacción de
+negocios diferentes de las mercantiles/comercial. [NFPA 101:6.1.11]
+
+14 
+•
+Industrial / Manufactura: Ocupación y uso donde se fabrican productos o se llevan a
+cabo operaciones de procesamiento, ensamblado, mezclado, empaque, acabado,
+decorado o reparación. [NFPA 101:6.1.12]
+•
+Almacenamiento: Ocupación y uso utilizado principalmente para el almacenamiento o
+cobijo de bienes, mercaderías, productos o vehículos. [NFPA 101:6.1.13]
+•
+Ocupaciones Múltiples: Edificio o estructura en el que existen dos o más clases de
+ocupaciones. [NFPA 101:6.1.14]
+•
+Parqueaderos: Edificaciones o estructuras para estacionamiento de vehículos.
+Otras ocupaciones y usos: Ocupaciones y usos que no estén contempladas en este 
+documento. 
+7. 
+Requisitos mínimos para protección 
+contra incendios en las edificaciones 
+7.1. 
+Generalidades 
+La aplicación de estos requisitos mínimos debe establecer un ambiente que sea 
+razonablemente seguro para los ocupantes de una edificación para minimizar el 
+peligro a la vida humana causada por los efectos del fuego, incluyendo el humo, el 
+calor y los gases tóxicos creados en caso de incendio, considerando los siguientes 
+aspectos: 
+a. Mejoramiento de la capacidad de supervivencia de los ocupantes que están
+directamente relacionados con el desarrollo inicial del fuego.
+b. Protección de los ocupantes que no están directamente relacionados con la
+zona de iniciación del fuego.
+c. Se debe equipar con sistemas contra incendios en edificaciones cuyos
+niveles de seguridad sean los establecidos en la NFPA 101.
+d. La NFPA 101 se aplicará con base en las ocupaciones definidas en la
+clasificación referida en el capítulo 6 de este documento.
+e. Para aquellas edificaciones o estructuras de parqueaderos se debe cumplir
+la NFPA 101 y la NFPA 88A.
+f.
+Para otras ocupaciones que no estén contempladas en este documento se
+aplicará la NFPA respectiva.
+g. Para aquellos casos que se requieran proteger los bienes muebles e
+inmuebles o la operación de equipos, deben regirse bajo los requisitos
+establecidos en la NFPA 1.
+h. Todo sistema de protección contra incendios deberá ser probado de manera
+individual conforme a lo establecido en cada una de las normas
+correspondientes a los subsistemas que lo conforman y de manera
+integrada conforme a lo establecido en NFPA 4, la cual tiene como propósito
+suministrar un protocolo para las pruebas que verifiquen que los sistemas
+
+15 
+integrados de protección contra incendios y seguridad humana funcionan 
+según lo previsto. 
+i.
+Todo sistema de protección contra incendios deberá ser inspeccionado de
+manera individual conforme a lo establecido en cada una de las normas
+correspondientes a los subsistemas que lo conforman y de manera
+integrada conforme a lo establecido en NFPA 4.
+j.
+Todo sistema de protección contra incendios deberá poseer un plan de
+inspección, prueba y mantenimiento conforme a lo establecido en la NFPA
+25, cuyo propósito es describir los requisitos que garanticen un grado
+razonable de protección contra incendios para la vida y las propiedades
+mediante métodos de inspección, prueba y mantenimiento mínimos para
+sistemas hidráulicos de protección contra incendios.
+k. Se debe cumplir con las Normas Técnicas Ecuatorianas (NTE) INEN vigentes
+relacionadas al Sistema de Protección Contra Incendios y/o los productos
+que las conforman.
+7.2. 
+Especificaciones 
+7.2.1 Medios de egreso 
+Recorrido continuo y sin obstrucciones desde cualquier punto en un edificio o 
+estructura hasta una vía pública, consistente en tres partes separadas y distintas: 
+(1) el acceso a salida, (2) la salida, y (3) la descarga de salida.
+a. Se debe cumplir con los requisitos establecidos en la NFPA 101, con base en
+la ocupación y uso de la edificación, de acuerdo al capítulo 6 de este
+documento.
+b. La altura debe medirse desde el nivel de descarga de salida hasta el piso
+más alto ocupable.
+c. Para edificaciones de ocupación y uso residencial, mercantiles/comercial,
+de negocios/oficinas/servicios o mixto, con una altura menor o igual a 28
+metros y con una distancia máxima de recorrido de evacuación hasta una
+salida de planta que no exceda de 25 metros, se incluirá un solo medio de
+egreso como mínimo.
+d. Para edificaciones de ocupación y uso residencial, mercantiles/comercial,
+de negocios/oficinas/servicios o mixto, con una altura mayor a 28 metros
+se deben incluir mínimo dos medios de egreso cumpliendo los
+requerimientos de la NFPA 101, considerando que la longitud de los
+recorridos de evacuación hasta una salida de planta no exceda de 25
+metros.
+e. Para edificaciones de ocupación y uso residencial, mercantiles/comercial,
+de negocios/oficinas/servicios o mixto, con una altura mayor a 28 metros y
+
+16 
+menor o igual a 36 metros se puede incluir una escalera tipo tijera, previa 
+revisión y aprobación por parte de la entidad competente. 
+7.2.2 Sistemas de Detección y Alarma 
+a. Se debe cumplir con los requisitos establecidos en la NFPA 101, con base a
+la ocupación y uso de la edificación.
+b. En el caso de instalación de sistemas de detección y alarmas se debe aplicar
+la norma NFPA 72, la  cual tiene como propósito definir los medios para
+activar señales, transmitirlas, notificarlas y anunciarlas, los niveles de
+desempeño, la confiabilidad de los diversos tipos de alarmas de incendios,
+sistemas de alarmas de estaciones de supervisión, sistemas públicos de
+reporte de alarmas de emergencias, equipos de advertencias de incendios,
+sistemas de comunicaciones de emergencias y sus componentes.
+7.2.3 Medios de Extinción 
+a. Se debe cumplir con los requisitos establecidos en la NFPA 101, con base a
+la ocupación y uso de la edificación.
+b. En el caso de instalación de tuberías para servicio privado de incendios (no
+conectado a red pública) y sus accesorios se debe aplicar la NFPA 24 la cual
+establece un grado razonable de protección del fuego para la vida y
+propiedad a través de requisitos de instalación para sistemas de tuberías
+principales para el servicio privado de incendios con base en principios de
+ingeniería válidos, información de prueba y experiencia de campo.
+c. Se permite el uso de tuberías plásticas de PVC, PVC-O y PE  y sus accesorios,
+destinados para servicio privado de incendios en instalaciones enterradas
+de conducciones y redes de distribución, conforme al requisito 7.2.3.b de la
+presente norma y en las normas NFPA 24 y NTE INEN  3083 vigente.
+d. En el caso de instalación de sistemas de tubería vertical y mangueras se
+debe aplicar la NFPA 14, la cual provee un grado razonable de
+e.
+protección para la vida y propiedad del fuego a través de la instalación de
+requisitos para sistemas de tuberías verticales y mangueras con base en
+principios de ingeniería, información de prueba y experiencia de campo.
+f.
+En el caso de instalación de sistemas de rociadores se debe aplicar la NFPA
+13, la cual proveer un grado razonable de protección contra incendios, para
+la vida humana y la propiedad, a través de los requisitos de diseño,
+instalación y pruebas de los sistemas de rociadores, incluyendo las tuberías
+principales privadas de servicio contra incendios, basándose en principios
+de ingeniería, datos de pruebas y experiencias de campo.
+g. Se permite el uso de tuberías y accesorios plásticos de CPVC, para la
+implementación de redes de rociadores automáticos en edificaciones
+catalogadas como de riesgo leve, conforme se establece en el requisito
+
+17 
+7.2.3.e de la presente norma y en las normas NFPA 13, NFPA 13R, NFPA 
+13D y NTE INEN  3131 vigente. 
+h. En el caso de instalación de sistemas de aspersores de agua se debe aplicar
+la NFPA 15, la cual establece los requisitos mínimos para los sistemas fijos
+de agua pulverizada, basándose en solidos principios de ingeniería, datos de
+prueba y experiencias de campo.
+i.
+En el caso de instalación de bombas estacionarias para protección de
+incendios se debe aplicar la norma NFPA 20, la cual provee un grado
+razonable de protección contra incendios a la vida y la propiedad a través
+de requerimientos de instalación para bombas estacionarias para
+protección contra incendios basados en sólidos principios de ingeniería,
+datos de prueba y experiencias de campo.
+j.
+En el caso de Extintores Portátiles se debe aplicar la norma NFPA 10, la cual
+está preparada para el uso y guía de las personas encargadas de la
+selección, compra, instalación, aprobación, listado, diseño y mantenimiento
+de extintores portátiles.
+8. 
+Responsabilidades 
+El proyectista es el responsable del diseño del sistema contra incendios de la 
+edificación. 
+El constructor es el responsable de la correcta instalación del sistema contra 
+incendios. 
+El gobierno autónomo descentralizado municipal o metropolitano; a través de las 
+instituciones pertinentes en materia de incendios a nivel local, es responsable de: 
+a. La revisión y aprobación del diseño previa a la construcción, instalación,
+operación y revisión del sistema contra incendios de todas las edificaciones.
+b. La inspección periódica del correcto funcionamiento de los sistemas contra
+incendios.
+c. La definición de los procedimientos para la aplicación de las regulaciones
+definidas en el presente documento.
+El propietario, el administrador y el usuario según el caso, son responsables de 
+garantizar el correcto funcionamiento y mantenimiento de los sistemas de 
+protección contra incendios. 
+9. 
+Anexos 
+Para visualizar los documentos NFPA citados en las referencias normativas, se 
+debe crear un usuario en la página de NFPA https://www.nfpa.org/Login 
+
+18 

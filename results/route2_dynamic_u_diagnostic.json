@@ -1,0 +1,61 @@
+{
+ "untyped_conf_state0": {
+  "D": {
+   "mean": 0.8621621621621621,
+   "share_zero": 0.06756756756756757,
+   "n": 74
+  },
+  "INS_reg": {
+   "mean": 0.24054054054054055,
+   "share_zero": 0.6621621621621622,
+   "n": 74
+  },
+  "INS_design": {
+   "mean": 0.0,
+   "share_zero": 1.0,
+   "n": 74
+  },
+  "IND_del": {
+   "mean": 0.10270270270270271,
+   "share_zero": 0.8243243243243243,
+   "n": 74
+  }
+ },
+ "mean_cost_by_condition": {
+  "never_stall_B3_rfi (=plan S S S R E)": {
+   "D": 596.8,
+   "INS_reg": 737.0,
+   "INS_design": 1705.7,
+   "IND_del": 6397.3,
+   "ALL": 2359.2
+  },
+  "stall_if_no_rise_B3_rfi": {
+   "D": 684.3,
+   "INS_reg": 735.9,
+   "INS_design": 1983.8,
+   "IND_del": 6424.6,
+   "ALL": 2457.2
+  },
+  "stall_if_no_rise_B3_no_rfi": {
+   "D": 596.8,
+   "INS_reg": 677.6,
+   "INS_design": 5520.0,
+   "IND_del": 5519.7,
+   "ALL": 3078.5
+  },
+  "never_stall_B3_no_rfi": {
+   "D": 523.8,
+   "INS_reg": 678.6,
+   "INS_design": 5540.0,
+   "IND_del": 5536.2,
+   "ALL": 3069.7
+  },
+  "T(0.6,1,0.2,1.0) reference": {
+   "D": 714.2,
+   "INS_reg": 1197.0,
+   "INS_design": 1736.1,
+   "IND_del": 5540.1,
+   "ALL": 2296.9
+  }
+ }
+}

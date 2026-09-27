@@ -1,0 +1,12 @@
+{
+ "model": "meta-llama/llama-3.3-70b-instruct",
+ "new_calls_this_run": 13011,
+ "new_cost_this_run_usd": 0.3884222349999997,
+ "in_tokens": 1801974,
+ "out_tokens": 13011,
+ "total_cost_all_cached_calls_usd": 0.540317375,
+ "total_calls_cached": 17922,
+ "hard_cap_usd": 2.0,
+ "source": "usage.cost reported by OpenRouter per call (sum over cache file)",
+ "previous": null
+}

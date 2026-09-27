@@ -1,0 +1,216 @@
+{
+ "openai_gpt-4o-mini": {
+  "D": {
+   "n": 46,
+   "scalar": {
+    "conf99": 46,
+    "acc": 0.848
+   },
+   "typed": {
+    "conf99": 44,
+    "acc": 0.848
+   },
+   "abstain3": {
+    "conf99": 43,
+    "acc": 0.87
+   }
+  },
+  "D_words": {
+   "n": 46,
+   "scalar": {
+    "conf99": 43,
+    "acc": 0.935
+   },
+   "typed": {
+    "conf99": 43,
+    "acc": 0.913
+   },
+   "abstain3": {
+    "conf99": 42,
+    "acc": 0.913
+   }
+  },
+  "INS": {
+   "n": 46,
+   "scalar": {
+    "conf99": 43,
+    "acc": 0.913
+   },
+   "typed": {
+    "conf99": 39,
+    "acc": 0.848
+   },
+   "abstain3": {
+    "conf99": 39,
+    "acc": 0.913
+   }
+  },
+  "IND_del": {
+   "n": 46,
+   "scalar": {
+    "conf99": 28,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 7,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 14,
+    "acc": null
+   }
+  },
+  "IND_delnum": {
+   "n": 46,
+   "scalar": {
+    "conf99": 30,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 12,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 13,
+    "acc": null
+   }
+  },
+  "IND_sil": {
+   "n": 46,
+   "scalar": {
+    "conf99": 27,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 9,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 10,
+    "acc": null
+   }
+  },
+  "IND_real": {
+   "n": 58,
+   "scalar": {
+    "conf99": 40,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 11,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 14,
+    "acc": null
+   }
+  }
+ },
+ "openai_gpt-4.1-mini": {
+  "D": {
+   "n": 46,
+   "scalar": {
+    "conf99": 44,
+    "acc": 0.957
+   },
+   "typed": {
+    "conf99": 39,
+    "acc": 0.935
+   },
+   "abstain3": {
+    "conf99": 37,
+    "acc": 0.848
+   }
+  },
+  "D_words": {
+   "n": 46,
+   "scalar": {
+    "conf99": 43,
+    "acc": 0.935
+   },
+   "typed": {
+    "conf99": 41,
+    "acc": 0.87
+   },
+   "abstain3": {
+    "conf99": 39,
+    "acc": 0.826
+   }
+  },
+  "INS": {
+   "n": 46,
+   "scalar": {
+    "conf99": 46,
+    "acc": 0.935
+   },
+   "typed": {
+    "conf99": 41,
+    "acc": 0.935
+   },
+   "abstain3": {
+    "conf99": 41,
+    "acc": 0.935
+   }
+  },
+  "IND_del": {
+   "n": 46,
+   "scalar": {
+    "conf99": 36,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 7,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 5,
+    "acc": null
+   }
+  },
+  "IND_delnum": {
+   "n": 46,
+   "scalar": {
+    "conf99": 39,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 5,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 5,
+    "acc": null
+   }
+  },
+  "IND_sil": {
+   "n": 46,
+   "scalar": {
+    "conf99": 32,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 6,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 8,
+    "acc": null
+   }
+  },
+  "IND_real": {
+   "n": 58,
+   "scalar": {
+    "conf99": 35,
+    "acc": null
+   },
+   "typed": {
+    "conf99": 6,
+    "acc": null
+   },
+   "abstain3": {
+    "conf99": 5,
+    "acc": null
+   }
+  }
+ }
+}

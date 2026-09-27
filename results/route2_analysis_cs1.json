@@ -1,0 +1,1236 @@
+{
+ "args": {
+  "samples": "results/route2_samples_openai_gpt-oss-120b_low.jsonl",
+  "k": 5,
+  "risk_max": 0.05,
+  "c_s": 1.0,
+  "c_e_mult": 1.0,
+  "exclude": "C:\\Users\\HP\\Documents\\ACC_TypedAbstention_2026\\code\\..\\results\\codex_audit_route2_excluded.json",
+  "out": "results/route2_analysis_cs1.json"
+ },
+ "n_items": 428,
+ "n_excluded_seeds": 15,
+ "sets": {
+  "primary": {
+   "policies": {
+    "U": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, ('E',))",
+      "1": "(1.01, ('E',))"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_del": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "T": {
+     "cost": 3935.8310810810813,
+     "risk": 0.06060606060606061,
+     "commit": 0.3344594594594595,
+     "escalate": 0.6655405405405406,
+     "rfi": 0.14527027027027026,
+     "rounds": 0.12162162162162163,
+     "params": {
+      "0": "(0.8, 1, 0.2, 1.0)",
+      "1": "(1.01, 0, 0.2, 1.01)"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 3082.0405405405404,
+       "risk": 0.0,
+       "commit": 0.44594594594594594,
+       "escalate": 0.5540540540540541,
+       "rfi": 0.02702702702702703,
+       "rounds": 0.013513513513513514
+      },
+      "INS_reg": {
+       "cost": 3469.2972972972975,
+       "risk": 0.0967741935483871,
+       "commit": 0.4189189189189189,
+       "escalate": 0.581081081081081,
+       "rfi": 0.04054054054054054,
+       "rounds": 0.3783783783783784
+      },
+      "INS_design": {
+       "cost": 3667.324324324324,
+       "risk": 0.0,
+       "commit": 0.43243243243243246,
+       "escalate": 0.5675675675675675,
+       "rfi": 0.5,
+       "rounds": 0.02702702702702703
+      },
+      "IND_del": {
+       "cost": 5524.6621621621625,
+       "risk": 1.0,
+       "commit": 0.04054054054054054,
+       "escalate": 0.9594594594594594,
+       "rfi": 0.013513513513513514,
+       "rounds": 0.06756756756756757
+      }
+     }
+    },
+    "T_plan": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, ('E',))",
+      "1": "(1.01, ('E',))"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_del": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "ORACLE_U": {
+     "cost": 1985.2972972972973,
+     "risk": 0.0,
+     "commit": 0.7398648648648649,
+     "escalate": 0.26013513513513514,
+     "rfi": 0.5101351351351351,
+     "rounds": 1.0067567567567568,
+     "params": {
+      "0": "(('S', 'S', 'R', 'E'),)",
+      "1": "(('S', 'R', 'E'),)"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 0.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 268.1621621621622,
+       "risk": 0.0,
+       "commit": 0.9594594594594594,
+       "escalate": 0.04054054054054054,
+       "rfi": 0.04054054054054054,
+       "rounds": 1.0
+      },
+      "INS_design": {
+       "cost": 1081.5135135135135,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 1.0,
+       "rounds": 1.5135135135135136
+      },
+      "IND_del": {
+       "cost": 6591.513513513513,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 1.0,
+       "rounds": 1.5135135135135136
+      }
+     }
+    },
+    "ORACLE_T": {
+     "cost": 1666.3682432432433,
+     "risk": 0.0,
+     "commit": 0.7466216216216216,
+     "escalate": 0.2533783783783784,
+     "rfi": 0.25,
+     "rounds": 0.2533783783783784,
+     "params": {
+      "0": "()",
+      "1": "()"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 0.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 75.47297297297297,
+       "risk": 0.0,
+       "commit": 0.9864864864864865,
+       "escalate": 0.013513513513513514,
+       "rfi": 0.0,
+       "rounds": 1.0135135135135136
+      },
+      "INS_design": {
+       "cost": 1080.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 1.0,
+       "rounds": 0.0
+      },
+      "IND_del": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    }
+   },
+   "contrasts": {
+    "U-T": {
+     "diff": 1574.168918918919,
+     "ci95": [
+      1140.3474025974026,
+      2023.1907894736842
+     ],
+     "saving_pct": 28.569308873301615
+    },
+    "U-T@D": {
+     "diff": 2427.9594594594596,
+     "ci95": [
+      1793.4666666666667,
+      3107.625
+     ]
+    },
+    "U-T@INS_reg": {
+     "diff": 2040.7027027027027,
+     "ci95": [
+      1402.8831168831168,
+      2687.1369863013697
+     ]
+    },
+    "U-T@INS_design": {
+     "diff": 1842.6756756756756,
+     "ci95": [
+      1336.7692307692307,
+      2383.0
+     ]
+    },
+    "U-T@IND_del": {
+     "diff": -14.662162162162161,
+     "ci95": [
+      -45.70422535211268,
+      -0.02631578947368421
+     ]
+    },
+    "T_plan-T": {
+     "diff": 1574.168918918919,
+     "ci95": [
+      1140.3474025974026,
+      2023.1907894736842
+     ],
+     "saving_pct": 28.569308873301615
+    },
+    "T_plan-T@D": {
+     "diff": 2427.9594594594596,
+     "ci95": [
+      1793.4666666666667,
+      3107.625
+     ]
+    },
+    "T_plan-T@INS_reg": {
+     "diff": 2040.7027027027027,
+     "ci95": [
+      1402.8831168831168,
+      2687.1369863013697
+     ]
+    },
+    "T_plan-T@INS_design": {
+     "diff": 1842.6756756756756,
+     "ci95": [
+      1336.7692307692307,
+      2383.0
+     ]
+    },
+    "T_plan-T@IND_del": {
+     "diff": -14.662162162162161,
+     "ci95": [
+      -45.70422535211268,
+      -0.02631578947368421
+     ]
+    },
+    "U-ORACLE_T": {
+     "diff": 3843.6317567567567,
+     "ci95": [
+      3806.4087837837837,
+      3862.25
+     ],
+     "saving_pct": 69.75738215529505
+    },
+    "U-ORACLE_T@D": {
+     "diff": 5510.0,
+     "ci95": [
+      5510.0,
+      5510.0
+     ]
+    },
+    "U-ORACLE_T@INS_reg": {
+     "diff": 5434.527027027027,
+     "ci95": [
+      5285.635135135135,
+      5509.0
+     ]
+    },
+    "U-ORACLE_T@INS_design": {
+     "diff": 4430.0,
+     "ci95": [
+      4430.0,
+      4430.0
+     ]
+    },
+    "U-ORACLE_T@IND_del": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "ORACLE_U-ORACLE_T": {
+     "diff": 318.92905405405406,
+     "ci95": [
+      270.73943661971833,
+      409.88698630136986
+     ],
+     "saving_pct": 16.064548845567415
+    },
+    "ORACLE_U-ORACLE_T@D": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "ORACLE_U-ORACLE_T@INS_reg": {
+     "diff": 192.6891891891892,
+     "ci95": [
+      0.0,
+      556.3698630136986
+     ]
+    },
+    "ORACLE_U-ORACLE_T@INS_design": {
+     "diff": 1.5135135135135136,
+     "ci95": [
+      1.3943661971830985,
+      1.64
+     ]
+    },
+    "ORACLE_U-ORACLE_T@IND_del": {
+     "diff": 1081.5135135135135,
+     "ci95": [
+      1081.394366197183,
+      1081.64
+     ]
+    },
+    "capture": 0.40955248019055734
+   }
+  },
+  "control_silence": {
+   "policies": {
+    "U": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, ('E',))",
+      "1": "(1.01, ('E',))"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_sil": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "T": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, 0, 0.2, 1.01)",
+      "1": "(1.01, 0, 0.2, 1.01)"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_sil": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "T_plan": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, ('E',))",
+      "1": "(1.01, ('E',))"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_sil": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "ORACLE_U": {
+     "cost": 1985.2972972972973,
+     "risk": 0.0,
+     "commit": 0.7398648648648649,
+     "escalate": 0.26013513513513514,
+     "rfi": 0.5101351351351351,
+     "rounds": 1.0067567567567568,
+     "params": {
+      "0": "(('S', 'S', 'R', 'E'),)",
+      "1": "(('S', 'R', 'E'),)"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 0.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 268.1621621621622,
+       "risk": 0.0,
+       "commit": 0.9594594594594594,
+       "escalate": 0.04054054054054054,
+       "rfi": 0.04054054054054054,
+       "rounds": 1.0
+      },
+      "INS_design": {
+       "cost": 1081.5135135135135,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 1.0,
+       "rounds": 1.5135135135135136
+      },
+      "IND_sil": {
+       "cost": 6591.513513513513,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 1.0,
+       "rounds": 1.5135135135135136
+      }
+     }
+    },
+    "ORACLE_T": {
+     "cost": 1666.3682432432433,
+     "risk": 0.0,
+     "commit": 0.7466216216216216,
+     "escalate": 0.2533783783783784,
+     "rfi": 0.25,
+     "rounds": 0.2533783783783784,
+     "params": {
+      "0": "()",
+      "1": "()"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 0.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 75.47297297297297,
+       "risk": 0.0,
+       "commit": 0.9864864864864865,
+       "escalate": 0.013513513513513514,
+       "rfi": 0.0,
+       "rounds": 1.0135135135135136
+      },
+      "INS_design": {
+       "cost": 1080.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 1.0,
+       "rounds": 0.0
+      },
+      "IND_sil": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    }
+   },
+   "contrasts": {
+    "U-T": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ],
+     "saving_pct": 0.0
+    },
+    "U-T@D": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-T@INS_reg": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-T@INS_design": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-T@IND_sil": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ],
+     "saving_pct": 0.0
+    },
+    "T_plan-T@D": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T@INS_reg": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T@INS_design": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T@IND_sil": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-ORACLE_T": {
+     "diff": 3843.6317567567567,
+     "ci95": [
+      3806.4087837837837,
+      3862.25
+     ],
+     "saving_pct": 69.75738215529505
+    },
+    "U-ORACLE_T@D": {
+     "diff": 5510.0,
+     "ci95": [
+      5510.0,
+      5510.0
+     ]
+    },
+    "U-ORACLE_T@INS_reg": {
+     "diff": 5434.527027027027,
+     "ci95": [
+      5285.635135135135,
+      5509.0
+     ]
+    },
+    "U-ORACLE_T@INS_design": {
+     "diff": 4430.0,
+     "ci95": [
+      4430.0,
+      4430.0
+     ]
+    },
+    "U-ORACLE_T@IND_sil": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "ORACLE_U-ORACLE_T": {
+     "diff": 318.92905405405406,
+     "ci95": [
+      270.73943661971833,
+      409.88698630136986
+     ],
+     "saving_pct": 16.064548845567415
+    },
+    "ORACLE_U-ORACLE_T@D": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "ORACLE_U-ORACLE_T@INS_reg": {
+     "diff": 192.6891891891892,
+     "ci95": [
+      0.0,
+      556.3698630136986
+     ]
+    },
+    "ORACLE_U-ORACLE_T@INS_design": {
+     "diff": 1.5135135135135136,
+     "ci95": [
+      1.3943661971830985,
+      1.64
+     ]
+    },
+    "ORACLE_U-ORACLE_T@IND_sil": {
+     "diff": 1081.5135135135135,
+     "ci95": [
+      1081.394366197183,
+      1081.64
+     ]
+    },
+    "capture": 0.0
+   }
+  },
+  "external_real": {
+   "policies": {
+    "U": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, ('E',))",
+      "1": "(1.01, ('E',))"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_real": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "T": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, 0, 0.2, 1.01)",
+      "1": "(1.01, 0, 0.2, 1.01)"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_real": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "T_plan": {
+     "cost": 5510.0,
+     "risk": 0.0,
+     "commit": 0.0,
+     "escalate": 1.0,
+     "rfi": 0.0,
+     "rounds": 0.0,
+     "params": {
+      "0": "(1.01, ('E',))",
+      "1": "(1.01, ('E',))"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_design": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "IND_real": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    },
+    "ORACLE_U": {
+     "cost": 1722.0857142857142,
+     "risk": 0.0,
+     "commit": 0.7821428571428571,
+     "escalate": 0.21785714285714286,
+     "rfi": 0.48214285714285715,
+     "rounds": 0.9785714285714285,
+     "params": {
+      "0": "(('S', 'S', 'R', 'E'),)",
+      "1": "(('S', 'R', 'E'),)"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 0.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 268.1621621621622,
+       "risk": 0.0,
+       "commit": 0.9594594594594594,
+       "escalate": 0.04054054054054054,
+       "rfi": 0.04054054054054054,
+       "rounds": 1.0
+      },
+      "INS_design": {
+       "cost": 1081.5135135135135,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 1.0,
+       "rounds": 1.5135135135135136
+      },
+      "IND_real": {
+       "cost": 6591.517241379311,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 1.0,
+       "rounds": 1.5172413793103448
+      }
+     }
+    },
+    "ORACLE_T": {
+     "cost": 1446.732142857143,
+     "risk": 0.0,
+     "commit": 0.7892857142857143,
+     "escalate": 0.21071428571428572,
+     "rfi": 0.2642857142857143,
+     "rounds": 0.26785714285714285,
+     "params": {
+      "0": "()",
+      "1": "()"
+     },
+     "by_condition": {
+      "D": {
+       "cost": 0.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      },
+      "INS_reg": {
+       "cost": 75.47297297297297,
+       "risk": 0.0,
+       "commit": 0.9864864864864865,
+       "escalate": 0.013513513513513514,
+       "rfi": 0.0,
+       "rounds": 1.0135135135135136
+      },
+      "INS_design": {
+       "cost": 1080.0,
+       "risk": 0.0,
+       "commit": 1.0,
+       "escalate": 0.0,
+       "rfi": 1.0,
+       "rounds": 0.0
+      },
+      "IND_real": {
+       "cost": 5510.0,
+       "risk": 0.0,
+       "commit": 0.0,
+       "escalate": 1.0,
+       "rfi": 0.0,
+       "rounds": 0.0
+      }
+     }
+    }
+   },
+   "contrasts": {
+    "U-T": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ],
+     "saving_pct": 0.0
+    },
+    "U-T@D": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-T@INS_reg": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-T@INS_design": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-T@IND_real": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ],
+     "saving_pct": 0.0
+    },
+    "T_plan-T@D": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T@INS_reg": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T@INS_design": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "T_plan-T@IND_real": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "U-ORACLE_T": {
+     "diff": 4063.2678571428573,
+     "ci95": [
+      3707.76,
+      4333.864686468647
+     ],
+     "saving_pct": 73.74351827845476
+    },
+    "U-ORACLE_T@D": {
+     "diff": 5510.0,
+     "ci95": [
+      5510.0,
+      5510.0
+     ]
+    },
+    "U-ORACLE_T@INS_reg": {
+     "diff": 5434.527027027027,
+     "ci95": [
+      5285.635135135135,
+      5509.0
+     ]
+    },
+    "U-ORACLE_T@INS_design": {
+     "diff": 4430.0,
+     "ci95": [
+      4430.0,
+      4430.0
+     ]
+    },
+    "U-ORACLE_T@IND_real": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "ORACLE_U-ORACLE_T": {
+     "diff": 275.35357142857146,
+     "ci95": [
+      188.92763157894737,
+      393.01020408163265
+     ],
+     "saving_pct": 15.989539263019928
+    },
+    "ORACLE_U-ORACLE_T@D": {
+     "diff": 0.0,
+     "ci95": [
+      0.0,
+      0.0
+     ]
+    },
+    "ORACLE_U-ORACLE_T@INS_reg": {
+     "diff": 192.6891891891892,
+     "ci95": [
+      0.0,
+      556.3698630136986
+     ]
+    },
+    "ORACLE_U-ORACLE_T@INS_design": {
+     "diff": 1.5135135135135136,
+     "ci95": [
+      1.3943661971830985,
+      1.64
+     ]
+    },
+    "ORACLE_U-ORACLE_T@IND_real": {
+     "diff": 1081.5172413793102,
+     "ci95": [
+      1081.396551724138,
+      1081.655172413793
+     ]
+    },
+    "capture": 0.0
+   }
+  }
+ },
+ "typed5_modal_state0": {
+  "D": {
+   "MISSING_DATA": 7,
+   "VIOLATES": 35,
+   "COMPLIES": 31,
+   "MISSING_RULE": 1
+  },
+  "INS_reg": {
+   "MISSING_RULE": 52,
+   "VIOLATES": 11,
+   "MISSING_DATA": 6,
+   "COMPLIES": 4,
+   "INDETERMINATE": 1
+  },
+  "INS_design": {
+   "MISSING_DATA": 73,
+   "MISSING_RULE": 1
+  },
+  "IND_del": {
+   "INDETERMINATE": 57,
+   "MISSING_DATA": 5,
+   "MISSING_RULE": 3,
+   "VIOLATES": 6,
+   "COMPLIES": 3
+  },
+  "IND_sil": {
+   "MISSING_RULE": 63,
+   "VIOLATES": 6,
+   "MISSING_DATA": 2,
+   "COMPLIES": 2,
+   "INDETERMINATE": 1
+  },
+  "IND_real": {
+   "COMPLIES": 9,
+   "INDETERMINATE": 21,
+   "MISSING_RULE": 18,
+   "MISSING_DATA": 5,
+   "VIOLATES": 5
+  }
+ },
+ "hypotheses": {
+  "H1": {
+   "saving_pct": 28.569308873301615,
+   "ci95": [
+    1140.3474025974026,
+    2023.1907894736842
+   ],
+   "pass_": true
+  },
+  "H2": {
+   "capture": 0.40955248019055734,
+   "pass_": false
+  },
+  "H3_IND_channel": {
+   "diff": -14.662162162162161,
+   "ci95": [
+    -45.70422535211268,
+    -0.02631578947368421
+   ],
+   "pass_": false
+  },
+  "H4_RFI_channel": {
+   "diff": 1842.6756756756756,
+   "ci95": [
+    1336.7692307692307,
+    2383.0
+   ],
+   "pass_": true
+  },
+  "C1_reads_delegation": {
+   "early_escalation_diff": -0.10810810810810811,
+   "ci95": [
+    -0.18918918918918914,
+    -0.04054054054054057
+   ],
+   "pass_": false
+  }
+ }
+}

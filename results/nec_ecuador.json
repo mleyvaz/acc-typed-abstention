@@ -1,0 +1,30 @@
+{
+  "NEC-HS-AU": {
+    "n_sentences_total": 500,
+    "n_normative": 82,
+    "non_decidable": 5,
+    "decidable": 58,
+    "discretion": 3,
+    "qualitative": 2,
+    "rate": 6.097560975609756
+  },
+  "NEC-HS-CI": {
+    "n_sentences_total": 110,
+    "n_normative": 17,
+    "non_decidable": 0,
+    "decidable": 13,
+    "discretion": 0,
+    "qualitative": 0,
+    "rate": 0.0
+  },
+  "Inglaterra (UK_DocM V1+V2)": {
+    "n": 261,
+    "non_decidable": 37,
+    "rate": 14.17624521072797
+  },
+  "Finlandia (Finnish_Accessibility)": {
+    "n": 16,
+    "non_decidable": 5,
+    "rate": 31.25
+  }
+}
