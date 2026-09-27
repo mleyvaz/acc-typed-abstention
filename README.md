@@ -11,6 +11,7 @@ The paper asks which part of a building code admits a binary automated verdict a
 | `code/` | All scripts, numbered in execution order (see below) |
 | `data/` | Controlled batteries built from CODE-ACCORD (`battery_acc*.jsonl`), routing environments (`acc_route*.jsonl`) and the two Ecuadorian NEC chapters (`data/nec/`) |
 | `results/` | Every result file cited in the paper, plus `llm_cache/` (cached LLM responses; re-running with the cache costs 0 USD) |
+| `figures/` | Scripts that draw every figure of the paper (English and Spanish) from `results/` |
 | `docs/` | Preregistrations (`PREREG_RUTEO*.md`) with their SHA-256 hashes, the experiment plan and the result reports |
 
 ## Reproducing the results
@@ -26,7 +27,9 @@ python code/40_vti_stage0.py              # routing experiment, stage 0 (value o
 python code/41_build_acc_route.py && python code/42_run_agents.py && python code/43_analyze_route.py     # routing v1
 python code/44_build_acc_route2.py && python code/46_run_agents2.py && python code/47_analyze_route2.py  # routing v2 (preregistered)
 python code/48_dynamic_u_rival.py         # exploratory robustness: dynamic untyped rival
-python code/49_second_evaluator.py        # second evaluator for the I channel
+python code/49_second_evaluator.py        # second evaluator for the I channel (Llama-3.3-70B, 0.57 USD)
+python code/48c_ch_sensitivity.py         # sensitivity to the cost of formal interpretation
+python figures/make_figs_en.py            # figures
 ```
 
 Scripts that call language models use OpenRouter and read the key from the `OPENROUTER_API_KEY` environment variable. With `results/llm_cache/` present, the cached responses are reused.
