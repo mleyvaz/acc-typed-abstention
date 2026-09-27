@@ -1,4 +1,4 @@
-# Abstaining for the wrong reason: discretionary clauses and the limits of automated building-code compliance checking
+# How much of a building code admits an automated verdict? Discretionary clauses, open texture and abstention in LLM-based compliance checking
 
 Code, data and results for the paper by **Maikel Leyva-Vázquez** (Universidad Bernardo O'Higgins, Chile; Universidad de Guayaquil, Ecuador) and **Angélica María Neira Toledo** (Asociación Latinoamericana de Ciencias Neutrosóficas).
 
