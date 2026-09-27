@@ -1,0 +1,15 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "new_calls": 9735,
+ "in_tokens": 6383113,
+ "out_tokens": 717156,
+ "cost_usd": 0.358091701,
+ "null_answers": 10,
+ "total_calls": 10040,
+ "hard_cap_usd": 1.0,
+ "prices_per_M": [
+  0.037,
+  0.17
+ ],
+ "source": "usage tokens de OpenRouter x precios de llm.PRICES (15-sep-2026)"
+}

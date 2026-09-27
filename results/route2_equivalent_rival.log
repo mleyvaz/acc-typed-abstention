@@ -1,0 +1,168 @@
+
+== primary {'risk_max': 0.05, 'c_s': 10.0, 'c_e_mult': 1.0}
+  U         cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_dyn     cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq      cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq_dyn  cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  T         cost   3936.9 risk 0.061 commit 0.33 esc 0.67 rfi 0.15
+  ORACLE_T  cost   1668.6 risk 0.000 commit 0.75 esc 0.25 rfi 0.25
+  U-T                      +1573.1 [+1139.7, +2022.0] 28.5%
+  U-T@IND_del                -15.3 [-46.3, -0.3] 
+  U-T@INS_reg              +2037.3 [+1400.8, +2682.3] 
+  U-T@INS_design           +1842.4 [+1336.5, +2382.9] 
+  U-T@D                    +2427.8 [+1793.5, +3107.5] 
+  U_eq-T                   +1573.1 [+1139.7, +2022.0] 28.5%
+  U_eq-T@IND_del             -15.3 [-46.3, -0.3] 
+  U_eq-T@INS_reg           +2037.3 [+1400.8, +2682.3] 
+  U_eq-T@INS_design        +1842.4 [+1336.5, +2382.9] 
+  U_eq-T@D                 +2427.8 [+1793.5, +3107.5] 
+  U_eq_dyn-T               +1573.1 [+1139.7, +2022.0] 28.5%
+  U_eq_dyn-T@IND_del         -15.3 [-46.3, -0.3] 
+  U_eq_dyn-T@INS_reg       +2037.3 [+1400.8, +2682.3] 
+  U_eq_dyn-T@INS_design    +1842.4 [+1336.5, +2382.9] 
+  U_eq_dyn-T@D             +2427.8 [+1793.5, +3107.5] 
+  U-U_eq                      +0.0 [+0.0, +0.0] 0.0%
+  U-U_eq@IND_del              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_reg              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_design           +0.0 [+0.0, +0.0] 
+  U-U_eq@D                    +0.0 [+0.0, +0.0] 
+
+== norisk {'risk_max': 1.0, 'c_s': 10.0, 'c_e_mult': 1.0}
+  U         cost   2359.2 risk 0.104 commit 0.75 esc 0.25 rfi 0.48
+  U_dyn     cost   2359.2 risk 0.104 commit 0.75 esc 0.25 rfi 0.48
+  U_eq      cost   2452.2 risk 0.093 commit 0.72 esc 0.28 rfi 0.50
+  U_eq_dyn  cost   2452.2 risk 0.093 commit 0.72 esc 0.28 rfi 0.50
+  T         cost   2297.1 risk 0.069 commit 0.69 esc 0.31 rfi 0.28
+  ORACLE_T  cost   1668.6 risk 0.000 commit 0.75 esc 0.25 rfi 0.25
+  U-T                        +62.1 [-92.8, +197.9] 2.6%
+  U-T@IND_del               +856.5 [+748.7, +958.1] 
+  U-T@INS_reg               -460.0 [-873.3, -132.2] 
+  U-T@INS_design             -30.7 [-339.2, +273.6] 
+  U-T@D                     -117.4 [-354.9, +48.5] 
+  U_eq-T                    +155.1 [+5.9, +303.3] 6.3%
+  U_eq-T@IND_del            +929.9 [+826.1, +1018.1] 
+  U_eq-T@INS_reg            -385.5 [-810.3, -0.1] 
+  U_eq-T@INS_design         +118.2 [-176.9, +438.1] 
+  U_eq-T@D                   -42.0 [-301.2, +218.9] 
+  U_eq_dyn-T                +155.1 [+5.9, +303.3] 6.3%
+  U_eq_dyn-T@IND_del        +929.9 [+826.1, +1018.1] 
+  U_eq_dyn-T@INS_reg        -385.5 [-810.3, -0.1] 
+  U_eq_dyn-T@INS_design     +118.2 [-176.9, +438.1] 
+  U_eq_dyn-T@D               -42.0 [-301.2, +218.9] 
+  U-U_eq                     -93.0 [-207.6, +7.4] -3.9%
+  U-U_eq@IND_del             -73.4 [-142.1, -14.8] 
+  U-U_eq@INS_reg             -74.5 [-232.5, +0.0] 
+  U-U_eq@INS_design         -148.9 [-372.3, +0.0] 
+  U-U_eq@D                   -75.4 [-362.7, +189.7] 
+
+== ce3 {'risk_max': 0.05, 'c_s': 10.0, 'c_e_mult': 3.0}
+  U         cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_dyn     cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq      cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq_dyn  cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  T         cost   4160.3 risk 0.061 commit 0.33 esc 0.67 rfi 0.15
+  ORACLE_T  cost   1668.6 risk 0.000 commit 0.75 esc 0.25 rfi 0.25
+  U-T                      +1349.7 [+885.2, +1835.4] 24.5%
+  U-T@IND_del               -462.0 [-1005.5, -14.9] 
+  U-T@INS_reg              +1590.5 [+674.1, +2441.9] 
+  U-T@INS_design           +1842.4 [+1336.5, +2382.9] 
+  U-T@D                    +2427.8 [+1793.5, +3107.5] 
+  U_eq-T                   +1349.7 [+885.2, +1835.4] 24.5%
+  U_eq-T@IND_del            -462.0 [-1005.5, -14.9] 
+  U_eq-T@INS_reg           +1590.5 [+674.1, +2441.9] 
+  U_eq-T@INS_design        +1842.4 [+1336.5, +2382.9] 
+  U_eq-T@D                 +2427.8 [+1793.5, +3107.5] 
+  U_eq_dyn-T               +1349.7 [+885.2, +1835.4] 24.5%
+  U_eq_dyn-T@IND_del        -462.0 [-1005.5, -14.9] 
+  U_eq_dyn-T@INS_reg       +1590.5 [+674.1, +2441.9] 
+  U_eq_dyn-T@INS_design    +1842.4 [+1336.5, +2382.9] 
+  U_eq_dyn-T@D             +2427.8 [+1793.5, +3107.5] 
+  U-U_eq                      +0.0 [+0.0, +0.0] 0.0%
+  U-U_eq@IND_del              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_reg              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_design           +0.0 [+0.0, +0.0] 
+  U-U_eq@D                    +0.0 [+0.0, +0.0] 
+
+== norisk_ce3 {'risk_max': 1.0, 'c_s': 10.0, 'c_e_mult': 3.0}
+  U         cost   3265.3 risk 0.099 commit 0.72 esc 0.28 rfi 0.49
+  U_dyn     cost   3265.3 risk 0.099 commit 0.72 esc 0.28 rfi 0.49
+  U_eq      cost   3208.0 risk 0.090 commit 0.71 esc 0.29 rfi 0.51
+  U_eq_dyn  cost   3262.2 risk 0.095 commit 0.71 esc 0.29 rfi 0.51
+  T         cost   2874.0 risk 0.070 commit 0.68 esc 0.32 rfi 0.28
+  ORACLE_T  cost   1668.6 risk 0.000 commit 0.75 esc 0.25 rfi 0.25
+  U-T                       +391.4 [+91.4, +681.8] 12.0%
+  U-T@IND_del              +1775.8 [+1104.8, +2497.1] 
+  U-T@INS_reg               -504.2 [-978.8, -43.6] 
+  U-T@INS_design            +411.2 [-25.7, +932.4] 
+  U-T@D                     -117.4 [-722.5, +383.2] 
+  U_eq-T                    +334.1 [+78.8, +620.4] 10.4%
+  U_eq-T@IND_del           +1377.3 [+971.7, +1867.3] 
+  U_eq-T@INS_reg            -147.2 [-794.9, +544.9] 
+  U_eq-T@INS_design          +44.1 [-235.2, +327.7] 
+  U_eq-T@D                   +62.2 [-512.3, +590.7] 
+  U_eq_dyn-T                +388.2 [+110.6, +716.8] 11.9%
+  U_eq_dyn-T@IND_del       +1367.8 [+961.2, +1858.7] 
+  U_eq_dyn-T@INS_reg        -148.0 [-795.4, +543.8] 
+  U_eq_dyn-T@INS_design     +183.1 [-178.9, +608.1] 
+  U_eq_dyn-T@D              +149.9 [-458.1, +707.2] 
+  U-U_eq                     +57.3 [-250.5, +311.3] 1.8%
+  U-U_eq@IND_del            +398.5 [-141.1, +1027.4] 
+  U-U_eq@INS_reg            -357.0 [-1131.0, +257.7] 
+  U-U_eq@INS_design         +367.2 [-5.9, +792.2] 
+  U-U_eq@D                  -179.6 [-459.6, -0.6] 
+
+== cs1 {'risk_max': 0.05, 'c_s': 1.0, 'c_e_mult': 1.0}
+  U         cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_dyn     cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq      cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq_dyn  cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  T         cost   3935.8 risk 0.061 commit 0.33 esc 0.67 rfi 0.15
+  ORACLE_T  cost   1666.4 risk 0.000 commit 0.75 esc 0.25 rfi 0.25
+  U-T                      +1574.2 [+1140.3, +2023.2] 28.6%
+  U-T@IND_del                -14.7 [-45.7, -0.0] 
+  U-T@INS_reg              +2040.7 [+1402.9, +2687.1] 
+  U-T@INS_design           +1842.7 [+1336.8, +2383.0] 
+  U-T@D                    +2428.0 [+1793.5, +3107.6] 
+  U_eq-T                   +1574.2 [+1140.3, +2023.2] 28.6%
+  U_eq-T@IND_del             -14.7 [-45.7, -0.0] 
+  U_eq-T@INS_reg           +2040.7 [+1402.9, +2687.1] 
+  U_eq-T@INS_design        +1842.7 [+1336.8, +2383.0] 
+  U_eq-T@D                 +2428.0 [+1793.5, +3107.6] 
+  U_eq_dyn-T               +1574.2 [+1140.3, +2023.2] 28.6%
+  U_eq_dyn-T@IND_del         -14.7 [-45.7, -0.0] 
+  U_eq_dyn-T@INS_reg       +2040.7 [+1402.9, +2687.1] 
+  U_eq_dyn-T@INS_design    +1842.7 [+1336.8, +2383.0] 
+  U_eq_dyn-T@D             +2428.0 [+1793.5, +3107.6] 
+  U-U_eq                      +0.0 [+0.0, +0.0] 0.0%
+  U-U_eq@IND_del              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_reg              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_design           +0.0 [+0.0, +0.0] 
+  U-U_eq@D                    +0.0 [+0.0, +0.0] 
+
+== cs100 {'risk_max': 0.05, 'c_s': 100.0, 'c_e_mult': 1.0}
+  U         cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_dyn     cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq      cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  U_eq_dyn  cost   5510.0 risk 0.000 commit 0.00 esc 1.00 rfi 0.00
+  T         cost   3947.9 risk 0.061 commit 0.33 esc 0.67 rfi 0.15
+  ORACLE_T  cost   1691.5 risk 0.000 commit 0.75 esc 0.25 rfi 0.25
+  U-T                      +1562.1 [+1132.8, +2010.2] 28.4%
+  U-T@IND_del                -21.4 [-53.9, -2.6] 
+  U-T@INS_reg              +2003.2 [+1379.7, +2641.1] 
+  U-T@INS_design           +1840.0 [+1334.2, +2381.6] 
+  U-T@D                    +2426.6 [+1793.5, +3106.2] 
+  U_eq-T                   +1562.1 [+1132.8, +2010.2] 28.4%
+  U_eq-T@IND_del             -21.4 [-53.9, -2.6] 
+  U_eq-T@INS_reg           +2003.2 [+1379.7, +2641.1] 
+  U_eq-T@INS_design        +1840.0 [+1334.2, +2381.6] 
+  U_eq-T@D                 +2426.6 [+1793.5, +3106.2] 
+  U_eq_dyn-T               +1562.1 [+1132.8, +2010.2] 28.4%
+  U_eq_dyn-T@IND_del         -21.4 [-53.9, -2.6] 
+  U_eq_dyn-T@INS_reg       +2003.2 [+1379.7, +2641.1] 
+  U_eq_dyn-T@INS_design    +1840.0 [+1334.2, +2381.6] 
+  U_eq_dyn-T@D             +2426.6 [+1793.5, +3106.2] 
+  U-U_eq                      +0.0 [+0.0, +0.0] 0.0%
+  U-U_eq@IND_del              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_reg              +0.0 [+0.0, +0.0] 
+  U-U_eq@INS_design           +0.0 [+0.0, +0.0] 
+  U-U_eq@D                    +0.0 [+0.0, +0.0] 

@@ -3,7 +3,8 @@
 (ACC_TypedAbstention_2026/paper/figs_es/make_figs_es.py, not modified).
 
 RULE: no number typed by hand. Every plotted value and every n printed in a figure is read from a file in
-ACC_TypedAbstention_2026/results/. Figure 6 is a conceptual diagram without data.
+results/, except the RFI cost line in Fig. 5b, which is imported from code/47_analyze_route2.py (constant C_RFI).
+Usage: python make_figs_en.py [--results PATH]  (default: ../results relative to this script, or env ACC_RESULTS) Figure 6 is a conceptual diagram without data.
 
 Usage: python make_figs_en.py   (writes Fig1..Fig6 *.png at 300 dpi in this folder)
 """
@@ -15,13 +16,23 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
 
 HERE = Path(__file__).resolve().parent
-RES = HERE.parent / "results"
+import os, sys
+# results/ folder: --results PATH, or env ACC_RESULTS, or ../results relative to this script (repository layout)
+_arg = next((sys.argv[i + 1] for i, x in enumerate(sys.argv[:-1]) if x == "--results"), None)
+RES = Path(_arg or os.environ.get("ACC_RESULTS") or (HERE.parent / "results")).resolve()
 DPI = 300
 plt.rcParams.update({"font.family": "Arial", "font.size": 9, "axes.titlesize": 9.5, "axes.labelsize": 9,
                      "axes.spines.top": False, "axes.spines.right": False, "axes.edgecolor": "#555555",
                      "axes.linewidth": 0.7, "legend.frameon": False})
 INK, MUTED = "#222222", "#8a8a8a"
 BLUE, ORANGE, GREEN, RED, PURPLE, GREY = "#2f6db3", "#d9822b", "#3a8f5c", "#b84a4a", "#7a5aa6", "#bdbdbd"
+
+
+def a47_cost_rfi():
+    """RFI cost read from the frozen analysis script 47 (constant C_RFI), not typed here."""
+    import importlib.util
+    sp = importlib.util.spec_from_file_location("a47", str(RES.parent / "code" / "47_analyze_route2.py"))
+    m = importlib.util.module_from_spec(sp); sp.loader.exec_module(m); return m.C_RFI
 
 
 def load(name):
@@ -73,7 +84,7 @@ def fig1():
 # ------------------------------------------------------------------ Fig 2 decidability
 def fig2():
     ca, jr, comp, fp = load("condicion_A.json"), load("jurisdiction_rates.json"), load("nec_comparacion.json"), load("framing_probe.json")
-    fig, (a1, a2, a3) = plt.subplots(1, 3, figsize=(7.4, 2.9), gridspec_kw={"width_ratios": [1.15, 0.8, 1.4], "wspace": 0.55})
+    fig, (a1, a2, a3) = plt.subplots(1, 3, figsize=(8.2, 3.2), gridspec_kw={"width_ratios": [1.1, 0.7, 1.7], "wspace": 0.55})
     N = ca["N"]
     labels = ["quantified\n('decidable')", "non-decidable", "· explicit discretion", "· qualitative,\n  no number"]
     vals = [jr["decidable"], ca["A_union"], ca["A_strict"], ca["A_qual"]]
@@ -98,7 +109,7 @@ def fig2():
     a3.bar([i + w / 2 for i in x], nd, w, color=GREY, label="non-decidable (unstable for Ecuador)")
     for i in x:
         a3.text(i - w / 2, num[i] + 1, f"{num[i]:.1f}", ha="center", fontsize=6.3)
-    a3.set_xticks(list(x)); a3.set_xticklabels([f"{l}\nn={comp[k]['n']}" for l, k in zip(lab, keys)], fontsize=6.4)
+    a3.set_xticks(list(x)); a3.set_xticklabels([f"{l}\nn={comp[k]['n']}" for l, k in zip(lab, keys)], fontsize=6.2, rotation=35, ha="right", rotation_mode="anchor")
     a3.set_ylim(0, 90); a3.set_ylabel("% of sentences"); a3.legend(fontsize=6.3, loc="upper left")
     a3.set_title("(c) Accessibility: England vs Ecuador", loc="left")
     save(fig, "Fig2_decidability.png")
@@ -174,23 +185,24 @@ def fig4():
 
 # ------------------------------------------------------------------ Fig 5 routing: channels, dynamic rival, c_h
 def fig5():
-    dyn = load("route2_dynamic_u_rival.json")["configs"]; chs = load("route2_ch_sensitivity.json")["results"]
+    dyn = load("route2_dynamic_u_rival.json")["configs"]; chs_meta = load("route2_ch_sensitivity.json"); chs = chs_meta["results"]; eq = load("route2_equivalent_rival.json")["configs"]
     fig, (a1, a2) = plt.subplots(1, 2, figsize=(7.4, 3.2), gridspec_kw={"width_ratios": [1.25, 1], "wspace": 0.4})
     chan = ["IND_del", "INS_reg", "INS_design", "D"]; y = list(range(len(chan)))[::-1]
     for off, cfg, col, lab in [(0.18, "norisk", BLUE, "c_e = c_h"), (-0.18, "norisk_ce3", ORANGE, "c_e = 3 c_h")]:
-        P = dyn[cfg]["sets"]["primary"]["contrasts"]
+        P = dyn[cfg]["sets"]["primary"]["contrasts"]; Q = eq[cfg]["sets"]["primary"]["contrasts"]
         for yi, c in zip(y, chan):
             v = P[f"U-T@{c}"]; vd = P[f"U_dyn-T@{c}"]
             a1.errorbar(v["diff"], yi + off, xerr=[[v["diff"] - v["ci95"][0]], [v["ci95"][1] - v["diff"]]], fmt="o", color=col, ms=4, capsize=2, lw=1, label=lab if c == chan[0] else None)
             a1.plot(vd["diff"], yi + off, marker="x", color=INK, ms=6, lw=0, label="dynamic rival U_dyn" if (c == chan[0] and cfg == "norisk") else None)
+            ve = Q[f"U_eq-T@{c}"]; a1.plot(ve["diff"], yi + off, marker="D", mfc="white", mec=PURPLE, ms=5, lw=0, label="equivalent-instruction rival U_eq" if (c == chan[0] and cfg == "norisk") else None)
     a1.axvline(0, color=MUTED, lw=0.8)
     a1.set_yticks(y); a1.set_yticklabels(chan); a1.set_xlabel("untyped − typed cost, USD per case (95% CI)")
     a1.legend(fontsize=6.6, loc="lower right"); a1.set_title("(a) Saving by channel (no risk limit)", loc="left")
-    vals = [584, 1168, 2920, 5510]
+    vals = chs_meta["c_h_values"]; C_RFI = a47_cost_rfi()
     for mult, col in [(1, BLUE), (3, ORANGE)]:
         ys = [chs[f"ch{v}_ce{mult}x_risk1.0"]["contrasts"]["U_dyn-T@IND_del"] for v in vals]
         a2.errorbar(vals, [q["diff"] for q in ys], yerr=[[q["diff"] - q["ci95"][0] for q in ys], [q["ci95"][1] - q["diff"] for q in ys]], fmt="-o", color=col, ms=4, capsize=2, lw=1, label=f"c_e = {mult} c_h" if mult == 3 else "c_e = c_h")
-    a2.axvline(1080, color=RED, lw=0.9, ls="--"); a2.text(1130, 1200, "RFI cost\n(USD 1,080)", color=RED, fontsize=6.6)
+    a2.axvline(C_RFI, color=RED, lw=0.9, ls="--"); a2.text(C_RFI * 1.05, 1200, f"RFI cost\n(USD {C_RFI:,.0f})", color=RED, fontsize=6.6)
     a2.set_xscale("log"); a2.set_xticks(vals); a2.set_xticklabels([str(v) for v in vals], fontsize=7)
     a2.set_xlabel("cost of a formal interpretation c_h (USD)"); a2.set_ylabel("saving on IND_del, USD per case")
     a2.axhline(0, color=MUTED, lw=0.8); a2.legend(fontsize=6.8, loc="center right", bbox_to_anchor=(1.0, 0.62))
@@ -200,12 +212,19 @@ def fig5():
 
 # ------------------------------------------------------------------ Fig 6 conceptual
 def fig6():
-    fig, ax = plt.subplots(figsize=(7.4, 3.2)); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
+    modal = load("route2_analysis_primary.json")["typed5_modal_state0"]["IND_real"]
+    dyn = load("route2_dynamic_u_rival.json")["configs"]["norisk"]["sets"]
+    real = dyn["external_real"]["contrasts"]["U_dyn-T"]; twin = dyn["primary"]["contrasts"]["U_dyn-T@IND_del"]
+    fig, ax = plt.subplots(figsize=(7.4, 3.6)); ax.set_xlim(0, 1); ax.set_ylim(-0.12, 1); ax.axis("off")
+    ax.text(0.5, -0.02, f"Routing v2, no risk limit (proposal, not proof): typed routing saves USD {twin['diff']:,.0f} per case on LLM-generated delegated twins; "
+            f"on real discretionary clauses the model says INDETERMINATE in {modal.get('INDETERMINATE', 0)}/{sum(modal.values())} cases\n"
+            f"and the total saving on that set is USD {real['diff']:,.0f} (95% CI {real['ci95'][0]:,.0f} to {real['ci95'][1]:,.0f}).",
+            ha="center", va="top", fontsize=6.6, color=MUTED, style="italic")
     cols = [(0.02, "Evidential uncertainty", "#fdf0e3", ORANGE, "'The governing clause was not retrieved,\nor the design omits the value'",
-             "The norm fixes the requirement;\ninformation about the case is missing.", "Does more evidence resolve it?  YES",
+             "The norm fixes the requirement;\ninformation about the case is missing.", "More case evidence resolves it?  YES",
              "ABSTAIN_INSUFFICIENT\n-> engineering (retrieve, index)\n-> designer (RFI)"),
             (0.51, "Normative vagueness (open texture)", "#eaf5ee", GREEN, "'Mechanical ventilation systems must be\ncommissioned to provide adequate ventilation'",
-             "The norm delegates: it does not fix the\nextension of the predicate 'adequate'.", "Does more evidence resolve it?  NO",
+             "The norm delegates: it does not fix the extension\nof 'adequate' (*unless an incorporated standard\nor accepted practice supplies a criterion).", "More case evidence resolves it?  NOT BY ITSELF*",
              "ABSTAIN_INDETERMINATE\n-> interpreting authority\n   (reviewer, responsible professional)")]
     for x, title, fc, ec, ex, what, test, route in cols:
         w = 0.47

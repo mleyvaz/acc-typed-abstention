@@ -1,0 +1,428 @@
+{"id": "s0022_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0022_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0022_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0022_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0022_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}}}
+{"id": "s0022_3_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0022_3_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0022_3_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0022_3_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0022_3_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0051_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0051_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0051_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0051_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0051_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0055_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0055_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0055_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0055_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0055_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0059_1_D", "untyped_eq": {"0|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0059_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "2|0": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0059_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0059_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0059_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "s0063_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 1, "VIOLATES": 4}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0063_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0063_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0063_1_IDEL", "untyped_eq": {"0|0": {"COMPLIES": 1, "CANNOT_DETERMINE": 4}, "1|0": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0063_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "s0084_1_D", "untyped_eq": {"0|0": {"COMPLIES": 2, "VIOLATES": 3}, "1|0": {"COMPLIES": 3, "VIOLATES": 2}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0084_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0084_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 3, "COMPLIES": 2}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 3, "VIOLATES": 2}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0084_1_IDEL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0084_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0088_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0088_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0088_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0088_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0088_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0088_2_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0088_2_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0088_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0088_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0088_2_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0103_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0103_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0103_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0103_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0103_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0117_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0117_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0117_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0117_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "1|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}}}
+{"id": "s0117_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0171_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}}}
+{"id": "s0171_1_INSR", "untyped_eq": {"0|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "1|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "2|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0171_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 1, "CANNOT_DETERMINE": 4}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0171_1_IDEL", "untyped_eq": {"0|0": {"VIOLATES": 1, "COMPLIES": 3, "CANNOT_DETERMINE": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "3|0": {"CANNOT_DETERMINE": 1, "COMPLIES": 4}}}
+{"id": "s0171_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "1|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "2|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0177_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0177_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0177_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0177_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0177_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0193_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0193_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0193_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0193_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0193_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 3, "VIOLATES": 1, "None": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "s0195_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0195_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0195_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0195_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0195_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0198_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0198_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0198_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0198_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0198_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0204_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "1|0": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 2, "COMPLIES": 1}}}
+{"id": "s0204_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0204_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0204_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0204_1_ISIL", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "s0223_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0223_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "1|0": {"VIOLATES": 4, "None": 1}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0223_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0223_1_IDEL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "s0223_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0224_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0224_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0224_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0224_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0224_1_ISIL", "untyped_eq": {"0|0": {"COMPLIES": 1, "CANNOT_DETERMINE": 4}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"COMPLIES": 1, "CANNOT_DETERMINE": 4}}}
+{"id": "s0230_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0230_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0230_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0230_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0230_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0241_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0241_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0241_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0241_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0241_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0263_1_D", "untyped_eq": {"0|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "1|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0263_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "1|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "2|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "3|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0263_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 1, "COMPLIES": 4}}}
+{"id": "s0263_1_IDEL", "untyped_eq": {"0|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"COMPLIES": 1, "CANNOT_DETERMINE": 4}, "2|0": {"COMPLIES": 1, "CANNOT_DETERMINE": 4}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0263_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0266_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0266_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "2|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0266_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0266_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0266_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}, "1|0": {"VIOLATES": 1, "CANNOT_DETERMINE": 4}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"VIOLATES": 1, "CANNOT_DETERMINE": 4}}}
+{"id": "s0269_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0269_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0269_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0269_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0269_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0284_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0284_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0284_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0284_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0284_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0284_2_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0284_2_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0284_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0284_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0284_2_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0288_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0288_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0288_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0288_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0288_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0308_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0308_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "1|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0308_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0308_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0308_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0353_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0353_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0353_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0353_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "None": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "None": 1}}}
+{"id": "s0353_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0422_2_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0422_2_INSR", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0422_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0422_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0422_2_ISIL", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0435_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0435_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0435_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0435_1_IDEL", "untyped_eq": {"0|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0435_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "s0463_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0463_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0463_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0463_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0463_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0464_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0464_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0464_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0464_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0464_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0478_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0478_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 1, "COMPLIES": 4}, "2|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0478_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0478_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0478_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0478_2_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0478_2_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0478_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 1, "COMPLIES": 4}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}}}
+{"id": "s0478_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0478_2_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0491_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0491_1_INSR", "untyped_eq": {"0|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0491_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0491_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0491_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 1, "VIOLATES": 4}, "3|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "s0492_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0492_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "3|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}}}
+{"id": "s0492_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}}}
+{"id": "s0492_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0492_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0492_2_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0492_2_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0492_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 4, "None": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0492_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0492_2_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0494_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0494_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0494_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0494_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0494_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0495_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0495_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0495_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0495_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0495_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0507_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0507_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0507_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0507_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "3|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "s0507_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}, "3|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}}}
+{"id": "s0509_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0509_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0509_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 4, "None": 1}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0509_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0509_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0512_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0512_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0512_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0512_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0512_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0514_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0514_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0514_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0514_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0514_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0521_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0521_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0521_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0521_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0521_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0523_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0523_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0523_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0523_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0523_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0579_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0579_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0579_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0579_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "s0579_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0592_1_D", "untyped_eq": {"0|0": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0592_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0592_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0592_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0592_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0597_1_D", "untyped_eq": {"0|0": {"VIOLATES": 1, "CANNOT_DETERMINE": 4}, "1|0": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0597_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0597_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0597_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0597_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0603_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0603_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0603_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0603_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0603_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0603_2_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0603_2_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0603_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0603_2_IDEL", "untyped_eq": {"0|0": {"COMPLIES": 1, "CANNOT_DETERMINE": 4}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0603_2_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0615_2_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0615_2_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0615_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0615_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0615_2_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0619_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"VIOLATES": 1, "CANNOT_DETERMINE": 4}, "3|0": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0619_1_INSR", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0619_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 1, "CANNOT_DETERMINE": 4}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}}}
+{"id": "s0619_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0619_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0622_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0622_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0622_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0622_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0622_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0647_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0647_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 4, "None": 1}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0647_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0647_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0647_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0649_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0649_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0649_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0649_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0649_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "s0656_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0656_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 4, "None": 1}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0656_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0656_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0656_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0660_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0660_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0660_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0660_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0660_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "3|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0661_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0661_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0661_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0661_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0661_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0668_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 1, "COMPLIES": 4}, "2|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "3|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0668_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "s0668_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 1, "COMPLIES": 4}}}
+{"id": "s0668_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0668_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0671_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "s0671_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "3|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}}}
+{"id": "s0671_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 1, "CANNOT_DETERMINE": 4}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}}}
+{"id": "s0671_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "s0671_1_ISIL", "untyped_eq": {"0|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0680_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0680_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0680_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0680_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0680_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0681_2_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0681_2_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0681_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0681_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}}}
+{"id": "s0681_2_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0696_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0696_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0696_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0696_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0696_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0712_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0712_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0712_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0712_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0712_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "1|0": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0716_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0716_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0716_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0716_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0716_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0729_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0729_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0729_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 4, "None": 1}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0729_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0729_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0745_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0745_1_INSR", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0745_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0745_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "s0745_1_ISIL", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "3|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}}}
+{"id": "s0745_2_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 1, "VIOLATES": 4}, "2|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "3|0": {"CANNOT_DETERMINE": 1, "VIOLATES": 4}}}
+{"id": "s0745_2_INSR", "untyped_eq": {"0|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}}}
+{"id": "s0745_2_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0745_2_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0745_2_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "3|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}}}
+{"id": "s0768_1_D", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0768_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0768_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0768_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0768_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0770_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 1, "VIOLATES": 3, "COMPLIES": 1}, "1|0": {"CANNOT_DETERMINE": 1, "VIOLATES": 4}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0770_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}, "1|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "2|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0770_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 4, "COMPLIES": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 4, "None": 1}, "2|1": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "s0770_1_IDEL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0770_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0827_1_D", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 1, "COMPLIES": 3, "VIOLATES": 1}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 3, "VIOLATES": 2}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0827_1_INSR", "untyped_eq": {"0|0": {"VIOLATES": 3, "CANNOT_DETERMINE": 2}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "s0827_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 3, "COMPLIES": 1, "CANNOT_DETERMINE": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"COMPLIES": 5}}}
+{"id": "s0827_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}, "1|0": {"CANNOT_DETERMINE": 2, "VIOLATES": 3}, "2|0": {"VIOLATES": 2, "CANNOT_DETERMINE": 3}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0827_1_ISIL", "untyped_eq": {"0|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0832_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0832_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0832_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0832_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0832_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0851_1_D", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0851_1_INSR", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "s0851_1_INSD", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "0|1": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "1|1": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "2|1": {"VIOLATES": 5}, "3|0": {"CANNOT_DETERMINE": 5}, "3|1": {"VIOLATES": 5}}}
+{"id": "s0851_1_IDEL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "s0851_1_ISIL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0010_IREAL", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0019_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0060_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0087_IREAL", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0090_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}, "3|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}}}
+{"id": "r0096_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0107_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0120_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0156_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "r0192_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0196_IREAL", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0200_IREAL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"CANNOT_DETERMINE": 3, "VIOLATES": 2}, "3|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}}}
+{"id": "r0219_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0225_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0242_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0274_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0280_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0294_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "1|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "2|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "3|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}}}
+{"id": "r0305_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0310_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0314_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0315_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0318_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0349_IREAL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"VIOLATES": 5}, "2|0": {"VIOLATES": 5}, "3|0": {"VIOLATES": 5}}}
+{"id": "r0370_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0376_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0378_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "r0391_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0401_IREAL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0410_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0445_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}}}
+{"id": "r0452_IREAL", "untyped_eq": {"0|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"COMPLIES": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0488_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0510_IREAL", "untyped_eq": {"0|0": {"COMPLIES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0526_IREAL", "untyped_eq": {"0|0": {"VIOLATES": 4, "CANNOT_DETERMINE": 1}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 4, "VIOLATES": 1}}}
+{"id": "r0533_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0545_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "1|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0556_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "1|0": {"COMPLIES": 5}, "2|0": {"CANNOT_DETERMINE": 2, "COMPLIES": 3}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0571_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0606_IREAL", "untyped_eq": {"0|0": {"VIOLATES": 5}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0612_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0620_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0621_IREAL", "untyped_eq": {"0|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "1|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "2|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}, "3|0": {"COMPLIES": 2, "CANNOT_DETERMINE": 3}}}
+{"id": "r0646_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "r0648_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0665_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0674_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0684_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0693_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0718_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "1|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}}}
+{"id": "r0773_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0778_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0779_IREAL", "untyped_eq": {"0|0": {"COMPLIES": 5}, "1|0": {"CANNOT_DETERMINE": 3, "COMPLIES": 2}, "2|0": {"COMPLIES": 5}, "3|0": {"COMPLIES": 3, "CANNOT_DETERMINE": 2}}}
+{"id": "r0806_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"COMPLIES": 5}}}
+{"id": "r0816_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0834_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0850_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 5}, "3|0": {"CANNOT_DETERMINE": 5}}}
+{"id": "r0853_IREAL", "untyped_eq": {"0|0": {"CANNOT_DETERMINE": 5}, "1|0": {"CANNOT_DETERMINE": 5}, "2|0": {"CANNOT_DETERMINE": 4, "COMPLIES": 1}, "3|0": {"CANNOT_DETERMINE": 5}}}

@@ -1,0 +1,19 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "effort": "low",
+ "k": 5,
+ "planned_calls": 10040,
+ "pilot_calls": 30,
+ "mean_prompt_tokens": 627.5,
+ "mean_completion_tokens": 76.6,
+ "pilot_cost_usd": 0.001087185,
+ "est_cost_per_call_usd": 3.6239500000000004e-05,
+ "estimated_total_usd": 0.36384458000000003,
+ "prices_per_M": [
+  0.037,
+  0.17
+ ],
+ "hard_cap_usd": 1.0,
+ "decision": "RUN",
+ "note": "tokens medidos en llamadas reales (usage de OpenRouter, precios de llm.PRICES); margen 30 %"
+}

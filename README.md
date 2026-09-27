@@ -28,6 +28,7 @@ python code/41_build_acc_route.py && python code/42_run_agents.py && python code
 python code/44_build_acc_route2.py && python code/46_run_agents2.py && python code/47_analyze_route2.py  # routing v2 (preregistered)
 python code/48_dynamic_u_rival.py         # exploratory robustness: dynamic untyped rival
 python code/49_second_evaluator.py        # second evaluator for the I channel (Llama-3.3-70B, 0.57 USD)
+python code/51_equivalent_rival.py        # exploratory: untyped rival with the same instructions as T (0.36 USD)
 python code/48c_ch_sensitivity.py         # sensitivity to the cost of formal interpretation
 python figures/make_figs_en.py            # figures
 ```
